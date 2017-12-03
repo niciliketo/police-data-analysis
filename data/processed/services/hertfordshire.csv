@@ -1,0 +1,19 @@
+Services,./hertfordshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./hertfordshire.csv,DNA test,14.50,399.0,2016-02-23,"This item is purchased on behalf of all three forces (Bedfordshire, Cambridgeshire and Hertfordshire)."
+Services,./hertfordshire.csv,Toxicology test,28.00,300.0,2016-02-26,"Purchases are made jointly on behalf of Bedfordshire, Cambridgeshire and Hertfordshire by a single department."
+Services,./hertfordshire.csv,Mobile phone examination,,,,Service provided in-house by the Hi-tech crime unit. In extreme cases the force requires specialist work from an external supplier at £250 or £650 per unit. The former was most recently purchased for 3 phones on 08 February 2016.
+Services,./hertfordshire.csv,Forensic stain analysis,65.00,3.0,2016-02-22,
+Services,./hertfordshire.csv,Credit report or search,1.10,1403.0,2015-11-30,Service paid for in advance.
+Services,./hertfordshire.csv,Temporary staff administrator role,11.74,37.0,2016-01-22,Hourly rate includes agency fee and statutory charges.
+Services,./hertfordshire.csv,one-day car hire,19.49,1.0,2015-12-03,
+Services,./hertfordshire.csv,30-day car hire,,,,There is no record of a 30-day vehicle hire agreement.
+Services,./hertfordshire.csv,Ream of 500 sheets of white paper,1.87,50.0,2016-04-02,Volume information based on 10 boxes of 5 reams last bought.
+Services,./hertfordshire.csv,Telephone interpreting inc. recording services (per minute),0.68,8.0,2016-01-31,
+Services,./hertfordshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-01-31,
+Services,./hertfordshire.csv,Standard office cleaning (force average per m2 per year),15.45,,2015-04-01,Cost is per m2 per annum.
+Services,./hertfordshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0189,6425.0,2016-02-09,
+Services,./hertfordshire.csv,Laptop purchase,756.00,3.0,2016-01-28,
+Services,./hertfordshire.csv,Desktop purchase,316.23,31.0,2016-01-29,HP Elite Desk 705
+Services,./hertfordshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,
+Services,./hertfordshire.csv,"PC monitor - 21"" or wider (inc. cables)",125.00,1.0,2016-01-22,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./hertfordshire.csv,Telephone call charges (per minute),0.0085,,,"There are no peak and off peak rates - just a flat rate; usage is small, as the force predominately uses VOIP."

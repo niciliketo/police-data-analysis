@@ -1,0 +1,21 @@
+Equipment,./greater-manchester.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Equipment,./greater-manchester.csv,Custodian style Police Helmet,28.90,27,2015-07-09,
+Equipment,./greater-manchester.csv,Fleece,32.54,35,2015-07-09,
+Equipment,./greater-manchester.csv,Trousers,8.95,3875,2015-06-30,
+Equipment,./greater-manchester.csv,Shirt,4.75,1302,2015-07-07,"Short-sleeved shirts, long-sleeved shirts £5.25."
+Equipment,./greater-manchester.csv,Epaulettes,2.10,750,2015-05-21,
+Equipment,./greater-manchester.csv,Belt,3.27,201,2015-07-09,
+Equipment,./greater-manchester.csv,Anorak/ waterproof jacket,67.71,20,2015-07-08,
+Equipment,./greater-manchester.csv,Hi Visibility jacket,38.56,50,2015-07-09,
+Equipment,./greater-manchester.csv,Cut resistant gloves,12.95,170,2015-07-09,
+Equipment,./greater-manchester.csv,Boots,,,,Not bought. The force does not issue boots.
+Equipment,./greater-manchester.csv,Utility belt,4.25,55,2015-07-09,
+Equipment,./greater-manchester.csv,General Patrol full body armour,222.00,38,2015-07-09,Same price for male and female body armours.
+Equipment,./greater-manchester.csv,General Patrol body armour vest,57.60,53,2015-07-09,
+Equipment,./greater-manchester.csv,Standard Issue Handcuffs,18.35,175,2015-07-09,
+Equipment,./greater-manchester.csv,Baton,55.91,75,2015-07-09,
+Equipment,./greater-manchester.csv,Airwave radio (hand held),413.25,51,2014-03-27,Inc. aerial and battery
+Equipment,./greater-manchester.csv,Airwave radio (vehicle),765.15,13,2015-02-27,Inc. installation kit
+Equipment,./greater-manchester.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,11471.21,54,2014-07-22,"Hyundai for divisional use, not fully converted but commissioning inc. radio."
+Equipment,./greater-manchester.csv,Compact High performance estate vehicle - fully converted,28781.12,2,2014-08-05,"Date of order, not purchase. BMW for traffic use, not fully converted but commissioning inc. radio."
+Equipment,./greater-manchester.csv,Fully kitted cell van,20058.69,14,2014-08-07,"Date of order, not purchase. Vauxhall Vivaro converted cell van inc. radio."

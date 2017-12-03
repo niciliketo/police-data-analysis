@@ -1,0 +1,860 @@
+Equipment,./staffordshire.csv,Custodian style Police Helmet,28.90,80,2014-12-18,
+Equipment,./staffordshire.csv,Fleece,38.95,65,2015-05-14,
+Equipment,./staffordshire.csv,Trousers,8.95,560,2015-07-15,
+Equipment,./staffordshire.csv,Shirt,4.25,1400,2015-03-20,
+Equipment,./staffordshire.csv,Epaulettes,1.60,300,2015-07-02,
+Equipment,./staffordshire.csv,Belt,3.91,160,2015-04-30,
+Equipment,./staffordshire.csv,Anorak/ waterproof jacket,71.95,62,2015-05-14,
+Equipment,./staffordshire.csv,Hi Visibility jacket,71.95,,,
+Equipment,./staffordshire.csv,Cut resistant gloves,15.99,100,2015-04-30,
+Equipment,./staffordshire.csv,Boots,,,,Not bought. The force only issues boots to officers for specialist roles.
+Equipment,./staffordshire.csv,Utility belt,5.55,100,2014-12-17,
+Equipment,./staffordshire.csv,General Patrol full body armour,228.00,16,2015-07-08,"Female armours, purchased with male armours at £276.00."
+Equipment,./staffordshire.csv,General Patrol body armour vest,45.00,1,2015-07-08,
+Equipment,./staffordshire.csv,Standard Issue Handcuffs,16.95,50,2014-12-04,
+Equipment,./staffordshire.csv,Baton,82.91,,,Not bought for over five years. The force recycles departed officers' batons for re-use.
+Equipment,./staffordshire.csv,Airwave radio (hand held),,,,No record of purchase for years - any previous purchased would have been made in accordance with the national airwave framework.
+Equipment,./staffordshire.csv,Airwave radio (vehicle),585.00,20,2015-06-21,
+Equipment,./staffordshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,Not bought. 
+Equipment,./staffordshire.csv,Compact High performance estate vehicle - fully converted,17349.62,1,2015-02-26,"Vauxhall Astra, converted inc. commissioning parts and labour, first registration fee."
+Equipment,./staffordshire.csv,Fully kitted cell van,25148.26,1,2015-07-16,"Vauxhall Vivaro, converted inc. commissioning parts and labour, first registration fee."
+Equipment,./west-mercia.csv,Custodian style Police Helmet,28.90,730,2015-04-23,Joint purchase with Warwickshire under West Midlands Police national headwear contract.
+Equipment,./west-mercia.csv,Fleece,38.95,460,2015-05-11,Joint purchase with Warwickshire. The force aims to move to the Metropolitan Police Service contract when samples are approved to purchase the garment at a lower price.
+Equipment,./west-mercia.csv,Trousers,9.20,30,2015-08-25,"Polycotton trousers. Order date for joint purchase with Warwickshire. Prices range from £6.60 to £9.20 depending on male, female, size (waist/length) specifications. The price quoted is for the largest quantity on order and for a particular waist/leg measurement for the male garment. The force previously purchased 2,265 male polywool trousers at £18.20 with Warwickshire, on 16/04/2015. Awaiting outcome of Yorkshire tender for future purchasing."
+Equipment,./west-mercia.csv,Shirt,3.99,650,2015-04-16,Under-armour shirts. Joint purchase with Warwickshire. The force will be moving to the West Yorkshire Police contract to purchase the item at a lower price.
+Equipment,./west-mercia.csv,Epaulettes,3.25,112,2015-07-21,Epaulettes. Joint purchase with Warwickshire. The force will be moving to the Metropolitan Police Service contract when samples are approved to purchase epaulettes at a lower price.
+Equipment,./west-mercia.csv,Belt,3.30,50,2015-07-23,Joint purchase with Warwickshire. The force will be moving to the North Wales Police contract to purchase the item at a lower price.
+Equipment,./west-mercia.csv,Anorak/ waterproof jacket,95.45,2500,2014-12-16,3/4 length high visibility coat. Joint purchase with Warwickshire. The force will be moving to the Metropolitan Police Service contract when samples are approved to purchase the item at a lower price.
+Equipment,./west-mercia.csv,Hi Visibility jacket,69.95,500,2015-05-11,Blousons. Joint purchase with Warwickshire. The force will be moving to the Metropolitan Police Service contract when samples are approved to purchase the item at a lower price.
+Equipment,./west-mercia.csv,Cut resistant gloves,,,,Not bought. The force does not issue cut resistant gloves to patrol officers.
+Equipment,./west-mercia.csv,Boots,,,,Not bought. The force does not issue boots to patrol officers.
+Equipment,./west-mercia.csv,Utility belt,4.22,170,2015-05-22,Joint purchase with Warwickshire. The force will be moving to the North Wales Police contract to purchase the item at a lower price.
+Equipment,./west-mercia.csv,General Patrol full body armour,347.00,33,2015-07-20,"Order date as the force is migrating to a new contract led by West Midlands Police as part of a uniform alignment exercise with Warwickshire, via the Metropolitan Police Service national body armour framework agreement. Price includes the vest carrier for body armour plates at £66.00."
+Equipment,./west-mercia.csv,General Patrol body armour vest,85.80,5,2014-10-01,Carriage system. Joint purchase with Warwickshire via the Gloucestershire framework. The force also purchases the vest carrier for body armour plates at £66.00 (included in the separate general patrol body armour price).
+Equipment,./west-mercia.csv,Standard Issue Handcuffs,15.60,100,2015-06-29,Joint purchase with Warwickshire under the Metropolitan Police Service national contract.
+Equipment,./west-mercia.csv,Baton,53.48,750,2015-07-16,Joint purchase with Warwickshire under the Metropolitan Police Service national contract.
+Equipment,./west-mercia.csv,Airwave radio (hand held),390.00,51,2015-02-13,"Joint purchase with Warwickshire via the Metropolitan Police Service national framework. Price exc. extended helical antenna, batteries, click fast stud (£459 total price)."
+Equipment,./west-mercia.csv,Airwave radio (vehicle),650.00,5,2015-05-21,Joint purchase with Warwickshire via the Metropolitan Police Service national framework. Price inc. colour console (£134).
+Equipment,./west-mercia.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,15805.50,88,2014-12-01,"Joint order with Warwickshire via the previous national framework - 82 delivered to date. Vauxhall Astra, diesel and low emissions model. The force will be moving to the new vehicle purchase framework in 2015."
+Equipment,./west-mercia.csv,Compact High performance estate vehicle - fully converted,28028.04,2,2014-11-14,Joint purchase with Warwickshire under previous national framework. BMW vehicles. The force will be moving to the new vehicle purchase framework in 2015.
+Equipment,./west-mercia.csv,Fully kitted cell van,22969.36,36,2014-12-01,Joint order with Warwickshire via previous national framework. Vauxhall - only 9 delivered to date. The force will be moving to the new vehicle purchase framework in 2015.
+Equipment,./essex.csv,Custodian style Police Helmet,28.90,40,2015-06-09,The force recycles helmets to keep costs down.
+Equipment,./essex.csv,Fleece,20.39,80,2015-07-03,Exc. badges.
+Equipment,./essex.csv,Trousers,13.60,2,2015-07-24,
+Equipment,./essex.csv,Shirt,3.99,5,2015-07-07,Plain shirts. Logos and numbers etc are stitched in-house.
+Equipment,./essex.csv,Epaulettes,1.25,400,2015-03-25,Plain epaulettes. Logos and numbers etc are stitched in-house.
+Equipment,./essex.csv,Belt,3.27,20,2015-07-24,
+Equipment,./essex.csv,Anorak/ waterproof jacket,89.00,30,2015-07-02,The force has an outsourced store to manage stock levels.
+Equipment,./essex.csv,Hi Visibility jacket,87.75,40,2015-06-09,The force has an outsourced store to manage stock levels.
+Equipment,./essex.csv,Cut resistant gloves,34.50,2,2013-11-28,The force issues cut resistant gloves which are also spike resistant.
+Equipment,./essex.csv,Boots,,,,Not bought
+Equipment,./essex.csv,Utility belt,,,,Not bought
+Equipment,./essex.csv,General Patrol full body armour,206.85,12,2015-07-01,"Female body armours, male body armours £248.22. The force recycles body armours to keep costs down. Price given does not reflect the kit that is recycled even though this accounts for a significant amount of body armour."
+Equipment,./essex.csv,General Patrol body armour vest,36.34,12,2015-07-01,"Female armour covers, male armour covers £36.90. The force recycles body armours to keep costs down. Price given does not reflect the kit that is recycled even though this accounts for a significant amount of body armour."
+Equipment,./essex.csv,Standard Issue Handcuffs,16.95,150,2015-06-30,The force recycles handcuffs wherever possible.
+Equipment,./essex.csv,Baton,25.00,100,2015-07-03,The force has a contract for the refurbishment of batons at this price. No information available on the last new purchase.
+Equipment,./essex.csv,Airwave radio (hand held),380.00,400,2015-03-19,"All handsets are recycled. The force does not plan to purchase more radios until 2018, except in case of shortage of handsets for a limited time."
+Equipment,./essex.csv,Airwave radio (vehicle),207.00,650,2007-12-13,
+Equipment,./essex.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,8998.36,4,2011-10-01,"Inc. service with legacy equipment as the norm for these vehicles (for re-use on new vehicles). It is important to note that the initial purchase of vehicles represents less than a third of the whole-life cost. Low cost vehicles may reflect higher ownership costs. Fleet managers work together to standardise requirements, benchmark costs and best practice to procure collaboratively where possible. Different operational policing practices or even the type of area being policed (urban/rural) may result in different costs. The type of vehicle must meet operational needs of officer roles to provide for their safe and efficient deployment."
+Equipment,./essex.csv,Compact High performance estate vehicle - fully converted,25239.90,1,2014-03-13,Inc. service with legacy equipment as the norm for internally built vehicles (for re-use on new vehicles). Purchased in collaboration with Kent.
+Equipment,./essex.csv,Fully kitted cell van,19555.70,3,2013-12-18,Most recent purchase from the previous national framework agreement. 
+Equipment,./suffolk.csv,Custodian style Police Helmet,28.90,3,2015-03-20,Joint purchase with Norfolk via West Midlands Police national framework.
+Equipment,./suffolk.csv,Fleece,20.39,200,2015-04-30,"Soft shell jackets, not fleece. Joint purchase with Norfolk via West Yorkshire Police national framework. The force plans to adopt a replacement framework."
+Equipment,./suffolk.csv,Trousers,13.05,40,2015-05-28,Joint purchase with Norfolk via Devon & Cornwall contract. The force plans to move to the Yorkshire & Humberside police national framework.
+Equipment,./suffolk.csv,Shirt,4.99,64,2014-07-29,"Joint purchase with Norfolk under a local contract, but the force is moving to the West Yorkshire Police national framework to purchase shirts at a lower price."
+Equipment,./suffolk.csv,Epaulettes,3.47,200,2015-07-02,Price per pair of sliders (not epaulettes) in line with national guidance. Joint purchase with Norfolk.
+Equipment,./suffolk.csv,Belt,1.25,150,2014-11-17,Trouser belts. Joint purchase with Norfolk.
+Equipment,./suffolk.csv,Anorak/ waterproof jacket,72.95,225,2014-04-30,"General issue waterproof blouson to patrol officers. Joint purchase with Norfolk. The force is adopting the Metropolitan Police Service waterproof outerwear national framework to pay for the garments at a lower price. Anoraks are not issued as standard, only to neighbourhood / response officers on request (purchased for £79.95 but this price will also be lower under the new framework)."
+Equipment,./suffolk.csv,Hi Visibility jacket,29.95,200,2014-07-04,Lightweight packaway jacket. Joint purchase with Norfolk.
+Equipment,./suffolk.csv,Cut resistant gloves,13.25,24,2015-01-08,Joint purchase with Norfolk. The force no longer issues cut resistant gloves to neighbourhood/response officers.
+Equipment,./suffolk.csv,Boots,,,,Not bought.
+Equipment,./suffolk.csv,Utility belt,7.31,160,2014-09-04,Equipment belts. Joint purchase with Norfolk.
+Equipment,./suffolk.csv,General Patrol full body armour,302.84,22,2015-07-21,Joint purchase with Norfolk via the Metropolitan Police Service national framework.
+Equipment,./suffolk.csv,General Patrol body armour vest,,,,Not bought.
+Equipment,./suffolk.csv,Standard Issue Handcuffs,18.35,100,2015-06-17,Joint purchase with Norfolk via the Metropolitan Police Service national framework.
+Equipment,./suffolk.csv,Baton,54.45,150,2014-03-11,Joint purchase with Norfolk via the Metropolitan Police Service national framework.
+Equipment,./suffolk.csv,Airwave radio (hand held),375.00,1,2010-09-19,
+Equipment,./suffolk.csv,Airwave radio (vehicle),700.00,4,2010-09-19,
+Equipment,./suffolk.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force operates intermediate performance estate vehicles for general purpose patrol at a cost of £15,505."
+Equipment,./suffolk.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. The force operates high performance estate vehicles for traffic patrol at a cost of £34,600."
+Equipment,./suffolk.csv,Fully kitted cell van,19905.00,5,2014-10-16,"Joint purchase with Norfolk using Kent and Essex contracts. Price inc. base vehicle, conversion, supply and fit of emergency equipment (exc. airwave radio), automatic vehicle location system and satellite navigation."
+Equipment,./kent.csv,Custodian style Police Helmet,28.90,40,2015-05-11,"The force has an outsourced store to manage stock levels. In addition, the force recycles helmets to keep costs down."
+Equipment,./kent.csv,Fleece,23.60,150,2015-04-27,The force has an outsourced store to manage stock levels. Price given inc. Kent crest badge.
+Equipment,./kent.csv,Trousers,13.80,210,2015-05-11,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Shirt,4.11,805,2015-07-29,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Epaulettes,4.00,50,2015-04-30,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Belt,7.11,60,2015-07-30,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Anorak/ waterproof jacket,115.50,60,2015-03-11,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Hi Visibility jacket,111.50,60,2015-03-11,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Cut resistant gloves,27.23,55,2015-02-12,The force has an outsourced store to manage stock levels.
+Equipment,./kent.csv,Boots,,,,Not bought.
+Equipment,./kent.csv,Utility belt,9.73,25,2015-08-03,"The force has an outsourced store to manage stock levels. In addition, the force recycles belts wherever possible."
+Equipment,./kent.csv,General Patrol full body armour,243.60,13,2015-05-13,The force recycles body armours to keep costs down. Price given does not reflect the kit that is recycled even though this accounts for a significant amount of body armour.
+Equipment,./kent.csv,General Patrol body armour vest,59.70,24,2015-05-29,The force recycles body armours to keep costs down. Price given does not reflect the kit that is recycled even though this accounts for a significant amount of body armour.
+Equipment,./kent.csv,Standard Issue Handcuffs,16.95,200,2014-12-09,"The force has an outsourced store to manage stock levels. In addition, the force recycles handcuffs wherever possible."
+Equipment,./kent.csv,Baton,25.00,60,2014-12-08,The force has a contract for the refurbishment of batons at this price. No information available on the last new purchase at this time.
+Equipment,./kent.csv,Airwave radio (hand held),314.75,500,2014-01-09,"All handsets are recycled. The force does not plan to purchase more radios until 2018, except in case of shortage of handsets for a limited time."
+Equipment,./kent.csv,Airwave radio (vehicle),823.00,300,2011-02-08,
+Equipment,./kent.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,8998.36,22,2014-09-08,"Inc. service with legacy equipment as the norm for these vehicles (for re-use on new vehicles). Due to operational changes, purchase volumes are likely to reduce in Kent for a lower number of intermediate response capable vehicles."
+Equipment,./kent.csv,Compact High performance estate vehicle - fully converted,17252.27,15,2013-05-15,Inc. service with legacy equipment as the norm for internally built vehicles (for re-use on new vehicles). Purchased in collaboration with Essex.
+Equipment,./kent.csv,Fully kitted cell van,19555.70,8,2013-12-06,Most recent purchase from the previous national framework agreement. 
+Equipment,./sussex.csv,Custodian style Police Helmet,28.90,85,2015-05-19,
+Equipment,./sussex.csv,Fleece,21.10,11,2015-07-02,
+Equipment,./sussex.csv,Trousers,8.95,530,2015-05-11,This was an end of contract order. 
+Equipment,./sussex.csv,Shirt,4.50,799,2015-06-16,"Average price given as subject to specifications (male/female, long/short sleeves, colour, length)."
+Equipment,./sussex.csv,Epaulettes,1.83,700,2015-07-22,
+Equipment,./sussex.csv,Belt,5.10,190,2015-05-06,
+Equipment,./sussex.csv,Anorak/ waterproof jacket,85.75,25,2015-03-09,
+Equipment,./sussex.csv,Hi Visibility jacket,56.44,25,2015-03-09,
+Equipment,./sussex.csv,Cut resistant gloves,,,,Not bought. 
+Equipment,./sussex.csv,Boots,,,,"Not bought. The force does not issue boots to response officers, only to specialist roles."
+Equipment,./sussex.csv,Utility belt,5.08,100,2015-02-03,
+Equipment,./sussex.csv,General Patrol full body armour,302.84,9,2015-05-27,Male armours.
+Equipment,./sussex.csv,General Patrol body armour vest,56.44,25,2015-06-08,
+Equipment,./sussex.csv,Standard Issue Handcuffs,25.50,150,2014-11-25,This item is being considered for review.
+Equipment,./sussex.csv,Baton,64.05,101,2015-02-09,
+Equipment,./sussex.csv,Airwave radio (hand held),350.00,,,The force has not purchased this type of radio for over three years.
+Equipment,./sussex.csv,Airwave radio (vehicle),725.00,50,2015-07-01,
+Equipment,./sussex.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14534.95,38,,Purchased in May-July 2015.
+Equipment,./sussex.csv,Compact High performance estate vehicle - fully converted,32747.44,10,2015-06-01,"Purchased in May-July 2015, but vehicle conversion is normally carried out in-house."
+Equipment,./sussex.csv,Fully kitted cell van,,,,Information is not available at this time.
+Equipment,./leicestershire.csv,Custodian style Police Helmet,28.90,30,2015-06-18,Purchased via West Midlands Police framework.
+Equipment,./leicestershire.csv,Fleece,37.95,131,2015-03-25,Date of order.
+Equipment,./leicestershire.csv,Trousers,8.95,1000,2014-09-22,"Male/female trousers. Orders placed prior to expiry of the Greater Manchester Police framework, which requires the force to order a minimum of 1,000 pairs. The force has set up an informal stock holding arrangement with the supplier due to the high quantity."
+Equipment,./leicestershire.csv,Shirt,3.99,50,2015-11-25,"Regular length male short-sleeved shirts, regular length male long-sleeved shirts £4.56. Long length male short-sleeved shirts ordered for larger chest sizes cost £4.29 each, £5.06 with long sleeves. Regular length female short-sleeved shirts £3.86, £4.26 with long sleeves. Long length female short-sleeved shirts cost £4.26, £4.36 with long sleeves."
+Equipment,./leicestershire.csv,Epaulettes,2.80,10,2015-07-30,Pair of epaulettes embroidered with collar number and name purchased via the force's own contract.
+Equipment,./leicestershire.csv,Belt,3.27,205,2015-05-01,
+Equipment,./leicestershire.csv,Anorak/ waterproof jacket,69.95,40,2015-06-25,High visibility blouson jackets.
+Equipment,./leicestershire.csv,Hi Visibility jacket,95.00,18,2015-04-27,High visibility traffic coats.
+Equipment,./leicestershire.csv,Cut resistant gloves,12.75,80,2015-03-25,Standard gloves only. The force does not issue cut resistant gloves.
+Equipment,./leicestershire.csv,Boots,,,,Not bought
+Equipment,./leicestershire.csv,Utility belt,6.95,55,2015-07-08,
+Equipment,./leicestershire.csv,General Patrol full body armour,313.57,6,2015-06-17,Purchased with West Midlands Police via the Metropolitan Police Service framework.
+Equipment,./leicestershire.csv,General Patrol body armour vest,45.48,1,2015-06-17,Replacement body armour cover purchased with West Midlands police via the Metropolitan Police Service framework.
+Equipment,./leicestershire.csv,Standard Issue Handcuffs,16.95,150,2015-03-25,
+Equipment,./leicestershire.csv,Baton,56.00,100,2012-11-14,"Last order date for 26"" batons. The force uses existing stocks and re-uses batons returned by departed officers."
+Equipment,./leicestershire.csv,Airwave radio (hand held),350.00,60,2015-07-23,Handsets purchased via the Metropolitan Police Service framework.
+Equipment,./leicestershire.csv,Airwave radio (vehicle),1100.00,411,2005-06-30,Purchased via the Metropolitan Police Service framework. Price inc. installation.
+Equipment,./leicestershire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force last purchased a Vauxhall Astra for patrol at a total cost of £14,324.49 in June 2015."
+Equipment,./leicestershire.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. The force last purchased a BMW at £28,715.11 in 2014, which is being commissioned."
+Equipment,./leicestershire.csv,Fully kitted cell van,,,,"Not bought. The force last purchased two Peugeot Expert vans at £18,766 in February 2013."
+Equipment,./devon-and-cornwall.csv,Custodian style Police Helmet,28.90,76,2015-03-30,"Exc. helmet plate (crest), purchased via the West Yorkshire national framework, £33.50 if inc. crest. Regional specification."
+Equipment,./devon-and-cornwall.csv,Fleece,21.10,50,2015-06-16,Regional specification.
+Equipment,./devon-and-cornwall.csv,Trousers,13.57,390,2015-06-17,"Regional specification male trousers, female trousers £14.88 on 05/06/15."
+Equipment,./devon-and-cornwall.csv,Shirt,4.05,2016,2015-07-07,"Male short-sleeved wicking shirts, female short-sleeved shirts £3.75 on 07/07/2015. Male long-sleeved shirts £4.60 and female long-sleeved shirts £4.31 on 07/07/2015. Regional specification."
+Equipment,./devon-and-cornwall.csv,Epaulettes,3.25,36,2015-06-19,Regional specification. Sliders £2.95 on 19/06/2015.
+Equipment,./devon-and-cornwall.csv,Belt,3.27,95,2015-04-21,Leather belts.
+Equipment,./devon-and-cornwall.csv,Anorak/ waterproof jacket,87.00,85,2015-04-13,Regional specification.
+Equipment,./devon-and-cornwall.csv,Hi Visibility jacket,95.00,90,2015-05-28,Regional specification. The force most commonly issues high visibility jackets at £10.95 on 12/05/2015.
+Equipment,./devon-and-cornwall.csv,Cut resistant gloves,12.95,130,2015-05-26,Regional specification.
+Equipment,./devon-and-cornwall.csv,Boots,,,,Not bought. The force does not issue boots to patrol officers.
+Equipment,./devon-and-cornwall.csv,Utility belt,4.22,30,2015-02-13,Leather belts.
+Equipment,./devon-and-cornwall.csv,General Patrol full body armour,257.90,15,2015-07-14,"Male armours, female armours £224.03. Regional specification."
+Equipment,./devon-and-cornwall.csv,General Patrol body armour vest,44.00,65,2015-06-15,Regional specification.
+Equipment,./devon-and-cornwall.csv,Standard Issue Handcuffs,16.95,150,2015-07-17,Regional specification.
+Equipment,./devon-and-cornwall.csv,Baton,30.00,300,2015-05-22,Regional specification.
+Equipment,./devon-and-cornwall.csv,Airwave radio (hand held),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./devon-and-cornwall.csv,Airwave radio (vehicle),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./devon-and-cornwall.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,15489.21,4,2014-12-01,"Inc. commissioning, delivery and registration."
+Equipment,./devon-and-cornwall.csv,Compact High performance estate vehicle - fully converted,29191.00,1,2013-10-01,Volvo inc. conversion costs.
+Equipment,./devon-and-cornwall.csv,Fully kitted cell van,26496.36,6,2014-07-01,Ford transit inc. CCTV option.
+Equipment,./gwent.csv,Custodian style Police Helmet,28.90,40,2014-07-01,
+Equipment,./gwent.csv,Fleece,21.10,116,2015-06-10,
+Equipment,./gwent.csv,Trousers,14.10,400,2015-06-09,"Female trousers, male trousers £14.62."
+Equipment,./gwent.csv,Shirt,4.05,2500,2013-08-14,"Male and female short-sleeved shirts, male and female long-sleeved shirts £4.70."
+Equipment,./gwent.csv,Epaulettes,2.10,500,2015-01-16,Price per pair.
+Equipment,./gwent.csv,Belt,3.27,160,2014-08-29,
+Equipment,./gwent.csv,Anorak/ waterproof jacket,94.20,122,2015-03-05,High visibility jacket with additional zips. This garment is under review.
+Equipment,./gwent.csv,Hi Visibility jacket,,,,Not bought. The force issues high visibility body armour covers inc. appointment pockets and click fast points. This garment is not needed.
+Equipment,./gwent.csv,Cut resistant gloves,,,,Not bought. The force does not issue cut resistant gloves.
+Equipment,./gwent.csv,Boots,,,,"Not bought. The force no longer issues standard officer boots, only for specialist roles."
+Equipment,./gwent.csv,Utility belt,5.08,120,2014-04-24,
+Equipment,./gwent.csv,General Patrol full body armour,190.24,15,2015-04-23,"Female armours, male armours £223.59."
+Equipment,./gwent.csv,General Patrol body armour vest,69.50,47,2015-07-23,High visibility body armour covers inc. appointment pockets and click fast points. No high visibility jacket needed to purchase.
+Equipment,./gwent.csv,Standard Issue Handcuffs,18.35,200,2015-02-27,Joint purchase with Dyfed-Powys and South Wales under national contract. Price based on 100-249 order volumes.
+Equipment,./gwent.csv,Baton,,,,Not purchased since 2011. Records not accessible. The force operates a baton recycling policy and stocks of new and recycled batons.
+Equipment,./gwent.csv,Airwave radio (hand held),290.00,2100,2014-03-06,"Exc. antenna, battery. Inc. colour display."
+Equipment,./gwent.csv,Airwave radio (vehicle),,,,Not purchased since 2004. Records not accessible.
+Equipment,./gwent.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,11274.00,,2013-09-03,Not bought. Price for Ford Focus Estate vehicle inc. conversion and livery.
+Equipment,./gwent.csv,Compact High performance estate vehicle - fully converted,31024.00,1,2014-04-30,BMW vehicle. Inc. conversion and livery.
+Equipment,./gwent.csv,Fully kitted cell van,22806.00,,2014-01-26,Not bought. Price for Ford Transit van inc. conversion and livery.
+Equipment,./norfolk.csv,Custodian style Police Helmet,28.90,3,2015-03-20,Joint purchase with Suffolk via West Midlands Police national framework.
+Equipment,./norfolk.csv,Fleece,20.39,200,2015-04-30,"Soft shell jackets, not fleece. Joint purchase with Suffolk via West Yorkshire Police national framework. The force plans to adopt a replacement framework."
+Equipment,./norfolk.csv,Trousers,13.05,40,2015-05-28,Joint purchase with Suffolk via Devon & Cornwall contract. The force plans to move to the Yorkshire & Humberside police national framework.
+Equipment,./norfolk.csv,Shirt,4.99,64,2014-07-29,"Joint purchase with Suffolk under a local contract, but the force is moving to the West Yorkshire Police national framework to purchase shirts at a lower price."
+Equipment,./norfolk.csv,Epaulettes,3.47,200,2015-07-02,Price per pair of sliders (not epaulettes) in line with national guidance. Joint purchase with Suffolk.
+Equipment,./norfolk.csv,Belt,1.25,150,2014-11-17,Trouser belts. Joint purchase with Suffolk.
+Equipment,./norfolk.csv,Anorak/ waterproof jacket,72.95,225,2014-04-30,"General issue waterproof blouson to patrol officers. Joint purchase with Suffolk. The force is adopting the Metropolitan Police Service waterproof outerwear national framework to pay for the garments at a lower price. Anoraks are not issued as standard, only to neighbourhood / response officers on request (purchased for £79.95 but this price will also be lower under the new framework)."
+Equipment,./norfolk.csv,Hi Visibility jacket,29.95,200,2014-07-04,Lightweight packaway jacket. Joint purchase with Suffolk.
+Equipment,./norfolk.csv,Cut resistant gloves,13.25,24,2015-01-08,Joint purchase with Suffolk. The force no longer issues cut resistant gloves to neighbourhood/response officers.
+Equipment,./norfolk.csv,Boots,,,,Not bought.
+Equipment,./norfolk.csv,Utility belt,7.31,160,2014-09-04,Equipment belts. Joint purchase with Suffolk.
+Equipment,./norfolk.csv,General Patrol full body armour,302.84,22,2015-07-21,Joint purchase with Suffolk via the Metropolitan Police Service national framework.
+Equipment,./norfolk.csv,General Patrol body armour vest,,,,Not bought.
+Equipment,./norfolk.csv,Standard Issue Handcuffs,18.35,100,2015-06-17,Joint purchase with Suffolk via the Metropolitan Police Service national framework.
+Equipment,./norfolk.csv,Baton,54.45,150,2014-03-11,Joint purchase with Suffolk via the Metropolitan Police Service national framework.
+Equipment,./norfolk.csv,Airwave radio (hand held),375.00,1,2010-09-19,
+Equipment,./norfolk.csv,Airwave radio (vehicle),700.00,4,2010-09-19,
+Equipment,./norfolk.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force operates intermediate performance estate vehicles for general purpose patrol at a cost of £15,505."
+Equipment,./norfolk.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. The force operates high performance estate vehicles for traffic patrol at a cost of £34,600."
+Equipment,./norfolk.csv,Fully kitted cell van,19905.00,4,2014-10-16,"Joint purchase with Suffolk using Kent and Essex contracts. Price inc. base vehicle, conversion, supply and fit of emergency equipment (exc. airwave radio), automatic vehicle location system and satellite navigation."
+Equipment,./greater-manchester.csv,Custodian style Police Helmet,28.90,27,2015-07-09,
+Equipment,./greater-manchester.csv,Fleece,32.54,35,2015-07-09,
+Equipment,./greater-manchester.csv,Trousers,8.95,3875,2015-06-30,
+Equipment,./greater-manchester.csv,Shirt,4.75,1302,2015-07-07,"Short-sleeved shirts, long-sleeved shirts £5.25."
+Equipment,./greater-manchester.csv,Epaulettes,2.10,750,2015-05-21,
+Equipment,./greater-manchester.csv,Belt,3.27,201,2015-07-09,
+Equipment,./greater-manchester.csv,Anorak/ waterproof jacket,67.71,20,2015-07-08,
+Equipment,./greater-manchester.csv,Hi Visibility jacket,38.56,50,2015-07-09,
+Equipment,./greater-manchester.csv,Cut resistant gloves,12.95,170,2015-07-09,
+Equipment,./greater-manchester.csv,Boots,,,,Not bought. The force does not issue boots.
+Equipment,./greater-manchester.csv,Utility belt,4.25,55,2015-07-09,
+Equipment,./greater-manchester.csv,General Patrol full body armour,222.00,38,2015-07-09,Same price for male and female body armours.
+Equipment,./greater-manchester.csv,General Patrol body armour vest,57.60,53,2015-07-09,
+Equipment,./greater-manchester.csv,Standard Issue Handcuffs,18.35,175,2015-07-09,
+Equipment,./greater-manchester.csv,Baton,55.91,75,2015-07-09,
+Equipment,./greater-manchester.csv,Airwave radio (hand held),413.25,51,2014-03-27,Inc. aerial and battery
+Equipment,./greater-manchester.csv,Airwave radio (vehicle),765.15,13,2015-02-27,Inc. installation kit
+Equipment,./greater-manchester.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,11471.21,54,2014-07-22,"Hyundai for divisional use, not fully converted but commissioning inc. radio."
+Equipment,./greater-manchester.csv,Compact High performance estate vehicle - fully converted,28781.12,2,2014-08-05,"Date of order, not purchase. BMW for traffic use, not fully converted but commissioning inc. radio."
+Equipment,./greater-manchester.csv,Fully kitted cell van,20058.69,14,2014-08-07,"Date of order, not purchase. Vauxhall Vivaro converted cell van inc. radio."
+Equipment,./hampshire.csv,Custodian style Police Helmet,33.50,64,2014-10-23,
+Equipment,./hampshire.csv,Fleece,20.39,20,2015-06-05,
+Equipment,./hampshire.csv,Trousers,15.96,230,2015-01-15,
+Equipment,./hampshire.csv,Shirt,3.99,290,2014-12-02,
+Equipment,./hampshire.csv,Epaulettes,3.85,11,2015-05-14,
+Equipment,./hampshire.csv,Belt,4.15,100,2015-02-26,Leather belt.
+Equipment,./hampshire.csv,Anorak/ waterproof jacket,75.70,25,2015-07-24,
+Equipment,./hampshire.csv,Hi Visibility jacket,28.69,50,2015-06-11,
+Equipment,./hampshire.csv,Cut resistant gloves,,,,Not bought. The force does not issue gloves.
+Equipment,./hampshire.csv,Boots,75.80,6,2015-07-10,Peacekeeper general duty boots purchased under the North Wales national contract. Peacekeeper public order boots £73.60.
+Equipment,./hampshire.csv,Utility belt,4.43,110,2015-05-05,
+Equipment,./hampshire.csv,General Patrol full body armour,256.59,1,2015-06-02,Black overt cover male armour sets inc. carry bag (£10). Female armours purchased at £235.79 plus carry bag at £10. Add an extra £4.12 to male armours and £3.97 to female armours for high visibility (yellow) overt cover (issued to tactical pedal cyclists). 
+Equipment,./hampshire.csv,General Patrol body armour vest,35.94,7,2015-04-27,
+Equipment,./hampshire.csv,Standard Issue Handcuffs,19.00,200,2015-06-05,
+Equipment,./hampshire.csv,Baton,60.82,200,2015-06-08,
+Equipment,./hampshire.csv,Airwave radio (hand held),280.00,,,Most recent purchase was in 2011. More detailed information is not available at this time.
+Equipment,./hampshire.csv,Airwave radio (vehicle),430.00,800,,Purchased via national framework in 2007 - date of purchase not available at the time of publication.
+Equipment,./hampshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,10029.25,13,2012-07-26,Purchased via East / South East Region tender.
+Equipment,./hampshire.csv,Compact High performance estate vehicle - fully converted,,,,The force does not operate compact high-performance cars.
+Equipment,./hampshire.csv,Fully kitted cell van,20669.78,8,2012-07-26,Purchased via national framework.
+Equipment,./hertfordshire.csv,Custodian style Police Helmet,28.90,30,2013-05-14,Joint purchase with Bedfordshire and Cambridgeshire. Exc. £8.50 helmet plate. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Fleece,32.95,38,2015-07-22,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Trousers,9.67,270,2015-07-28,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Shirt,4.25,2300,2015-07-23,"Male shirts, female shirts £3.95. Joint purchase with Bedfordshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police."
+Equipment,./hertfordshire.csv,Epaulettes,5.00,1,2015-07-24,All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Belt,3.27,410,2015-07-22,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Anorak/ waterproof jacket,79.95,5,2015-07-22,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Hi Visibility jacket,53.90,125,2015-07-03,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Cut resistant gloves,9.70,650,2015-04-22,"Male gloves, female gloves £9.40. Joint purchase with Bedfordshire and Cambridgeshire. The force no longer issues officers with the gloves. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police."
+Equipment,./hertfordshire.csv,Boots,30.30,100,2015-07-22,Order date for non-protective boots from North Wales framework - joint purchase with Bedfordshire and Cambridgeshire. Most recent purchase price for a pair of protective boots for patrol (public order) is £72.60. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Utility belt,10.25,100,2015-07-28,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,General Patrol full body armour,261.27,10,2015-04-24,"Male armours, female armours £218.24. Joint purchase with Bedfordshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police."
+Equipment,./hertfordshire.csv,General Patrol body armour vest,84.93,60,2015-07-15,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Standard Issue Handcuffs,16.95,200,2015-01-19,Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Baton,54.45,200,2015-06-16,22'' batons. Joint purchase with Bedfordshire and Cambridgeshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./hertfordshire.csv,Airwave radio (hand held),350.00,300,2015-03-04,Inc. extended warranty. Purchased via national airwave radio procurement framework contract.
+Equipment,./hertfordshire.csv,Airwave radio (vehicle),850.00,2,2015-05-26,"Motorcycle radios inc. GPS, extended warranty and weather-proof console purchased via the national airwave radio procurement framework contract. Prices have reduced significantly over the years. The force previously purchased 476 airwave radio for vehicles (cars) through a consortium framework with Cambridgeshire, Hertfordshire and Thames Valley Police, at £1,200 exc. installation, in 2003."
+Equipment,./hertfordshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13473.00,10,2015-03-13,"Inc warning lights, livery, siren, delivery etc."
+Equipment,./hertfordshire.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. Compact high performance estate not used for roads policing. Standard large high performance estate vehicle £26,540.00 in February 2015. Inc warning lights, livery, siren, delivery etc."
+Equipment,./hertfordshire.csv,Fully kitted cell van,20805.00,6,2015-03-25,"Inc warning lights, livery, siren, delivery etc."
+Equipment,./bedfordshire.csv,Custodian style Police Helmet,28.90,30,2013-05-14,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police. Exc. £6.50 helmet plate.
+Equipment,./bedfordshire.csv,Fleece,32.95,38,2015-07-22,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Trousers,9.67,270,2015-07-28,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Shirt,4.25,2300,2015-07-23,"Male shirts, female shirts £3.95. Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police."
+Equipment,./bedfordshire.csv,Epaulettes,3.85,1,2015-07-24,All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Belt,3.27,410,2015-07-22,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Anorak/ waterproof jacket,79.95,5,2015-07-22,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Hi Visibility jacket,53.90,125,2015-07-03,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Cut resistant gloves,9.70,650,2015-04-22,"Male gloves, female gloves £9.40. Joint purchase with Cambridgeshire and Hertfordshire. The force no longer issues officers with the gloves. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police. "
+Equipment,./bedfordshire.csv,Boots,30.30,100,2015-07-22,Order date for non-protective boots from North Wales framework - joint purchase with Cambridgeshire and Hertfordshire. Most recent purchase price for a pair of protective boots for patrol (public order) is £72.60. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Utility belt,10.25,100,2015-07-28,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,General Patrol full body armour,261.27,10,2015-04-24,"Male armours, female armours £218.24. Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police."
+Equipment,./bedfordshire.csv,General Patrol body armour vest,84.93,60,2015-07-15,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Standard Issue Handcuffs,16.95,200,2015-01-19,Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Baton,54.45,200,2015-06-16,22'' batons. Joint purchase with Cambridgeshire and Hertfordshire. All uniform purchases are made by the central stores located at and operated by Cambridgeshire Police.
+Equipment,./bedfordshire.csv,Airwave radio (hand held),350.00,250,2015-03-04,Inc. extended warranty. Purchased via national airwave radio procurement framework contract.
+Equipment,./bedfordshire.csv,Airwave radio (vehicle),1200.00,283,,"Price subject to specifications. Exc. installation. Force purchase through a consortium framework with Cambridgeshire, Hertfordshire and Thames Valley Police in 2003. Prices have reduced significantly over the years. "
+Equipment,./bedfordshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13473.00,4,2015-03-11,"Inc. warning lights, livery, siren, delivery etc."
+Equipment,./bedfordshire.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. Standard large high performance estate £26,540 on 15/01/14. Inc. warning lights, livery, siren, delivery etc."
+Equipment,./bedfordshire.csv,Fully kitted cell van,20805.00,6,2014-11-06,"Inc. warning lights, livery, siren, delivery etc."
+Equipment,./cleveland.csv,Custodian style Police Helmet,28.90,30,2015-07-02,Purchased via West Midlands framework.
+Equipment,./cleveland.csv,Fleece,20.39,20,2015-05-15,Purchased via West Yorkshire framework.
+Equipment,./cleveland.csv,Trousers,13.55,300,2015-06-11,Purchased via Devon & Cornwall framework.
+Equipment,./cleveland.csv,Shirt,4.50,24,2015-07-02,"Short-sleeved male shirt, long-sleeved male shirt £5.25, female short-sleeved shirt £5.25 and female long-sleeved shirt £5.85 purchased via West Yorkshire framework."
+Equipment,./cleveland.csv,Epaulettes,,,,"Not bought, but made in-house."
+Equipment,./cleveland.csv,Belt,3.27,95,2015-02-19,Leather belt purchased via North Wales framework.
+Equipment,./cleveland.csv,Anorak/ waterproof jacket,,,,"Not bought as standard, but issued to road policing unit officers only. 1 purchased via West Yorkshire framework at £85.75 on 06/11/14."
+Equipment,./cleveland.csv,Hi Visibility jacket,62.75,20,2015-05-15,Purchased via West Yorkshire framework.
+Equipment,./cleveland.csv,Cut resistant gloves,15.45,27,2015-05-08,Purchased via Cheshire framework.
+Equipment,./cleveland.csv,Boots,,,,Not bought. The force does not issue officers with general duty boots.
+Equipment,./cleveland.csv,Utility belt,8.36,30,2015-03-13,Purchased via North Wales framework.
+Equipment,./cleveland.csv,General Patrol full body armour,382.90,1,2015-06-08,This includes armour panels plus 2 high visibility covers. Purchased via MPS framework.
+Equipment,./cleveland.csv,General Patrol body armour vest,78.68,1,2015-07-27,High visibility cover purchased for existing body armour.
+Equipment,./cleveland.csv,Standard Issue Handcuffs,19.25,40,2015-05-15,Purchased via Northumbria framework.
+Equipment,./cleveland.csv,Baton,60.50,20,2015-06-29,26'' batons.
+Equipment,./cleveland.csv,Airwave radio (hand held),400.00,500,,Mixture of hand-held and vehicle units ordered in 2009 for delivery over three years.
+Equipment,./cleveland.csv,Airwave radio (vehicle),500.00,500,,Mixture of vehicle and hand-held units ordered in 2009 for delivery over three years.
+Equipment,./cleveland.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13854.00,1,,Vauxhall Astra. Last ordered in late March 2015. The force is moving to the new national vehicle purchase framework.
+Equipment,./cleveland.csv,Compact High performance estate vehicle - fully converted,33920.61,3,2014-10-01,"BMW inc. partial conversion costs for livery, matrix board and data recorder."
+Equipment,./cleveland.csv,Fully kitted cell van,21324.18,10,2014-08-01,Vauxhall Vivaro.
+Equipment,./merseyside.csv,Custodian style Police Helmet,28.90,40,2015-06-04,Purchased via West Midlands Police national contract.
+Equipment,./merseyside.csv,Fleece,,,,Not bought. The force does not issue officers with a fleece.
+Equipment,./merseyside.csv,Trousers,8.95,720,2015-05-26,Purchased via Greater Manchester Police national contract.
+Equipment,./merseyside.csv,Shirt,4.75,700,2015-01-22,Male short-sleeved white shirts purchased via the West Yorkshire Police national framework agreement. The force does not issue black climate control tops.
+Equipment,./merseyside.csv,Epaulettes,1.85,500,2015-05-22,Price per pair. Epaulettes are purchased locally.
+Equipment,./merseyside.csv,Belt,3.27,180,2015-02-11,Purchased via North Wales Police national framework.
+Equipment,./merseyside.csv,Anorak/ waterproof jacket,,,,Not bought. The force does not issue this garment to officers.
+Equipment,./merseyside.csv,Hi Visibility jacket,65.78,140,2015-05-14,Last order via the North West Region contract.
+Equipment,./merseyside.csv,Cut resistant gloves,12.95,330,2015-03-27,Purchased via the Cheshire Constabulary national framework.
+Equipment,./merseyside.csv,Boots,,,,Not bought. The force does not issue boots to officers.
+Equipment,./merseyside.csv,Utility belt,3.20,30,2015-03-27,Purchased via North Wales Police national framework.
+Equipment,./merseyside.csv,General Patrol full body armour,273.66,32,2015-04-09,Black cover male armours purchased with 5 female armours at £225.93 via the Metropolitan Police Service national framework with West Midlands Police.
+Equipment,./merseyside.csv,General Patrol body armour vest,,,,Not bought.
+Equipment,./merseyside.csv,Standard Issue Handcuffs,16.95,25,2015-09-25,Purchased via the Metropolitan Police Service national framework.
+Equipment,./merseyside.csv,Baton,24.49,100,2015-07-22,Purchased via the Metropolitan Police Service national framework.
+Equipment,./merseyside.csv,Airwave radio (hand held),120.00,5000,,Last purchase of overt airwave radios in 2009. The force refurbishes and recycles devices for re-use.
+Equipment,./merseyside.csv,Airwave radio (vehicle),950.00,,,Last purchase of covert airwave radios in 2006. Information on order volumes not available at the time of publication. The force refurbishes and recycles devices for re-use.
+Equipment,./merseyside.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force does not use 5-door hatchbacks as general purpose patrol vehicles, but last purchased 5 Hyundai Estate vehicles at £14,383.75 on 07/05/14."
+Equipment,./merseyside.csv,Compact High performance estate vehicle - fully converted,26293.24,4,2011-10-24,"The lowest price of two of the vehicles purchased based on maximum re-use of conversion parts. The other two converted vehicles cost £30,454.78 and £30,462.26."
+Equipment,./merseyside.csv,Fully kitted cell van,,,,"Not bought. The force purchased a Ford Connect £24,354 inc. full conversion in 2015 and a Ford Transit £24,930 inc. full conversion in 2014. "
+Equipment,./dorset.csv,Custodian style Police Helmet,28.90,95,2015-03-30,Regional specification.
+Equipment,./dorset.csv,Fleece,21.10,25,2014-09-05,Regional specification.
+Equipment,./dorset.csv,Trousers,13.57,15,2014-11-13,Regional specification.
+Equipment,./dorset.csv,Shirt,3.75,100,2015-07-07,"Female short-sleeved wicking shirts, male short-sleeved wicking shirts £4.05. Male long-sleeved shirts £4.60 and female long-sleeved shirts £4.31. Regional specification."
+Equipment,./dorset.csv,Epaulettes,2.95,10,2015-06-19,"Sliders, epaulettes £3.25. Regional specification."
+Equipment,./dorset.csv,Belt,3.27,,,Leather belts.
+Equipment,./dorset.csv,Anorak/ waterproof jacket,79.20,25,2015-02-17,Regional specification.
+Equipment,./dorset.csv,Hi Visibility jacket,95.00,5,2014-07-09,
+Equipment,./dorset.csv,Cut resistant gloves,8.95,20,2014-06-24,
+Equipment,./dorset.csv,Boots,,,,Not bought. The force does not issue boots to patrol officers.
+Equipment,./dorset.csv,Utility belt,4.22,30,2014-06-27,Leather belts.
+Equipment,./dorset.csv,General Patrol full body armour,224.03,5,2015-05-20,Female body armours. Regional specification.
+Equipment,./dorset.csv,General Patrol body armour vest,44.00,5,2015-05-20,Regional specification.
+Equipment,./dorset.csv,Standard Issue Handcuffs,16.95,10,2013-03-05,Regional specification.
+Equipment,./dorset.csv,Baton,52.20,25,2013-01-21,
+Equipment,./dorset.csv,Airwave radio (hand held),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./dorset.csv,Airwave radio (vehicle),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./dorset.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,15595.70,10,2015-04-30,"Inc. commissioning, delivery and registration."
+Equipment,./dorset.csv,Compact High performance estate vehicle - fully converted,31057.70,1,2015-01-14,Inc. towbar.
+Equipment,./dorset.csv,Fully kitted cell van,23090.56,4,2014-07-25,Ford transit exc. CCTV
+Equipment,./warwickshire.csv,Custodian style Police Helmet,28.90,730,2015-04-23,Joint purchase with West Mercia under West Midlands Police national headwear contract.
+Equipment,./warwickshire.csv,Fleece,38.95,460,2015-05-11,Joint purchase with West Mercia. The force aims to move to the Metropolitan Police Service contract when samples are approved to purchase the garment at a lower price.
+Equipment,./warwickshire.csv,Trousers,9.20,30,2015-08-25,"Polycotton trousers. Order date for joint purchase with West Mercia. Prices range from £6.60 to £9.20 depending on male, female, size (waist/length) specifications. The price quoted is for the largest quantity on order and for a particular waist/leg measurement for the male garment. The force previously purchased 2,265 male polywool trousers at £18.20 with West Mercia, on 16/04/2015. Awaiting outcome of Yorkshire tender for future purchasing."
+Equipment,./warwickshire.csv,Shirt,3.99,650,2015-04-16,Under-armour shirts. Joint purchase with West Mercia. The force will be moving to the West Yorkshire Police contract to purchase the item at a lower price.
+Equipment,./warwickshire.csv,Epaulettes,3.25,112,2015-07-21,Epaulettes. Joint purchase with West Mercia. The force will be moving to the Metropolitan Police Service contract when samples are approved to purchase epaulettes at a lower price.
+Equipment,./warwickshire.csv,Belt,3.30,50,2015-07-23,Joint purchase with West Mercia. The force will be moving to the North Wales Police contract to purchase the item at a lower price.
+Equipment,./warwickshire.csv,Anorak/ waterproof jacket,95.45,2500,2014-12-16,3/4 length high visibility coat. Joint purchase with West Mercia. The force will be moving to the Metropolitan Police Service contract when samples are approved to purchase the item at a lower price.
+Equipment,./warwickshire.csv,Hi Visibility jacket,69.95,500,2015-05-11,Blousons. Joint purchase with West Mercia. The force will be moving to the Metropolitan Police Service contract when samples are approved to purchase the item at a lower price. 
+Equipment,./warwickshire.csv,Cut resistant gloves,,,,Not bought. The force does not issue cut resistant gloves to patrol officers.
+Equipment,./warwickshire.csv,Boots,,,,Not bought. The force does not issue boots to patrol officers.
+Equipment,./warwickshire.csv,Utility belt,4.22,170,2015-05-22,Joint purchase with West Mercia. The force will be moving to the North Wales Police contract to purchase the item at a lower price.
+Equipment,./warwickshire.csv,General Patrol full body armour,274.53,33,2015-07-20,"Order date as the force is migrating to a new contract led by West Midlands Police as part of a uniform alignment exercise with West Mercia, via the Metropolitan Police Service national body armour framework agreement. Price includes the vest carrier for body armour plates at £44.50."
+Equipment,./warwickshire.csv,General Patrol body armour vest,85.80,5,2014-10-01,Carriage system. Joint purchase with West Mercia via the Gloucestershire framework. The force also purchases the vest carrier for body armour plates at £44.50 (included in the separate general patrol body armour price).
+Equipment,./warwickshire.csv,Standard Issue Handcuffs,15.60,100,2015-06-29,Joint purchase with West Mercia under the Metropolitan Police Service contract.
+Equipment,./warwickshire.csv,Baton,53.48,750,2015-07-16,Joint purchase with West Mercia under the Metropolitan Police Service contract.
+Equipment,./warwickshire.csv,Airwave radio (hand held),390.00,51,2015-02-13,"Joint purchase with West Mercia via the Metropolitan Police Service national framework. Price inc. extended helical antenna, batteries, click fast stud (£459 in total)."
+Equipment,./warwickshire.csv,Airwave radio (vehicle),650.00,5,2015-05-21,Joint purchase with West Mercia via the Metropolitan Police Service national framework. Price inc. colour console (£134).
+Equipment,./warwickshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,15805.50,88,2014-12-01,"Joint order with West Mercia via the previous national framework - 82 delivered to date. Vauxhall Astra, diesel and low emissions model. The force will be moving to the new vehicle purchase framework in 2015."
+Equipment,./warwickshire.csv,Compact High performance estate vehicle - fully converted,28028.04,2,2014-11-14,Joint purchase with West Mercia via previous national framework. BMW vehicles. The force will be moving to the new vehicle purchase framework in 2015.
+Equipment,./warwickshire.csv,Fully kitted cell van,22969.36,36,2014-12-01,Joint order with West Mercia via previous national framework. Vauxhall - only 9 delivered to date. The force will be moving to the new vehicle purchase framework in 2015.
+Equipment,./cambridgeshire.csv,Custodian style Police Helmet,28.90,30,2013-05-14,Joint purchase with Bedfordshire and Hertfordshire Exc. £5.25 helmet plate. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Fleece,32.95,38,2015-07-22,PCSO fleece. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Trousers,9.67,270,2015-07-28,Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Shirt,4.25,2300,2015-07-23,"Male shirts, female shirts £3.95. Price varies with long sleeve, short sleeve and extra long fit specifications. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces."
+Equipment,./cambridgeshire.csv,Epaulettes,2.96,4,2015-07-24,The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Belt,3.27,410,2015-07-22,Split leather waist belts with nickel buckles. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Anorak/ waterproof jacket,79.95,5,2015-07-22,Police traffic jacket model purchased under the Metropolitan Police Service contract. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Hi Visibility jacket,53.90,125,2015-07-03,High visibility carriers lightweight blousons. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Cut resistant gloves,9.70,650,2015-04-22,"Male black lined leather gloves with cuffs, female gloves at £9.40. Joint purchase with Bedfordshire and Hertfordshire. The force no longer issues officers with the gloves. The force makes all uniform purchases and operates central stores for all three forces."
+Equipment,./cambridgeshire.csv,Boots,30.30,100,2015-07-22,Order date for non-protective boots from North Wales framework - joint purchase with Bedfordshire and Hertfordshire. Most recent purchase price for a pair of protective boots for patrol (public order) is £72.60. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Utility belt,10.25,100,2015-07-28,Not supplied as standard. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,General Patrol full body armour,261.27,10,2015-04-24,"Male armours, female armours £218.24. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces."
+Equipment,./cambridgeshire.csv,General Patrol body armour vest,84.93,60,2015-07-15,Price depends on quantity ordered. Joint purchase with Bedfordshire and Hertfordshire. Appointment vest under review. Covert harness £67. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Standard Issue Handcuffs,16.95,200,2015-01-19,Rigid handcuffs. Joint purchase with Bedfordshire and Hertfordshire under the Metropolitan Police Service contract. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Baton,54.45,200,2015-06-16,22'' autolock batons with power safety tip and caps attached as per the Metropolitan Police Service framework. Joint purchase with Bedfordshire and Hertfordshire. The force makes all uniform purchases and operates central stores for all three forces.
+Equipment,./cambridgeshire.csv,Airwave radio (hand held),250.00,3,2015-03-12,
+Equipment,./cambridgeshire.csv,Airwave radio (vehicle),920.00,90,2008-02-07,Unit price of each terminal.
+Equipment,./cambridgeshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13296.20,6,2014-12-30,"Hyundai New Generation. Inc. warning lights, livery, siren etc."
+Equipment,./cambridgeshire.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. Standard large high performance estate BMW vehicle £31,391.60 in June 2014. Inc. warning lights, livery, siren, delivery etc."
+Equipment,./cambridgeshire.csv,Fully kitted cell van,21039.51,1,2015-06-16,Vauxhall Vivaro purchased via Kent and Essex Police cell van framework.
+Equipment,./city-of-london.csv,Custodian style Police Helmet,,,,Not bought. The force purchased 132 standard (not custodian) helmets at £52.80 on 23/11/10. This stock has lasted longer than planned.
+Equipment,./city-of-london.csv,Fleece,,,,Not bought. The force purchased (male/female) pullovers at £43.90 in June-August 2010. This stock has lasted longer than planned. The force plans to replace this item of uniform with new style clothing in September 2015.
+Equipment,./city-of-london.csv,Trousers,11.50,44,2014-10-16,The force plans to replace this item of uniform with new style clothing in September 2015.
+Equipment,./city-of-london.csv,Shirt,5.15,204,2014-10-09,"Long-sleeved male shirts, long-sleeved female shirts £4.83 on 14/08/14. The force plans to replace this item of uniform with new style clothing in September 2015."
+Equipment,./city-of-london.csv,Epaulettes,1.51,50,2015-06-09,
+Equipment,./city-of-london.csv,Belt,4.40,160,2014-01-09,Leather belts.
+Equipment,./city-of-london.csv,Anorak/ waterproof jacket,85.50,26,2014-06-23,The force plans to replace this item of uniform with new style clothing in September 2015.
+Equipment,./city-of-london.csv,Hi Visibility jacket,22.24,120,2014-06-08,"Long-sleeved high visibility jackets, short-sleeved high visibility jackets £12.77."
+Equipment,./city-of-london.csv,Cut resistant gloves,12.95,400,2012-02-14,This stock has lasted longer than planned.
+Equipment,./city-of-london.csv,Boots,72.60,17,2015-04-07,
+Equipment,./city-of-london.csv,Utility belt,4.65,60,2014-03-02,
+Equipment,./city-of-london.csv,General Patrol full body armour,371.30,12,2015-07-07,"Male armours, female armours £374.20."
+Equipment,./city-of-london.csv,General Patrol body armour vest,,,,Not bought. The force does not issue this garment.
+Equipment,./city-of-london.csv,Standard Issue Handcuffs,16.10,20,2012-01-18,The force recycles handcuffs: returned then reissued.
+Equipment,./city-of-london.csv,Baton,53.20,50,2010-05-07,The force recycles batons: returned then reissued
+Equipment,./city-of-london.csv,Airwave radio (hand held),500.00,1057,,Purchased in March 2011. Inc. warranty to March 2016. Covert radio £950 in 2006 exc. repeater licence £150. 
+Equipment,./city-of-london.csv,Airwave radio (vehicle),561.00,4,2014-01-01,"Covert radio £1,770 in 2006 exc. Installation £831."
+Equipment,./city-of-london.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,10558.80,1,2008-03-27,Vauxhall Astra purchased through framework agreement (DWP Motor Vehicle Purchase For the provision of: Motor Vehicles Framework Agreement).
+Equipment,./city-of-london.csv,Compact High performance estate vehicle - fully converted,31724.64,1,2013-01-28,BMW vehicle purchased via police framework through South and South Eastern Mini Competition Group.
+Equipment,./city-of-london.csv,Fully kitted cell van,18714.31,1,2011-12-23,Vauxhall Vivaro prisoner cell van purchased via police framework.
+Equipment,./south-wales.csv,Custodian style Police Helmet,28.90,183,2015-06-15,
+Equipment,./south-wales.csv,Fleece,21.10,366,2015-06-12,
+Equipment,./south-wales.csv,Trousers,13.57,925,2015-04-29,"Polycotton cargo male trousers, female trousers £14.88."
+Equipment,./south-wales.csv,Shirt,3.99,2080,2015-05-12,
+Equipment,./south-wales.csv,Epaulettes,3.82,1000,2013-08-07,Price per pair.
+Equipment,./south-wales.csv,Belt,3.27,270,2015-02-17,
+Equipment,./south-wales.csv,Anorak/ waterproof jacket,73.75,50,2015-04-29,High visibility blouson
+Equipment,./south-wales.csv,Hi Visibility jacket,,,,Not bought. The force does not issue high visibility jackets to beat officers.
+Equipment,./south-wales.csv,Cut resistant gloves,13.25,55,2015-07-21,
+Equipment,./south-wales.csv,Boots,,,,"Not bought. The force does not issue boots to beat officers, only to specialist roles."
+Equipment,./south-wales.csv,Utility belt,13.24,13,2014-12-18,Lifetime durable and recyclable quality leather belts with sturdy buckle for re-use. No known failure with the force's choice of belt resulting in a replacement. Lower cost belts are available but not as durable.
+Equipment,./south-wales.csv,General Patrol full body armour,190.24,2,2015-07-09,"Female armours, male armours £223.59."
+Equipment,./south-wales.csv,General Patrol body armour vest,34.31,2,2015-07-09,"Black cover male vests, black cover female vests £33.79."
+Equipment,./south-wales.csv,Standard Issue Handcuffs,17.95,300,2014-10-01,Joint purchase with Gwent and Dyfed Powys. Price based on order volumes of 250-499.
+Equipment,./south-wales.csv,Baton,22.99,200,,"26"" black friction lock batons last purchased in 2014."
+Equipment,./south-wales.csv,Airwave radio (hand held),350.00,106,2013-07-01,"Inc. encryption, colour display. Exc. antenna and battery."
+Equipment,./south-wales.csv,Airwave radio (vehicle),,,,Not bought since June 2013. Records not accessible.
+Equipment,./south-wales.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13199.00,24,2005-07-06,"Information given for last purchase of Ford Focus vehicles for July to October 2014, inc. conversion and livery costs."
+Equipment,./south-wales.csv,Compact High performance estate vehicle - fully converted,29289.17,3,,"Information given for last purchased BMW vehicles for July to October 2014, inc. conversion and livery costs."
+Equipment,./south-wales.csv,Fully kitted cell van,22848.22,13,,"Information given for last purchased Transit Custom vans for October 2014 to February 2015, inc. conversion and livery costs."
+Equipment,./cheshire.csv,Custodian style Police Helmet,28.90,72,2015-02-13,
+Equipment,./cheshire.csv,Fleece,20.39,112,2015-06-15,
+Equipment,./cheshire.csv,Trousers,9.35,3376,2015-06-15,
+Equipment,./cheshire.csv,Shirt,5.10,745,2015-05-11,"Short-sleeved shirts, long-sleeved shirts £5.50."
+Equipment,./cheshire.csv,Epaulettes,1.65,2000,2015-05-12,
+Equipment,./cheshire.csv,Belt,3.75,170,2015-05-13,
+Equipment,./cheshire.csv,Anorak/ waterproof jacket,,,,Not bought
+Equipment,./cheshire.csv,Hi Visibility jacket,48.50,140,2015-05-11,
+Equipment,./cheshire.csv,Cut resistant gloves,13.95,150,2015-03-12,
+Equipment,./cheshire.csv,Boots,33.60,5,2015-07-03,
+Equipment,./cheshire.csv,Utility belt,7.31,50,2015-03-12,
+Equipment,./cheshire.csv,General Patrol full body armour,278.75,21,2015-06-11,"Male armours, female armours £229.75."
+Equipment,./cheshire.csv,General Patrol body armour vest,49.82,4,2015-06-19,"Female vests, male vests £52.38."
+Equipment,./cheshire.csv,Standard Issue Handcuffs,17.95,260,2015-04-29,
+Equipment,./cheshire.csv,Baton,23.49,100,2015-04-29,
+Equipment,./cheshire.csv,Airwave radio (hand held),243.00,2,2014-04-26,
+Equipment,./cheshire.csv,Airwave radio (vehicle),1000.00,50,2012-11-01,Inc. ancillaries.
+Equipment,./cheshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force last ordered 32 converted, but not 5-door hatchback, estate cars on 18/09/14 and costs per vehicle were £13,333 exc. VAT."
+Equipment,./cheshire.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. The force ordered 6 larger converted vehicles at £29,061.72 on 04/08/14."
+Equipment,./cheshire.csv,Fully kitted cell van,26989.57,2,,Ordered in 2013/14.
+Equipment,./lancashire.csv,Custodian style Police Helmet,32.12,24,2015-06-05,Purchased via West Midlands national contract. Price inc. helmet plate.
+Equipment,./lancashire.csv,Fleece,39.09,195,2015-02-19,Male fleece purchased via Greater Manchester Police regional/national contract for modern/traditional uniforms.
+Equipment,./lancashire.csv,Trousers,8.95,1270,2015-02-17,Operational (cargo) trousers purchased via Greater Manchester Police regional/national contract for modern/traditional uniforms.
+Equipment,./lancashire.csv,Shirt,4.25,1200,2015-02-10,Male black mandarin collar short-sleeved shirts purchased via West Yorkshire national contract for all climate shirts.
+Equipment,./lancashire.csv,Epaulettes,1.85,300,2015-06-28,Male epaulettes purchased locally.
+Equipment,./lancashire.csv,Belt,3.41,210,2015-06-01,Standard leather belt for trousers purchased locally.
+Equipment,./lancashire.csv,Anorak/ waterproof jacket,47.97,120,2015-07-03,Black heavyweight jacket purchased via the regional high visibility/black anorak contract.
+Equipment,./lancashire.csv,Hi Visibility jacket,67.71,35,2015-07-03,High visibility heavyweight jacket purchased via the regional high visibility/black anorak contract.
+Equipment,./lancashire.csv,Cut resistant gloves,12.95,120,2015-05-11,Purchased via Cheshire national contract.
+Equipment,./lancashire.csv,Boots,72.60,165,2015-04-08,"Dual purpose boots for use as public order boots which also meet violent situation standards and are flameproof, purchased via the North Wales national footwear contract. "
+Equipment,./lancashire.csv,Utility belt,10.60,100,2015-05-12,Leather style belt purchased via the North Wales framework contract for leather goods.
+Equipment,./lancashire.csv,General Patrol full body armour,281.85,100,2015-06-15,Overt style male armours purchased via the Metropolitan Police Service regional/national contract. Prices can vary subject to order volumes.
+Equipment,./lancashire.csv,General Patrol body armour vest,67.00,300,2015-07-24,Black male overt style armour cover purchased via the Metropolitan Police Service regional-national contract. Prices can vary subject to order volumes.
+Equipment,./lancashire.csv,Standard Issue Handcuffs,16.95,100,2015-02-24,"Purchased via the Metropolitan Police Service national framework contract, inc. a long key."
+Equipment,./lancashire.csv,Baton,23.49,300,2015-02-24,Batons with a holder purchased via the Metropolitan Police Service national framework contract.
+Equipment,./lancashire.csv,Airwave radio (hand held),,,,Last purchased by the force in 2009. The force recycles them for re-use. No further information available at the time of publication.
+Equipment,./lancashire.csv,Airwave radio (vehicle),,,,Last purchased by the force in 2009. The force recycles them for re-use. No further information available at the time of publication.
+Equipment,./lancashire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force operates estates cars, which are not converted hatchback vehicles, last purchased for £13,700 on 01/03/15."
+Equipment,./lancashire.csv,Compact High performance estate vehicle - fully converted,27414.00,1,2010-02-01,The force last purchased a high performance traffic car in 2010.
+Equipment,./lancashire.csv,Fully kitted cell van,17929.00,1,2015-03-01,The force does not purchase fully converted cell vans. The price quoted covers the supply of the base van and the conversion at a local convertor.
+Equipment,./gloucestershire.csv,Custodian style Police Helmet,28.90,80,2015-06-01,National specification.
+Equipment,./gloucestershire.csv,Fleece,21.10,20,2015-04-10,National specification.
+Equipment,./gloucestershire.csv,Trousers,13.57,40,2015-07-02,Male trousers.
+Equipment,./gloucestershire.csv,Shirt,4.05,310,2015-05-21,Male short-sleeved black wicking shirts.
+Equipment,./gloucestershire.csv,Epaulettes,3.67,238,2015-07-23,Male black sliders.
+Equipment,./gloucestershire.csv,Belt,3.27,80,2015-04-21,Leather belts.
+Equipment,./gloucestershire.csv,Anorak/ waterproof jacket,98.50,41,2015-04-21,
+Equipment,./gloucestershire.csv,Hi Visibility jacket,78.45,20,2015-04-17,
+Equipment,./gloucestershire.csv,Cut resistant gloves,13.25,90,2015-03-19,
+Equipment,./gloucestershire.csv,Boots,,,,Not bought. The force does not issue boots to response officers.
+Equipment,./gloucestershire.csv,Utility belt,4.25,30,2014-01-08,"The force usually issues vests as default, instead of equipment belts."
+Equipment,./gloucestershire.csv,General Patrol full body armour,257.90,4,2015-05-11,Male armours.
+Equipment,./gloucestershire.csv,General Patrol body armour vest,79.44,70,2015-06-01,
+Equipment,./gloucestershire.csv,Standard Issue Handcuffs,16.95,50,2014-12-24,
+Equipment,./gloucestershire.csv,Baton,36.50,60,2008-12-11,There is a low order rate because the force issues batons for re-use.
+Equipment,./gloucestershire.csv,Airwave radio (hand held),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./gloucestershire.csv,Airwave radio (vehicle),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./gloucestershire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14300.66,4,2014-06-01,"Inc. commissioning, delivery and registration."
+Equipment,./gloucestershire.csv,Compact High performance estate vehicle - fully converted,30524.83,2,2014-03-03,BMW vehicle inc. commissioning.
+Equipment,./gloucestershire.csv,Fully kitted cell van,29644.00,6,2013-09-01,"Mercedes-Benz Vito van. The force plans to purchase Ford Transit next, in line with the region."
+Equipment,./durham.csv,Custodian style Police Helmet,28.90,40,2015-05-29,
+Equipment,./durham.csv,Fleece,20.39,221,2015-07-08,
+Equipment,./durham.csv,Trousers,8.95,2160,2015-03-26,
+Equipment,./durham.csv,Shirt,7.50,4080,2013-09-20,
+Equipment,./durham.csv,Epaulettes,1.26,200,2015-03-18,"Sliders, not epaulettes, as the force now issues wicking shirts and only high-ranking officers still wear white shirts."
+Equipment,./durham.csv,Belt,3.27,210,2015-06-29,
+Equipment,./durham.csv,Anorak/ waterproof jacket,,,,Not bought.
+Equipment,./durham.csv,Hi Visibility jacket,89.95,166,2015-02-23,
+Equipment,./durham.csv,Cut resistant gloves,13.95,80,2015-06-05,"Standard issue leather gloves in the force, information on the glove being cut resistant is not available at this time."
+Equipment,./durham.csv,Boots,30.30,30,2015-07-25,"High leg boots, low leg boots £33.60."
+Equipment,./durham.csv,Utility belt,6.25,30,2012-07-25,The force no longer purchases equipment belts because it now issues body armours which hold appointments.
+Equipment,./durham.csv,General Patrol full body armour,335.15,11,2015-06-09,"Price of new armour. Cost may be higher than other forces due to very low volumes purchased and Durham is not signed up to a contract for body armour. It is extremely rare that the force requires to purchase new plates due to our refurbishment of plates (£50), the quantities that we have in stock and the issue of body armour to officers for re-use following staff departures."
+Equipment,./durham.csv,General Patrol body armour vest,65.00,14,2015-06-09,
+Equipment,./durham.csv,Standard Issue Handcuffs,16.95,100,2015-05-09,
+Equipment,./durham.csv,Baton,37.96,20,2010-09-29,
+Equipment,./durham.csv,Airwave radio (hand held),440.00,150,2015-03-03,Fixed desk mount unit.
+Equipment,./durham.csv,Airwave radio (vehicle),475.00,10,2015-05-29,Remote mount mobile terminal.
+Equipment,./durham.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14263.46,10,2015-03-04,
+Equipment,./durham.csv,Compact High performance estate vehicle - fully converted,23737.46,3,2015-04-03,"Lowest unit price for one out of the three vehicles (BMW): the other two vehicles cost £23,737.46 and £29,086.11."
+Equipment,./durham.csv,Fully kitted cell van,21549.95,10,2015-04-03,
+Equipment,./humberside.csv,Custodian style Police Helmet,43.20,127,2015-01-30,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Fleece,20.39,214,2015-01-30,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Trousers,7.83,4932,2013-08-09,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Shirt,4.05,450,2015-05-29,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Epaulettes,2.80,90,2015-07-10,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Belt,3.80,230,2015-07-10,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Anorak/ waterproof jacket,85.75,22,2015-01-30,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Hi Visibility jacket,62.75,88,2015-01-30,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Cut resistant gloves,12.95,155,2015-07-10,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Boots,,,,Not bought.
+Equipment,./humberside.csv,Utility belt,4.50,160,2015-07-10,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,General Patrol full body armour,254.10,18,2015-04-22,Same price for male and female armours. Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,General Patrol body armour vest,60.20,845,2015-07-10,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Standard Issue Handcuffs,16.95,100,2015-06-26,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Baton,23.49,200,2015-03-05,Most recent order date for bulk purchase jointly with South and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./humberside.csv,Airwave radio (hand held),350.00,300,2015-03-31," Joint purchase with South Yorkshire Police. Total cost per set £391 inc. battery, antenna and case."
+Equipment,./humberside.csv,Airwave radio (vehicle),,,,Not purchased for over three years. Information is not available at this time.
+Equipment,./humberside.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14975.11,2,2014-12-05,Vauxhall Astra. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015.
+Equipment,./humberside.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. The force purchased three large standard high performance vehicles £31,104.26 on 14/08/14 with conversion carried out by West Yorkshire Police. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015."
+Equipment,./humberside.csv,Fully kitted cell van,19556.35,2,2014-11-13,Conversion carried out by West Yorkshire Police. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015.
+Equipment,./thames-valley.csv,Custodian style Police Helmet,,,,Not bought. The force does not issue custodian helmets.
+Equipment,./thames-valley.csv,Fleece,21.10,85,2015-07-15,Soft shell fleece.
+Equipment,./thames-valley.csv,Trousers,8.95,5013,2015-05-09,Cargo trousers. One year's order volume.
+Equipment,./thames-valley.csv,Shirt,4.40,2240,2015-07-22,"All climate, black wicking shirts."
+Equipment,./thames-valley.csv,Epaulettes,2.22,500,2015-04-17,Small black epaulettes.
+Equipment,./thames-valley.csv,Belt,3.50,241,2015-07-10,Leather belts.
+Equipment,./thames-valley.csv,Anorak/ waterproof jacket,,,,"Not bought. Anoraks £71.80 are not issued to response officers, only for road policing."
+Equipment,./thames-valley.csv,Hi Visibility jacket,74.95,83,2015-03-16,Waterproof blousons.
+Equipment,./thames-valley.csv,Cut resistant gloves,,,,Not bought. The force issues leather gloves.
+Equipment,./thames-valley.csv,Boots,,,,Not bought. The force does not issue boots to general patrol officers.
+Equipment,./thames-valley.csv,Utility belt,8.20,50,2015-07-10,2'' leather belts.
+Equipment,./thames-valley.csv,General Patrol full body armour,226.16,15,2015-07-23,"Male armours, female armours £179.33."
+Equipment,./thames-valley.csv,General Patrol body armour vest,42.22,15,2015-07-23,"Male vests, female vests £40.09."
+Equipment,./thames-valley.csv,Standard Issue Handcuffs,18.35,200,2015-07-15,
+Equipment,./thames-valley.csv,Baton,53.97,100,2015-01-19,Autolock 21'' batons.
+Equipment,./thames-valley.csv,Airwave radio (hand held),330.00,750,2015-02-20,
+Equipment,./thames-valley.csv,Airwave radio (vehicle),370.00,500,2014-03-18,"Exc. console. Force purchase through a consortium framework with Bedfordshire, Cambridgeshire and Hertfordshire and Thames Valley Police in 2003. Prices have reduced significantly over the years. "
+Equipment,./thames-valley.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13473.00,10,2015-07-15,"General purpose response vehicle inc. warning lights, livery, siren, delivery etc."
+Equipment,./thames-valley.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. The force operates standard large high performance estate vehicles for road policing, £26,540.00 on 22/07/15 inc. warning lights, livery, siren, delivery etc."
+Equipment,./thames-valley.csv,Fully kitted cell van,20805.00,5,2014-11-12,"Inc. warning lights, livery, siren, delivery etc."
+Equipment,./lincolnshire.csv,Custodian style Police Helmet,28.90,172,2015-01-01,Purchased via the West Midlands national contract.
+Equipment,./lincolnshire.csv,Fleece,32.95,90,2015-06-01,
+Equipment,./lincolnshire.csv,Trousers,8.95,4155,2015-06-01,"Male and female trousers purchased via the Greater Manchester Police contract. Volumes indicate the balance from the end of contract, rather than usual purchases by the force."
+Equipment,./lincolnshire.csv,Shirt,9.95,500,2015-06-01,Details have been entered for the force's previous supplier. The force is moving to the West Yorkshire Police national framework for climate (wicking) shirts from August 2015.
+Equipment,./lincolnshire.csv,Epaulettes,1.85,300,2015-03-01,"Black epaulettes only, exc. embroidered sliders, purchased via the Leicestershire contract."
+Equipment,./lincolnshire.csv,Belt,4.43,210,2015-04-01,
+Equipment,./lincolnshire.csv,Anorak/ waterproof jacket,96.95,50,2015-08-01,High visibility jackets - model 9 - purchased from Devon & Cornwall framework.
+Equipment,./lincolnshire.csv,Hi Visibility jacket,16.10,105,2013-07-01,Lightweight high visibility jackets.
+Equipment,./lincolnshire.csv,Cut resistant gloves,,,,Not bought.
+Equipment,./lincolnshire.csv,Boots,,,,"Not bought. The force does not issue boots as standard. Boots are only issued to specialist function officers (firearms, dog handlers etc)."
+Equipment,./lincolnshire.csv,Utility belt,6.42,300,2015-03-01,
+Equipment,./lincolnshire.csv,General Patrol full body armour,342.33,18,2012-07-01,Last new purchase of female body armour sets with male body armour sets at £393.06 via the West Midlands contract. The force mainly re-uses armour panels and only purchases replacement covers at about £74.40 subject to order volumes.
+Equipment,./lincolnshire.csv,General Patrol body armour vest,,,,Not bought. Replacement armour covers are purchased at about £74.40 subject to order volumes.
+Equipment,./lincolnshire.csv,Standard Issue Handcuffs,16.95,200,2014-05-01,
+Equipment,./lincolnshire.csv,Baton,55.91,100,2014-11-01,Purchased via the Metropolitan Police Service framework. Inc. laser etched numbering.
+Equipment,./lincolnshire.csv,Airwave radio (hand held),290.00,1700,2013-09-26,Purchased via the Metropolitan Police Service framework. Inc. extended warranty and batteries.
+Equipment,./lincolnshire.csv,Airwave radio (vehicle),686.00,450,2009-01-16,Purchased via the Metropolitan Police Service framework. Inc. handset and extended warranty.
+Equipment,./lincolnshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14368.15,30,2013-07-18,Not bought. The force last purchased plain Astra vehicles with price given inc. costs of conversion carried out in-house separately.
+Equipment,./lincolnshire.csv,Compact High performance estate vehicle - fully converted,33211.86,4,2012-05-11,Not bought. The force last purchased plain BMW vehicles with price given inc. costs of conversion carried out separately.
+Equipment,./lincolnshire.csv,Fully kitted cell van,16500.00,3,2015-03-01,"Peugeot Expert inc. cell van and blue light equipment conversion, livery and all emergency equipment."
+Equipment,./south-yorkshire.csv,Custodian style Police Helmet,33.70,127,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Fleece,20.39,214,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Trousers,7.83,4932,2013-08-09,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Shirt,4.05,450,2015-05-29,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Epaulettes,2.80,90,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Belt,3.80,230,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Anorak/ waterproof jacket,85.75,22,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Hi Visibility jacket,62.75,88,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Cut resistant gloves,12.95,155,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Boots,,,,Not bought.
+Equipment,./south-yorkshire.csv,Utility belt,4.50,160,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,General Patrol full body armour,254.10,18,2015-04-22,Same price for male and female armours. Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,General Patrol body armour vest,60.20,845,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Standard Issue Handcuffs,16.95,100,2015-06-26,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Baton,23.49,200,2015-03-05,Most recent order date for bulk purchase jointly with Humberside and West Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./south-yorkshire.csv,Airwave radio (hand held),350.00,300,2015-03-31,"Joint purchase with Humberside Police. Total cost per set £391 inc. battery, antenna and case."
+Equipment,./south-yorkshire.csv,Airwave radio (vehicle),,,,Not purchased for over three years. Information is not available at this time.
+Equipment,./south-yorkshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14595.40,10,2015-02-19,"Vauxhall Astra. Price for beat vehicles exc. VAT, plates, registration and delivery. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015."
+Equipment,./south-yorkshire.csv,Compact High performance estate vehicle - fully converted,34724.21,1,2014-12-13,The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015.
+Equipment,./south-yorkshire.csv,Fully kitted cell van,19867.83,1,2013-07-02,Vauxhall Vivaro. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015.
+Equipment,./avon-and-somerset.csv,Custodian style Police Helmet,28.90,11,2015-05-07,National specification helmets purchased under the West Midlands Police contract. There are two options on the contract to buy helmets with the badge plate either fitted or separately at different prices. The force buys helmets with the plate already fitted because it is a time-consuming process.
+Equipment,./avon-and-somerset.csv,Fleece,21.10,27,2015-07-14,Purchased under West Yorkshire Police national contract. A set of velcro 'POLICE' badges are also purchased separately (£3.50 per set) to complete the garments. It is possible that some forces have included this in their price information for the garments.
+Equipment,./avon-and-somerset.csv,Trousers,15.10,660,2015-06-12,"Male trousers purchased under South West Region contract, although the garments are not standard throughout the region. Modifications and variations have been required over the years to comply with Chief Office Group requests - via Uniform Committee."
+Equipment,./avon-and-somerset.csv,Shirt,4.75,180,2015-06-24,Male short-sleeved white shirts purchased under West Yorkshire Police contract. The force's standard patrol shirt is the white polycotton shirt.
+Equipment,./avon-and-somerset.csv,Epaulettes,1.25,4000,2014-11-28,No contract
+Equipment,./avon-and-somerset.csv,Belt,3.27,160,2015-07-14,This is the standard belt for uniform patrol trousers purchased under Greater Manchester Police contract.
+Equipment,./avon-and-somerset.csv,Anorak/ waterproof jacket,94.20,4,2015-07-07,Weatherproof garment purchased under South West Region contract.
+Equipment,./avon-and-somerset.csv,Hi Visibility jacket,10.95,55,2015-07-03,"Slipover garment, not weatherproof, purchased under South West Region Contract and issued as a piece of police protective equipment solely designed to meet high visibility requirements."
+Equipment,./avon-and-somerset.csv,Cut resistant gloves,15.45,50,2015-04-10,"Purchased under Cheshire Police contract and introduced during the past year to replace cheaper, but non-cut resistant, gloves."
+Equipment,./avon-and-somerset.csv,Boots,,,,Not bought. The force does not issue response/neighbourhood officers with boots.
+Equipment,./avon-and-somerset.csv,Utility belt,10.30,50,2015-06-25,Black leather option of equipment belt purchased under Greater Manchester Police contract. Some years ago the decision was made to move the carriage of police protective equipment from the body armour cover to the belt. New long-lasting leather pouches were bought to carry equipment and the change from canvas belt to leather belt was also made. Some forces may still buy the cheaper canvas belt.
+Equipment,./avon-and-somerset.csv,General Patrol full body armour,257.90,18,2015-05-08,"Male armours, female armours £224.03, purchased under the Metropolitan Police Service national contract which is mandated although allows some variations. The force takes the garment cover with no police protective equipment carrying pockets. Some forces may buy covers with pockets at a slightly higher cost. This is the 'Hawk' garment."
+Equipment,./avon-and-somerset.csv,General Patrol body armour vest,,,,Not bought
+Equipment,./avon-and-somerset.csv,Standard Issue Handcuffs,17.95,100,2015-01-15,"Rigid handcuff purchased from national framework. The force's choice of rigid handcuff allows greater control over the prisoner and is regarded as safer to use. Very few of the old chain type cuffs are bought for prisoner escort purposes, when the officer is required to walk alongside and to be physically chained to the prisoner. The chain version is cheaper but not widely used for common purposes."
+Equipment,./avon-and-somerset.csv,Baton,50.00,,2014-07-01,"The force uses refurbished stock. The baton requirement is generally serviced by recycling batons through a refurbished service which costs £25-£35 per baton, depending on the level of refurbishment required. New batons are occasionally bought when required at a cost of £50 each - the last time in July 2014 - specific date not known."
+Equipment,./avon-and-somerset.csv,Airwave radio (hand held),290.00,2000,,Purchased in 2013 - more detailed information is not available at this time.
+Equipment,./avon-and-somerset.csv,Airwave radio (vehicle),950.00,500,,"Estimates. No record of any purchases for over eight years or longer: units are repaired, refurbished and swapped."
+Equipment,./avon-and-somerset.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,10335.07,15,2014-05-18,"Vauxhall Corsa purchased via the national framework. Exc. IT equipment and telematics, but inc. other items (livery, mats, commissioning costs etc)"
+Equipment,./avon-and-somerset.csv,Compact High performance estate vehicle - fully converted,22960.96,1,2012-12-06,"Volvo vehicle purchased via the national framework. Exc. IT equipment and telematics, but inc. other items (livery, mats, commissioning costs etc)"
+Equipment,./avon-and-somerset.csv,Fully kitted cell van,22892.56,1,2014-08-20,"This was a six-month old ex demonstrator Ford Transit converted cell van. The last new purchase was a Vauxhall Vivaro, £23,307.65 on 22/08/13. The price for both these purchases exc. CCTV. The force has a contract to purchase converted cell vans, £27,711.86 until 02/10/18, but has not yet ordered any from this contract via national framework. "
+Equipment,./cumbria.csv,Custodian style Police Helmet,28.90,30,2015-02-19,
+Equipment,./cumbria.csv,Fleece,46.79,135,2014-10-14,"Purchased via the North West contract which expired at the end of June 2015 - Description: Goretex wind stopper Tornado material, with a Reflexite prismatic tape - not just a non-reflective check tape - and Police badges back and front."
+Equipment,./cumbria.csv,Trousers,8.95,128,2015-01-08,
+Equipment,./cumbria.csv,Shirt,8.15,500,2015-02-18,
+Equipment,./cumbria.csv,Epaulettes,3.25,18,2015-07-20,Purchased with embroidered collar number on.
+Equipment,./cumbria.csv,Belt,3.27,50,2015-07-18,
+Equipment,./cumbria.csv,Anorak/ waterproof jacket,,,,Not bought. The force no longer issues patrol officers with standard black waterproof jackets.
+Equipment,./cumbria.csv,Hi Visibility jacket,42.50,16,2015-07-11,
+Equipment,./cumbria.csv,Cut resistant gloves,13.95,30,2015-07-18,
+Equipment,./cumbria.csv,Boots,,,,Not bought. The force does not issue patrol officers with boots.
+Equipment,./cumbria.csv,Utility belt,6.95,60,2015-01-02,
+Equipment,./cumbria.csv,General Patrol full body armour,471.00,14,2015-07-22,"The force's choice of armour has the carriage on the cover (national specification plates inside a high visibility cover with carriage fittings for police protective equipment - baton; handcuffs; spray and leg restraints which are personnel issue), so there is no need to buy general patrol body armour vest to complement it."
+Equipment,./cumbria.csv,General Patrol body armour vest,,,,"Not bought because the force's choice of armour has the carriage on the cover (national specification plates inside a high visibility cover with carriage fittings for police protective equipment - baton; handcuffs; spray and leg restraints which are personnel issue), so no separate vest is needed."
+Equipment,./cumbria.csv,Standard Issue Handcuffs,16.65,100,2015-01-13,
+Equipment,./cumbria.csv,Baton,54.45,101,2015-01-13,
+Equipment,./cumbria.csv,Airwave radio (hand held),320.00,995,2013-05-20,
+Equipment,./cumbria.csv,Airwave radio (vehicle),280.00,337,2013-03-25,Only 150 of the 337 had the extended warranty taken out (to the end of the Airwave contract) as they are 'live' - the originals were hardware was bought in 2003 and have not been refreshed.
+Equipment,./cumbria.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,Not bought.
+Equipment,./cumbria.csv,Compact High performance estate vehicle - fully converted,18000.00,13,2015-02-01,BMW vehicle.
+Equipment,./cumbria.csv,Fully kitted cell van,21500.00,5,2015-07-13,Peugeot Expert van.
+Equipment,./dyfed-powys.csv,Custodian style Police Helmet,28.90,35,2015-07-20,
+Equipment,./dyfed-powys.csv,Fleece,21.10,160,2015-03-20,
+Equipment,./dyfed-powys.csv,Trousers,12.59,160,2015-06-12,"Male trousers purchased with 110 female trousers at £13.55. Polycotton hybrid trousers, the force does not issue cargo trousers."
+Equipment,./dyfed-powys.csv,Shirt,4.15,450,2015-07-20,Stock supported price of shirt. Unsupported price is £4.05 per shirt. The West Yorkshire framework provides the option for stock supported delivery to 5 days or unsupported stock with significantly longer leadtimes.
+Equipment,./dyfed-powys.csv,Epaulettes,1.80,200,2014-12-16,Price per pair.
+Equipment,./dyfed-powys.csv,Belt,3.18,75,2014-07-20,
+Equipment,./dyfed-powys.csv,Anorak/ waterproof jacket,79.95,110,2014-11-10,The force issues high visibility blousons to beat officers instead of anoraks. Inc. additional zips.
+Equipment,./dyfed-powys.csv,Hi Visibility jacket,14.40,100,2014-10-21,Lightweight high visibility jacket.
+Equipment,./dyfed-powys.csv,Cut resistant gloves,13.25,100,2015-06-18,
+Equipment,./dyfed-powys.csv,Boots,,,,"Not bought. The force does not issue boots to beat officers, but to specialist roles."
+Equipment,./dyfed-powys.csv,Utility belt,3.25,200,2014-05-07,
+Equipment,./dyfed-powys.csv,General Patrol full body armour,223.59,2,2015-06-30,"Male armours, female armours £190.24."
+Equipment,./dyfed-powys.csv,General Patrol body armour vest,34.31,8,2015-08-21,"Date of order of black of male armour cover vests. Female vests at £33.79. The intention for Dyfed Powys, Gwent and South Wales is to standardise to black or high visibility vests subject to review of whether high visibility garments should only be worn when operational need dictates."
+Equipment,./dyfed-powys.csv,Standard Issue Handcuffs,16.95,100,2014-10-01,Hinged handcuffs. Joint purchase with Gwent and South Wales.
+Equipment,./dyfed-powys.csv,Baton,38.00,50,2015-03-20,
+Equipment,./dyfed-powys.csv,Airwave radio (hand held),400.00,1,2015-06-29,
+Equipment,./dyfed-powys.csv,Airwave radio (vehicle),185.00,4,2015-05-07,Price for radio and headset.
+Equipment,./dyfed-powys.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,12969.75,17,2014-05-20,Ford Focus estate.
+Equipment,./dyfed-powys.csv,Compact High performance estate vehicle - fully converted,28092.81,3,2014-05-16,BMW.
+Equipment,./dyfed-powys.csv,Fully kitted cell van,20733.13,5,2014-05-30,Ford Transit.
+Equipment,./west-midlands.csv,Custodian style Police Helmet,28.90,40,2015-06-29,
+Equipment,./west-midlands.csv,Fleece,37.95,45,2015-07-22,
+Equipment,./west-midlands.csv,Trousers,16.00,40,2015-05-14,
+Equipment,./west-midlands.csv,Shirt,3.76,190,2015-05-28,Black wicking shirts
+Equipment,./west-midlands.csv,Epaulettes,1.85,1000,2015-01-15,
+Equipment,./west-midlands.csv,Belt,16.48,2,2015-07-22,
+Equipment,./west-midlands.csv,Anorak/ waterproof jacket,69.95,30,2015-07-22,High visibility blouson jackets.
+Equipment,./west-midlands.csv,Hi Visibility jacket,,,,Not bought because the force issues high visibility blouson jackets.
+Equipment,./west-midlands.csv,Cut resistant gloves,15.35,248,2015-02-24,
+Equipment,./west-midlands.csv,Boots,,,,Not bought. The force does not issue boots to patrol officers.
+Equipment,./west-midlands.csv,Utility belt,,,,"Not bought. The force purchases body armour carrying equipment, which negates a need to procure a separate utility belt."
+Equipment,./west-midlands.csv,General Patrol full body armour,288.16,38,2015-06-03,"Male armours inc. panels, high visibility cover and pouches. Female armours £239.68."
+Equipment,./west-midlands.csv,General Patrol body armour vest,,,,Not bought.
+Equipment,./west-midlands.csv,Standard Issue Handcuffs,16.95,200,2015-03-05,
+Equipment,./west-midlands.csv,Baton,55.91,15,2015-06-18,
+Equipment,./west-midlands.csv,Airwave radio (hand held),320.00,,,Not bought since 2012. The force has no plans to purchase this equipment until the national airwave replacement framework comes to fruition.
+Equipment,./west-midlands.csv,Airwave radio (vehicle),,,,Not bought since 2012. The force has no plans to purchase this equipment until the national airwave replacement framework comes to fruition.
+Equipment,./west-midlands.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13290.00,,2009-12-23,All-inc. unit price.
+Equipment,./west-midlands.csv,Compact High performance estate vehicle - fully converted,26841.00,,2013-04-11,All-inc. unit price.
+Equipment,./west-midlands.csv,Fully kitted cell van,19302.00,,2014-12-02,All-inc. unit price.
+Equipment,./north-wales.csv,Custodian style Police Helmet,28.90,20,2015-05-13,Standard helmets purchased under national contract.
+Equipment,./north-wales.csv,Fleece,42.64,140,2014-10-22,Purchased under Greater Manchester Police regional contract. The force is moving to the Metropolitan Police Service contract to purchase the fleece at a lower price.
+Equipment,./north-wales.csv,Trousers,8.95,3519,2015-06-24,Purchased under Greater Manchester Police regional contract.
+Equipment,./north-wales.csv,Shirt,4.74,80,2015-08-06,White short-sleeved male shirts purchased under West Yorkshire Police national contract. Moving to Merseyside national contract once awarded.
+Equipment,./north-wales.csv,Epaulettes,2.75,1000,2014-08-11,Plain epaulette price.
+Equipment,./north-wales.csv,Belt,3.27,90,2015-05-29,Purchased under the force's national contract.
+Equipment,./north-wales.csv,Anorak/ waterproof jacket,85.04,3,2015-04-20,Black anoraks not issued as standard (only 7 were issued in the past 12 months). The force is moving to the Metropolitan Police Service contract to purchase outerwear garments at a lower price.
+Equipment,./north-wales.csv,Hi Visibility jacket,41.95,110,2015-06-10,Lightweight jackets. £74.42 heavyweight jackets are issued to all officers. The force is moving to the Metropolitan Police Service contract to purchase the garments at a lower price. 
+Equipment,./north-wales.csv,Cut resistant gloves,13.25,55,2015-05-29,Purchased under the Cheshire regional contract.
+Equipment,./north-wales.csv,Boots,73.60,75,2015-07-08,Purchased under the force's national contract. The force also purchased different boots at £43.85 on 18/06/2015.
+Equipment,./north-wales.csv,Utility belt,7.71,30,2015-05-27,Purchased under the force's national contract.
+Equipment,./north-wales.csv,General Patrol full body armour,279.00,7,2015-06-10,With plain covers. Purchase under the Metropolitan Police Service national contract led by Lancashire Police.
+Equipment,./north-wales.csv,General Patrol body armour vest,62.60,50,2015-01-14,Tactical vests purchased under local contract.
+Equipment,./north-wales.csv,Standard Issue Handcuffs,16.95,50,2015-06-29,Purchased under the Metropolitan Police Service national contract.
+Equipment,./north-wales.csv,Baton,23.49,50,2015-05-27,Purchased under the Metropolitan Police Service national contract.
+Equipment,./north-wales.csv,Airwave radio (hand held),441.00,793,2010-07-14,"Exc. battery, antenna, colour display. Were purchased via national contract."
+Equipment,./north-wales.csv,Airwave radio (vehicle),,,,Vehicle radios and headsets have been recycled since airwave fitting in 2004. They were purchased via national contract.
+Equipment,./north-wales.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. General purpose/response/beat vehicles are all fitted with a containment cell, £17,583 on 01/12/14, inc. base vehicle, commissioning parts and labour, and cell unit (fitted). "
+Equipment,./north-wales.csv,Compact High performance estate vehicle - fully converted,32077.00,9,2013-12-13,Purchased via national contract.
+Equipment,./north-wales.csv,Fully kitted cell van,23804.38,4,2014-08-04,Purchased via national contract.
+Equipment,./north-yorkshire.csv,Custodian style Police Helmet,28.90,18,2015-07-14,
+Equipment,./north-yorkshire.csv,Fleece,21.10,60,2015-05-29,
+Equipment,./north-yorkshire.csv,Trousers,7.83,200,2015-05-14,
+Equipment,./north-yorkshire.csv,Shirt,3.75,300,2015-06-11,"Lowest price for female short-sleeved shirts £3.75, female long-sleeved shirts £4.31, male short-sleeved shirts £4.05 and male long-sleeved shirts £4.60"
+Equipment,./north-yorkshire.csv,Epaulettes,18.60,10,2015-07-22,Price per set of three pairs of sliders and one pair of epaulettes.
+Equipment,./north-yorkshire.csv,Belt,3.27,60,2015-06-18,
+Equipment,./north-yorkshire.csv,Anorak/ waterproof jacket,62.75,72,2015-02-26,Blousons.
+Equipment,./north-yorkshire.csv,Hi Visibility jacket,,,,Not bought.
+Equipment,./north-yorkshire.csv,Cut resistant gloves,12.95,150,2015-05-29,
+Equipment,./north-yorkshire.csv,Boots,,,,Not bought.
+Equipment,./north-yorkshire.csv,Utility belt,4.25,60,2015-07-15,
+Equipment,./north-yorkshire.csv,General Patrol full body armour,254.10,1,2015-07-16,Same price for male and female armours.
+Equipment,./north-yorkshire.csv,General Patrol body armour vest,,,,Not bought.
+Equipment,./north-yorkshire.csv,Standard Issue Handcuffs,10.00,30,2015-07-14,Price for refurbished handcuffs.
+Equipment,./north-yorkshire.csv,Baton,25.00,25,2015-07-14,Price for batons requiring light refurbishment. £35 for full refurbishment.
+Equipment,./north-yorkshire.csv,Airwave radio (hand held),400.00,300,2015-03-11,"Purchased under existing contract unless a cheaper alternative can be sourced. Inc. all ancillaries (antenna, earpieces, batteries etc)"
+Equipment,./north-yorkshire.csv,Airwave radio (vehicle),769.00,477,2010-03-01,"Purchased under existing contract unless a cheaper alternative can be sourced. Inc. all ancillaries (antenna, PTTs, looms etc)"
+Equipment,./north-yorkshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force does not use low performance hatchbacks, but purchased Vauxhall Astra estate vehicles for £14,930.00 via national framework on 14/01/15, converted in-house by West Yorkshire Police. "
+Equipment,./north-yorkshire.csv,Compact High performance estate vehicle - fully converted,32378.00,1,2015-01-22,"BMW vehicle purchased via national framework, converted in-house by West Yorkshire Police."
+Equipment,./north-yorkshire.csv,Fully kitted cell van,19508.50,2,2015-01-22,"Vauxhall Vivaro van purchased via national framework, converted in-house by West Yorkshire Police."
+Equipment,./surrey.csv,Custodian style Police Helmet,28.90,12,2015-07-14,
+Equipment,./surrey.csv,Fleece,21.10,45,2015-07-14,
+Equipment,./surrey.csv,Trousers,8.95,1570,2015-06-17,"Cargo, patrol trousers. The force also issues office trousers and ceremonial trousers."
+Equipment,./surrey.csv,Shirt,4.50,1553,2015-06-29,"Average price given as subject to specifications (male/female, long/short sleeves, colour, length)."
+Equipment,./surrey.csv,Epaulettes,4.50,29,2015-07-14,
+Equipment,./surrey.csv,Belt,7.42,40,2015-07-14,The force plans to review this item.
+Equipment,./surrey.csv,Anorak/ waterproof jacket,,,,Not bought. The force does not issue these garments to neighbourhood officers.
+Equipment,./surrey.csv,Hi Visibility jacket,75.70,45,2015-06-29,
+Equipment,./surrey.csv,Cut resistant gloves,10.60,60,2015-06-29,A decision has been made that cut resistant gloves were not required.
+Equipment,./surrey.csv,Boots,,,,Not bought. The force only issues boots to specialist roles.
+Equipment,./surrey.csv,Utility belt,10.87,60,2015-07-03,The force plans to review this item.
+Equipment,./surrey.csv,General Patrol full body armour,291.19,6,2015-07-14,"Male armours, female armours £249.24"
+Equipment,./surrey.csv,General Patrol body armour vest,39.97,4,2015-07-14,"Overt male vests, overt female vests £39.39. Covert male vests £19 and covert female vests £18.60."
+Equipment,./surrey.csv,Standard Issue Handcuffs,16.95,50,2015-07-14,Rigid handcuffs. The force has recently joined the new Metropolitan Police Service contract.
+Equipment,./surrey.csv,Baton,23.49,100,2011-05-19,The force refurbishes batons so the annual spend on these items is low.
+Equipment,./surrey.csv,Airwave radio (hand held),350.00,,,Not bought for over three years.
+Equipment,./surrey.csv,Airwave radio (vehicle),725.00,50,2015-07-01,
+Equipment,./surrey.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14534.95,38,,Purchased in May-July 2015.
+Equipment,./surrey.csv,Compact High performance estate vehicle - fully converted,32747.44,10,2015-06-01,"Purchased in May-July 2015, but vehicle conversion is normally carried out in-house."
+Equipment,./surrey.csv,Fully kitted cell van,,,,Information is not available at this time.
+Equipment,./nottinghamshire.csv,Custodian style Police Helmet,33.20,13,2015-03-27,
+Equipment,./nottinghamshire.csv,Fleece,21.10,7,2015-05-06,Purchased via West Yorkshire framework.
+Equipment,./nottinghamshire.csv,Trousers,7.83,998,2015-04-16,Retained contract price from ex West Yorkshire contract.
+Equipment,./nottinghamshire.csv,Shirt,2.85,50,2015-07-02,Female shirts. 226 male shirts at £3.76 were last purchased on 26/01/2015.
+Equipment,./nottinghamshire.csv,Epaulettes,3.41,8,2015-07-28,"Epaulettes embroidered with collar number, initial and surname, purchased via East Midlands framework."
+Equipment,./nottinghamshire.csv,Belt,3.30,9,2015-04-28,Female belts. 42 male belts at £3.30 last purchased on 27/04/2015.
+Equipment,./nottinghamshire.csv,Anorak/ waterproof jacket,134.00,31,2015-05-07,High visibility 3/4 jackets. No longer bought as the force plans to purchase cheaper garments. Original contract expired and due to low number being purchased the supplier agreed to retain continuity and still supply ad hoc. We no longer purchase this garment.
+Equipment,./nottinghamshire.csv,Hi Visibility jacket,69.95,65,2015-05-07,Blouson style jackets.
+Equipment,./nottinghamshire.csv,Cut resistant gloves,,,,Not bought.
+Equipment,./nottinghamshire.csv,Boots,,,,Not bought.
+Equipment,./nottinghamshire.csv,Utility belt,9.61,95,2014-11-24,"2"" leather belts with chrome buckle purchased via Greater Manchester Police framework."
+Equipment,./nottinghamshire.csv,General Patrol full body armour,210.00,1,2015-04-08,Female armour. One male armour at £260.00 last purchased on 15/01/2015. Armour panels inc. shoulder protectors.
+Equipment,./nottinghamshire.csv,General Patrol body armour vest,46.00,1,2015-04-08,New armour covers: female armour vest. One male armour vest at £46.56 last purchased on 15/01/2015.
+Equipment,./nottinghamshire.csv,Standard Issue Handcuffs,16.95,100,2015-06-23,Purchased via Northumbria framework.
+Equipment,./nottinghamshire.csv,Baton,58.50,100,2014-12-15,Inc. individual serial number.
+Equipment,./nottinghamshire.csv,Airwave radio (hand held),290.00,3000,2014-03-28,"Bulk purchase, unit price is normally £400."
+Equipment,./nottinghamshire.csv,Airwave radio (vehicle),370.00,300,2014-03-28,"Bulk purchase, unit price is normally £420."
+Equipment,./nottinghamshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,8631.65,27,2005-07-01,Ford Fiesta.
+Equipment,./nottinghamshire.csv,Compact High performance estate vehicle - fully converted,21100.00,5,2012-03-01,Volvo.
+Equipment,./nottinghamshire.csv,Fully kitted cell van,11396.40,10,2014-06-01,Peugeot Expert.
+Equipment,./northamptonshire.csv,Custodian style Police Helmet,28.90,34,2015-07-01,Purchased via national framework.
+Equipment,./northamptonshire.csv,Fleece,21.10,93,2015-06-01,Purchased via framework.
+Equipment,./northamptonshire.csv,Trousers,8.95,2500,2015-03-01,Purchased via framework.
+Equipment,./northamptonshire.csv,Shirt,4.05,40,2014-07-01,Purchased via national framework.
+Equipment,./northamptonshire.csv,Epaulettes,13.65,59,2015-06-01,"Price per set of 2 pairs of epaulettes and 2 pairs of sliders - 2 black epaulettes, 1 black slider and 1 high visibility yellow slider - to be worn on varying garments inc. by Specials. Purchased via framework."
+Equipment,./northamptonshire.csv,Belt,4.70,130,2015-05-01,Purchased via framework.
+Equipment,./northamptonshire.csv,Anorak/ waterproof jacket,69.95,70,2015-06-01,The force only issues a high visibility and waterproof blouson so separate waterproof / high visibility garments are not needed. 
+Equipment,./northamptonshire.csv,Hi Visibility jacket,,,,Not bought. The force only issues a high visibility and waterproof blouson so separate high visibility jackets are not needed. 
+Equipment,./northamptonshire.csv,Cut resistant gloves,12.95,100,2015-08-01,Purchased via national framework.
+Equipment,./northamptonshire.csv,Boots,,,,Not bought.
+Equipment,./northamptonshire.csv,Utility belt,6.12,25,2014-07-01,
+Equipment,./northamptonshire.csv,General Patrol full body armour,226.16,21,2015-07-01,Male armours purchased with 8 female armours for Special Constables at £179.93 via national framework.
+Equipment,./northamptonshire.csv,General Patrol body armour vest,99.00,117,2015-07-01,"The specifications for the garment inc. the correct size pocket for the baton issued by the force were previously decided to meet the force's requirements and its quality and reliability over the years has not given cause to review this item and look at alternatives, although with new frameworks becoming available and momentum on standardising items of police uniform and equipment the force is considering looking at alternatives. This would necessitate a major change in training and uniform items issued which of course has a cost to it."
+Equipment,./northamptonshire.csv,Standard Issue Handcuffs,16.35,200,2013-12-01,Purchased via national framework.
+Equipment,./northamptonshire.csv,Baton,82.91,250,2014-01-01,"The specifications for the baton were previously decided to meet the force's requirements and its quality and reliability over the years has not given cause to review this item and look at alternatives, although with new frameworks becoming available and momentum on standardising items of police uniform and equipment the force is considering looking at alternatives. A change of baton would imply a change in local training and uniform items issued - and associated costs. Discussions with a supplier about a different baton via a framework is ongoing pending the outcome of trials in an neighbouring force."
+Equipment,./northamptonshire.csv,Airwave radio (hand held),350.00,550,2015-07-05,
+Equipment,./northamptonshire.csv,Airwave radio (vehicle),,,,Not bought
+Equipment,./northamptonshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force last purchased 8 standard Vauxhall Astra vehicles at £15,500.30 on 01/07/15 to meet requirements for the force's policing model."
+Equipment,./northamptonshire.csv,Compact High performance estate vehicle - fully converted,29430.92,2,2014-07-01,BMW.
+Equipment,./northamptonshire.csv,Fully kitted cell van,16405.00,2,2015-07-01,Peugeot Expert cell vans.
+Equipment,./derbyshire.csv,Custodian style Police Helmet,36.59,20,2015-02-20,"Sewn cover, plastic trim."
+Equipment,./derbyshire.csv,Fleece,21.10,75,2015-07-02,
+Equipment,./derbyshire.csv,Trousers,14.00,3600,2014-12-10,Bulk order of new style trousers.
+Equipment,./derbyshire.csv,Shirt,3.99,50,2015-02-27,
+Equipment,./derbyshire.csv,Epaulettes,5.10,121,2015-05-07,"Sliders, black epaulettes £1.83 on 16/02/2015."
+Equipment,./derbyshire.csv,Belt,2.42,50,2015-04-23,
+Equipment,./derbyshire.csv,Anorak/ waterproof jacket,69.95,100,2014-09-30,
+Equipment,./derbyshire.csv,Hi Visibility jacket,105.00,30,2015-03-25,For volumes over 50 the unit price is £89.95.
+Equipment,./derbyshire.csv,Cut resistant gloves,,,,Not bought.
+Equipment,./derbyshire.csv,Boots,,,,Not bought.
+Equipment,./derbyshire.csv,Utility belt,7.65,30,2015-02-16,
+Equipment,./derbyshire.csv,General Patrol full body armour,266.88,5,2015-04-17,"Male armours, female armours £218.52. The force recycles body armours for re-use."
+Equipment,./derbyshire.csv,General Patrol body armour vest,,,,Not bought.
+Equipment,./derbyshire.csv,Standard Issue Handcuffs,16.95,24,2015-02-25,The force recycles handcuffs for re-use.
+Equipment,./derbyshire.csv,Baton,48.00,25,2011-04-01,The force recycles batons for re-use.
+Equipment,./derbyshire.csv,Airwave radio (hand held),439.00,1,2014-09-26,Inc. battery and antenna.
+Equipment,./derbyshire.csv,Airwave radio (vehicle),1040.00,1,2015-06-15,Inc. radio and car kit
+Equipment,./derbyshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,Information is not available at this time.
+Equipment,./derbyshire.csv,Compact High performance estate vehicle - fully converted,,,,Information is not available at this time.
+Equipment,./derbyshire.csv,Fully kitted cell van,,,,Information is not available at this time.
+Equipment,./west-yorkshire.csv,Custodian style Police Helmet,37.80,127,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Fleece,20.39,214,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Trousers,7.83,4932,2013-08-09,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Shirt,4.05,450,2015-05-29,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Epaulettes,2.80,90,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Belt,3.80,230,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Anorak/ waterproof jacket,85.75,22,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Hi Visibility jacket,62.75,88,2015-01-30,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Cut resistant gloves,12.95,155,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Boots,,,,Not bought.
+Equipment,./west-yorkshire.csv,Utility belt,4.50,160,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,General Patrol full body armour,254.10,18,2015-04-22,Same price for male and female armours. Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,General Patrol body armour vest,60.20,845,2015-07-10,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Standard Issue Handcuffs,16.95,100,2015-06-26,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Baton,23.49,200,2015-03-05,Most recent order date for bulk purchase jointly with Humberside and South Yorkshire Police. All uniform items are ordered by the regional store for all three forces. 
+Equipment,./west-yorkshire.csv,Airwave radio (hand held),460.00,17,2015-02-12,"Inc. encryption. Exc. antenna, battery, colour display."
+Equipment,./west-yorkshire.csv,Airwave radio (vehicle),600.00,10,2013-11-15,Inc. 7-year warranty.
+Equipment,./west-yorkshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,13238.90,15,2015-04-09,Vauxhall Astra beat vehicle. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015.
+Equipment,./west-yorkshire.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. BMW vehicle purchase price was £24,207.00 on 11/10/13. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015."
+Equipment,./west-yorkshire.csv,Fully kitted cell van,19090.00,15,2014-08-11,Vauxhall Vivaro. The Yorkshire and Humberside Police region is moving to the new vehicle purchase framework in 2015.
+Equipment,./wiltshire.csv,Custodian style Police Helmet,28.90,10,2015-04-17,National contract for beat duty helmet. Price based on 1-50 quantity.
+Equipment,./wiltshire.csv,Fleece,21.10,37,2015-06-11,Soft shell fleece purchased under West Yorkshire Police contract.
+Equipment,./wiltshire.csv,Trousers,13.55,92,2015-06-11,Female trousers purchased under South West Region contract. Male trousers £12.50 on 30/03/2015.
+Equipment,./wiltshire.csv,Shirt,4.05,80,2015-06-22,"Male short-sleeved black shirts, male long-sleeved black shirts £4.60, female short-sleeved black shirts £3.75 and female long-sleeved black shirts £4.31 via West Yorkshire all climate shirt framework on 22/06/2015."
+Equipment,./wiltshire.csv,Epaulettes,2.00,200,2015-09-01,Price per pair.
+Equipment,./wiltshire.csv,Belt,3.27,230,2015-06-18,Black leather belts.
+Equipment,./wiltshire.csv,Anorak/ waterproof jacket,87.00,45,2015-04-22,High visibility garment inc. velcro front and back. The force does not issue black waterproof garments.
+Equipment,./wiltshire.csv,Hi Visibility jacket,64.50,75,2015-04-01,"Exc. pockets which are fitted by the stores to fit officer role and preferences for the positioning of equipment and left / right hand use. Purchase price inc. pockets £16.97 for pray, cuffs and baton, £14.46 for pockets to carry spray and cuffs, £13.38 for baton only, and £16.71 for taser only. The most used configuration inc. spray, cuffs and baton pockets costs £81.47."
+Equipment,./wiltshire.csv,Cut resistant gloves,12.95,100,2015-05-18,Lower price based on order volume of 100.
+Equipment,./wiltshire.csv,Boots,,,,Not bought. The force does not issue boots to officers.
+Equipment,./wiltshire.csv,Utility belt,7.20,10,2014-10-06,Inc. leather buckle cover.
+Equipment,./wiltshire.csv,General Patrol full body armour,257.90,32,2015-06-02,"Male armours, female armours £222.56."
+Equipment,./wiltshire.csv,General Patrol body armour vest,33.58,6,,"Female armour covers, male armour covers £34.31 in June 2015."
+Equipment,./wiltshire.csv,Standard Issue Handcuffs,16.95,30,2013-09-11,
+Equipment,./wiltshire.csv,Baton,52.50,20,2013-01-01,
+Equipment,./wiltshire.csv,Airwave radio (hand held),279.80,1542,2015-01-30,Average price across three different types of handsets that were purchased.
+Equipment,./wiltshire.csv,Airwave radio (vehicle),,,,"No purchases have been made in the past three years as radios have been recycled / redistributed, negating the need to purchase new."
+Equipment,./wiltshire.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,14627.02,8,2014-07-01,
+Equipment,./wiltshire.csv,Compact High performance estate vehicle - fully converted,25883.04,,,Price based on order just placed for base BMW vehicle inc. commissioning. Most recent purchase: information is not available at this time.
+Equipment,./wiltshire.csv,Fully kitted cell van,28000.00,,,Price based on Mercedes Vito though not bought in the last two years. Most recent purchase information is not available at this time.
+Equipment,./northumbria.csv,Custodian style Police Helmet,28.90,90,2015-04-29,Purchased via national police framework.
+Equipment,./northumbria.csv,Fleece,21.10,20,2015-06-15,Purchased via Yorkshire Police framework.
+Equipment,./northumbria.csv,Trousers,8.95,4000,2015-06-22,Purchased via Greater Manchester Police framework.
+Equipment,./northumbria.csv,Shirt,3.99,2200,2015-05-18,Purchased via Kent Police framework.
+Equipment,./northumbria.csv,Epaulettes,1.68,1000,2014-11-05,
+Equipment,./northumbria.csv,Belt,3.50,250,2015-05-11,"Leather trouser belts, various sizes. Purchased via Greater Manchester Police framework."
+Equipment,./northumbria.csv,Anorak/ waterproof jacket,93.10,130,2015-04-29,"Price inc. dockets, insignia and reflexite high visibility tape."
+Equipment,./northumbria.csv,Hi Visibility jacket,31.97,10,2015-04-29,High visibility blouson.
+Equipment,./northumbria.csv,Cut resistant gloves,13.25,50,2015-06-03,Purchased via Cheshire Police framework.
+Equipment,./northumbria.csv,Boots,,,,Not bought. The force does not issue officers with boots.
+Equipment,./northumbria.csv,Utility belt,8.40,100,2015-04-29,Purchased via Greater Manchester Police framework.
+Equipment,./northumbria.csv,General Patrol full body armour,217.90,10,2015-06-09,Male and female body armours purchased via the Metropolitan Police Service framework.
+Equipment,./northumbria.csv,General Patrol body armour vest,62.50,80,2015-03-18,Purchased via the Metropolitan Police Service framework.
+Equipment,./northumbria.csv,Standard Issue Handcuffs,16.95,100,2015-06-15,Purchased via the Metropolitan Police Service national framework.
+Equipment,./northumbria.csv,Baton,67.00,100,2015-03-02,26'' push button retractable batons.
+Equipment,./northumbria.csv,Airwave radio (hand held),320.00,4500,,"This purchase was made about 8 years ago. A technology refresh was undertaken in 2013/14 on 3,290 units at £320 per unit."
+Equipment,./northumbria.csv,Airwave radio (vehicle),685.00,945,,"Police car radios, motorcycle radios £950 (20). These purchases were made about 6 years ago. Both items included 5-year extended warranty. During 2014/15 an extended warranty refresh was undertaken on 650 units. "
+Equipment,./northumbria.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,12073.00,67,2014-08-01,"Order date for Vauxhall Corsa vehicles, and 131 Vauxhall Astra Estate vehicles at £16,729, from national framework."
+Equipment,./northumbria.csv,Compact High performance estate vehicle - fully converted,31088.00,13,2015-03-24,Order date for BMW vehicles from national framework.
+Equipment,./northumbria.csv,Fully kitted cell van,19978.00,20,2013-12-16,Order date and price for base Vauxhall Vivaro vehicles from national framework exc. conversion which was tendered for separately.
+Equipment,./metropolitan.csv,Custodian style Police Helmet,31.25,95,2015-03-03,
+Equipment,./metropolitan.csv,Fleece,,,,Not bought. The force purchases anoraks with removable fleece at £66.80 (610 last purchased in December 2014).
+Equipment,./metropolitan.csv,Trousers,13.25,2924,2015-02-26,Male trousers. Female trousers at £13.00 purchased in July 2015.
+Equipment,./metropolitan.csv,Shirt,6.20,82,2015-02-27,Female short-sleeved shirts. 82 male short-sleeved white shirts at £6.50 were also purchased in February 2015.
+Equipment,./metropolitan.csv,Epaulettes,1.99,,,Price per pair. These are self-service for officers through National Police Procurement Hub (direct order with supplier) i.e. multiple daily event.
+Equipment,./metropolitan.csv,Belt,6.76,125,2015-07-16,
+Equipment,./metropolitan.csv,Anorak/ waterproof jacket,66.80,610,2014-12-01,Anoraks inc. removable fleece so the force does not need to buy a separate fleece.
+Equipment,./metropolitan.csv,Hi Visibility jacket,24.25,3025,2015-02-18,
+Equipment,./metropolitan.csv,Cut resistant gloves,29.40,130,2015-07-02,Slash-proof gloves. The force does not issue slash-proof gloves generally.
+Equipment,./metropolitan.csv,Boots,,,,Not bought. The force does not issue officers with patrol footwear.
+Equipment,./metropolitan.csv,Utility belt,6.99,250,2015-07-15,"Forces should be aware that the cost of equipment belts and body armour covers are influenced by the level of equipment that officers are required to carry and the location of carriage, so pricing by product will not account for different approaches to carriage."
+Equipment,./metropolitan.csv,General Patrol full body armour,219.99,205,2014-12-23,Male body armours inc. covers (£33.46 - see 'general patrol body armour vest' information). Female armours cost £173.99.
+Equipment,./metropolitan.csv,General Patrol body armour vest,33.46,68,2015-03-04,"Forces should be aware that the cost of equipment belts and body armour covers are influenced by the level of equipment that officers are required to carry and the location of carriage, so pricing by product will not account for different approaches to carriage."
+Equipment,./metropolitan.csv,Standard Issue Handcuffs,17.75,1000,2015-04-29,"Rigid handcuffs purchased from the national framework and including two keys (one short, one long) but does not include a pouch."
+Equipment,./metropolitan.csv,Baton,23.49,1500,2015-04-29,"21"" friction lock batons inc. pouch purchased from the national framework. Forces should be aware that auto lock batons are more expensive and there are costs associated with the change of batons and officer re-training if moving to the friction lock baton."
+Equipment,./metropolitan.csv,Airwave radio (hand held),280.00,3804,2012-03-01,Add £25 for enhanced five-year warranty. The force does not anticipate purchasing any new radios until Airwave is replaced.
+Equipment,./metropolitan.csv,Airwave radio (vehicle),729.00,7,2011-11-01,Add £25 for enhanced five-year warranty.
+Equipment,./metropolitan.csv,Fully kitted general purpose patrol vehicle - standard 5-door hatchback low performance car.,,,,"Not bought. The force does not use a general purpose patrol vehicle as such, but either a general purpose or incident response vehicle. The force's last tender date of 09/07/14 was for the purchase of 115 general purpose vehicles at £10,960 which are unmarked non-response vehicles of medium size, and fitted with additional technology that is not used by all forces. Forces should be aware that there are differences in the how they deploy certain assets and the options for multipurpose, this is especially the case in rural/city forces. Also it is dependant on how individual forces allocate the cost of ICT fitted in vehicles. "
+Equipment,./metropolitan.csv,Compact High performance estate vehicle - fully converted,,,,"Not bought. Forces should be aware that with the weight carrying capacity requirements of a traffic car which is part of the ACPO standardisation work the term Compact and Estate seem to be a contradiction. This is likely to result in unnecessary variation of response from forces that won't be like for like. The force's standard (not compact) traffic vehicle cost £33,621 in July 2014, fitted with additional technology that is not used by all forces. "
+Equipment,./metropolitan.csv,Fully kitted cell van,25975.42,75,2014-09-26,"Tender date. These vehicles are selected to ensure compliance with Health & Safety and guidelines for the transportation of detainees, and fitted with additional technology that is not used by all forces. The force has provided information on its cell van which is more in line with a Ford transit sized vehicle, although sizes and brands can vary."

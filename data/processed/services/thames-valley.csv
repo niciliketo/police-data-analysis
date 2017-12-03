@@ -1,0 +1,19 @@
+Services,./thames-valley.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./thames-valley.csv,DNA test,18.21,1.0,2015-11-10,
+Services,./thames-valley.csv,Toxicology test,27.40,1.0,2015-11-05,
+Services,./thames-valley.csv,Mobile phone examination,125.00,1.0,2015-11-01,
+Services,./thames-valley.csv,Forensic stain analysis,,,,"Information provided for a re-test which cost £20, not comparable with other purchases of this item."
+Services,./thames-valley.csv,Credit report or search,1.10,1.0,2015-11-01,Information provided for vetting reports only. Crime management and Supplier Evaluation reports cost £4.25 each.
+Services,./thames-valley.csv,Temporary staff administrator role,9.04,37.0,2015-11-30,Full charge hourly rate.
+Services,./thames-valley.csv,one-day car hire,19.79,2.0,2015-11-01,Rate excludes £2.50 collection / delivery charge each way.
+Services,./thames-valley.csv,30-day car hire,12.55,28.0,2016-02-01,
+Services,./thames-valley.csv,Ream of 500 sheets of white paper,1.75,20.0,2015-11-01,
+Services,./thames-valley.csv,Telephone interpreting inc. recording services (per minute),0.68,10.0,2015-11-01,
+Services,./thames-valley.csv,Face-to-face interpreting for 4 hours (half-day),80.00,4.0,2015-11-01,
+Services,./thames-valley.csv,Standard office cleaning (force average per m2 per year),7.60,30000.0,2015-12-01,
+Services,./thames-valley.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.018,12000.0,2015-12-01,
+Services,./thames-valley.csv,Laptop purchase,470.25,500.0,2015-11-01,500gb
+Services,./thames-valley.csv,Desktop purchase,314.46,1.0,2015-11-01,"Medium specifications 500gb with an i3 - 3 year warranty included along with VGA, dongle and cable Desktop PC."
+Services,./thames-valley.csv,"PC monitor - 19"" or smaller (inc. cables)",125.00,1.0,2015-11-01,
+Services,./thames-valley.csv,"PC monitor - 21"" or wider (inc. cables)",130.00,1.0,2015-11-01,
+Services,./thames-valley.csv,Telephone call charges (per minute),,,2015-11-01,Bundled cost from network provided where voice services are bundled in overall data bundle costs.

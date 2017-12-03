@@ -1,0 +1,19 @@
+Services,./kent.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./kent.csv,DNA test,,,,Information not provided.
+Services,./kent.csv,Toxicology test,25.33,1.0,2016-02-01,
+Services,./kent.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./kent.csv,Forensic stain analysis,126.00,1.0,2016-01-01,
+Services,./kent.csv,Credit report or search,4.25,1.0,2016-02-01,Information provided for vetting - personal reports.
+Services,./kent.csv,Temporary staff administrator role,8.06,1.0,2016-02-01,
+Services,./kent.csv,one-day car hire,21.20,1.0,2016-02-01,
+Services,./kent.csv,30-day car hire,,,,The force has never booked a 30-day car hire.
+Services,./kent.csv,Ream of 500 sheets of white paper,2.03,20.0,2016-02-01,Information provided not comparable with data requested.
+Services,./kent.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,Information on volumes not provided.
+Services,./kent.csv,Face-to-face interpreting for 4 hours (half-day),86.40,4.0,2016-02-01,
+Services,./kent.csv,Standard office cleaning (force average per m2 per year),12.37,,2016-02-01,Information on volumes not provided.
+Services,./kent.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.03,,,Information on volumes not provided.
+Services,./kent.csv,Laptop purchase,542.76,490.0,2016-02-12,
+Services,./kent.csv,Desktop purchase,389.80,450.0,2015-02-12,
+Services,./kent.csv,"PC monitor - 19"" or smaller (inc. cables)",95.40,300.0,2015-02-15,
+Services,./kent.csv,"PC monitor - 21"" or wider (inc. cables)",94.21,12.0,2016-02-05,
+Services,./kent.csv,Telephone call charges (per minute),,,,The force uses an Internet Protocol based service.

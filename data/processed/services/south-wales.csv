@@ -1,0 +1,19 @@
+Services,./south-wales.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./south-wales.csv,DNA test,17.00,1.0,2016-02-01,Ongoing purchases under the West Coast Consortium framework. Scientific Support unit is collaborative between South Wales and Gwent Police. The actual quantity purchased on this invoice is not known for this specific test. A monthly invoice is paid for the larger service provided by the supplier.
+Services,./south-wales.csv,Toxicology test,28.15,1.0,2016-02-01,Information provided for item code 20Tox A1 under Lot 211 (toxicology). The actual quantity purchased is not known for this specific test. A monthly invoice is paid for the larger service provided by the supplier.
+Services,./south-wales.csv,Mobile phone examination,360.00,1.0,2016-02-01,This cost is for a full examination and data extraction. Information on volumes purchased is not known for this specific test.
+Services,./south-wales.csv,Forensic stain analysis,87.30,1.0,2016-02-01,The actual quantity purchased on the latest invoice is not known for this specific test.
+Services,./south-wales.csv,Credit report or search,4.25,1.0,2016-02-01,Information provided for crime management & supplier evaluation reports. Volume purchased is not known for this specific service. A monthly invoice is paid for the total service provided by the supplier.
+Services,./south-wales.csv,Temporary staff administrator role,12.16,,,The force has not hired temporary admin staff in the last 3 years due to an in-house staff bank scheme. The figures used are based on the collaborative framework that is available if required.
+Services,./south-wales.csv,one-day car hire,18.50,1.0,2016-02-24,
+Services,./south-wales.csv,30-day car hire,12.50,31.0,2016-01-05,
+Services,./south-wales.csv,Ream of 500 sheets of white paper,1.58,1500.0,2016-02-15,A4 80gsm 1 ream 500 sheets.
+Services,./south-wales.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,"Although the Metropolitan Police framework recently expired, the supplier has continued to provide the service at the agreed rate. Information on volumes not provided. The cost per minute is the same for 1 minute or 1 hour."
+Services,./south-wales.csv,Face-to-face interpreting for 4 hours (half-day),120.00,,2016-02-01,The Welsh Interpretation and Translation Service providing the service is made up of a board of 21 public sector partners and run from Gwent Police. The actual quantity purchased on this invoice is not known for this specific service.
+Services,./south-wales.csv,Standard office cleaning (force average per m2 per year),13.91,112439.0,2016-02-01,"The force does not pay for standard office cleaning per m2 as the cost is dependent on many factors such as frequency of clean, type of use (canteen, office, store etc) and what if any equipment is needed. A monthly bill for cleaning the force premises is monitored through a schedule of rates per building. The force's Estates department has calculated the average cost per m2 per annum taking all these considerations into account."
+Services,./south-wales.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0188,2299015.0,2016-02-01,Information on volumes based on annual consumption.
+Services,./south-wales.csv,Laptop purchase,371.95,30.0,2015-10-01,Standard specifications.
+Services,./south-wales.csv,Desktop purchase,373.80,20.0,2015-04-12,Medium specifications
+Services,./south-wales.csv,"PC monitor - 19"" or smaller (inc. cables)",73.00,50.0,2016-02-05,
+Services,./south-wales.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./south-wales.csv,Telephone call charges (per minute),0.0048,,2016-02-01,Time charged for this purchase is included in a wider basket of goods.

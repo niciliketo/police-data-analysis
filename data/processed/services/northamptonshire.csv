@@ -1,0 +1,19 @@
+Services,./northamptonshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./northamptonshire.csv,DNA test,19.40,1.0,2016-02-01,
+Services,./northamptonshire.csv,Toxicology test,27.65,1.0,2016-02-01,
+Services,./northamptonshire.csv,Mobile phone examination,,,,"Service provided in-house and the force uses external services bespoke to device requirements. The requirement varies with make and model of phone, version running and user settings. These determine how the force examines and costs will range from £15 to £1,800. The force buys licences for required software and use its own hardware."
+Services,./northamptonshire.csv,Forensic stain analysis,118.50,1.0,2016-02-01,
+Services,./northamptonshire.csv,Credit report or search,4.25,1.0,2016-02-01,Unit price is a flat rate for all types of credit reports.
+Services,./northamptonshire.csv,Temporary staff administrator role,9.60,1.0,2016-02-01,
+Services,./northamptonshire.csv,one-day car hire,24.79,1.0,2016-02-23,Rate includes £2.50 collection / delivery charge each way.
+Services,./northamptonshire.csv,30-day car hire,12.72,30.0,2016-02-29,Daily rate calculated to include £2.50 collection / delivery charge each way.
+Services,./northamptonshire.csv,Ream of 500 sheets of white paper,1.93,100.0,2016-02-06,
+Services,./northamptonshire.csv,Telephone interpreting inc. recording services (per minute),0.68,500.0,2016-01-01,
+Services,./northamptonshire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,,,Information on volumes not provided.
+Services,./northamptonshire.csv,Standard office cleaning (force average per m2 per year),9.57,40353.0,2016-02-01,
+Services,./northamptonshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.06,7000000.0,2015-02-01,Information provided based on annual volume estimate for 2014/2015.
+Services,./northamptonshire.csv,Laptop purchase,904.05,25.0,2016-01-31,ThinkPad S1 Yoga 20DKCTO1WW
+Services,./northamptonshire.csv,Desktop purchase,548.00,20.0,2015-04-01,
+Services,./northamptonshire.csv,"PC monitor - 19"" or smaller (inc. cables)",101.40,30.0,2015-04-01,Dell professional P1914S standard LED monitor VGA DVi / DP(12801024 Black UK) 3yrs warranty
+Services,./northamptonshire.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./northamptonshire.csv,Telephone call charges (per minute),0.01,,2016-02-25,Land line calls via collaborative framework RM1045 Telephony.

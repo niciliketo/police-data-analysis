@@ -1,0 +1,19 @@
+Services,./sussex.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./sussex.csv,DNA test,18.21,1.0,2016-01-15,No information on volumes.
+Services,./sussex.csv,Toxicology test,25.33,1.0,2016-02-15,Volume information not provided.
+Services,./sussex.csv,Mobile phone examination,150.00,1.0,2016-02-01,Information provided for level 2 sim card and handset standard examination (14 days). Fixed price for standard examination regardless of volumes.
+Services,./sussex.csv,Forensic stain analysis,100.00,1.0,2016-02-15,Information on volumes not provided.
+Services,./sussex.csv,Credit report or search,1.35,1.0,2015-11-01,Volume information not provided.
+Services,./sussex.csv,Temporary staff administrator role,12.75,18.0,2016-02-01,General administrator costs.
+Services,./sussex.csv,one-day car hire,19.79,1.0,2015-12-01, Rate excludes £2.50 collection / delivery charge each way.
+Services,./sussex.csv,30-day car hire,12.25,30.0,2015-12-01,
+Services,./sussex.csv,Ream of 500 sheets of white paper,2.37,375.0,2016-02-01,Basic paper 75g - 75 boxes of 5 reams - £11.85 per box.
+Services,./sussex.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,Flat rate interpretation charge per minute. Information on volumes not provided.
+Services,./sussex.csv,Face-to-face interpreting for 4 hours (half-day),120.00,2.0,2016-02-01,Add £23.00 booking fee per assignment. Information provided for 4 hours as daily minimum payment for 2 hours.
+Services,./sussex.csv,Standard office cleaning (force average per m2 per year),10.19,68829.0,2016-02-01,"Cost information provided for standard cleaning excluding any special cleans, estimated by dividing the total cost by the site surface area so may not be totally accurate. Total surface area: 68,829m2."
+Services,./sussex.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0198,1808723.0,2016-01-31,Information on volumes based on annual consumption.
+Services,./sussex.csv,Laptop purchase,465.88,60.0,2016-01-12,Standard specifications HP640 G1.
+Services,./sussex.csv,Desktop purchase,,50.0,2015-09-15,The force most recently purchased 50 refurbished desktop PCs - at £99 per unit - not comparable with other forces' purchases.
+Services,./sussex.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,Monitors of this size are not ordered by the force.
+Services,./sussex.csv,"PC monitor - 21"" or wider (inc. cables)",123.05,10.0,2015-05-08,"Standard Samsung S243450F. The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./sussex.csv,Telephone call charges (per minute),,,,For telephone call charges the force has been on an Internet Protocol based system for the last 2 years so call charges are not available.

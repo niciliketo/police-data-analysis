@@ -1,0 +1,19 @@
+Services,./dorset.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./dorset.csv,DNA test,17.00,2664.0,2016-02-16,
+Services,./dorset.csv,Toxicology test,35.00,146.0,2016-02-22,
+Services,./dorset.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./dorset.csv,Forensic stain analysis,87.30,1.0,2016-02-18,
+Services,./dorset.csv,Credit report or search,1.10,1.0,2016-02-22,
+Services,./dorset.csv,Temporary staff administrator role,12.82,720.0,2016-02-18,
+Services,./dorset.csv,one-day car hire,19.79,1.0,2016-02-09,Rate excludes £2.50 collection / delivery charge each way.
+Services,./dorset.csv,30-day car hire,12.25,88.0,2015-11-26,
+Services,./dorset.csv,Ream of 500 sheets of white paper,1.93,20.0,2016-01-27,"Budget copier caper, 75g A4 white. A new national mini competition has just been competed for office supplies under the Crown Commercial Service framework RM3703, and the force will be moving to this contract in June 2016."
+Services,./dorset.csv,Telephone interpreting inc. recording services (per minute),0.68,35.0,2016-02-16,
+Services,./dorset.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-12,
+Services,./dorset.csv,Standard office cleaning (force average per m2 per year),13.00,33134.0,2015-04-01,"Price provided per m2 per annum, or £0.05 per m2 per day."
+Services,./dorset.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0191,1460576.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./dorset.csv,Laptop purchase,667.37,10.0,2016-02-18,Standard specifications HP Elitebook 840 G2.
+Services,./dorset.csv,Desktop purchase,313.99,50.0,2015-10-16,Medium specifications Viglen Genie Slim
+Services,./dorset.csv,"PC monitor - 19"" or smaller (inc. cables)",67.00,40.0,2015-10-16,
+Services,./dorset.csv,"PC monitor - 21"" or wider (inc. cables)",75.00,50.0,2015-10-16,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./dorset.csv,Telephone call charges (per minute),0.0049,1469000.0,2016-01-01,Annual volume.

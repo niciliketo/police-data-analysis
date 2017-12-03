@@ -1,0 +1,19 @@
+Services,./norfolk.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./norfolk.csv,DNA test,14.50,1.0,2016-01-31,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./norfolk.csv,Toxicology test,28.00,1.0,2016-01-31,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./norfolk.csv,Mobile phone examination,95.00,3.0,2016-02-01,
+Services,./norfolk.csv,Forensic stain analysis,118.30,1.0,2016-02-01,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./norfolk.csv,Credit report or search,4.25,5632.0,2015-10-01,Average unit price provided. Contract based on historic volume. The forces contracts a bulk purchase of all types of this item at the same price.
+Services,./norfolk.csv,Temporary staff administrator role,9.03,37.0,2016-03-07,
+Services,./norfolk.csv,one-day car hire,19.56,1.0,2016-01-05,"Flat rate for 24 hours with no delivery fee or early on / late off surcharge. There are reduced rates for longer hire periods from two days onwards. The force would normally hire a smaller car than requested for comparison, at £16.11 per day."
+Services,./norfolk.csv,30-day car hire,12.64,30.0,2015-07-08,"Flat rate for 24 hours with no delivery fee or early on / late off surcharge. There are reduced rates for longer hire periods. The force would normally hire a smaller car at £10.50 per day, than description requested for comparison."
+Services,./norfolk.csv,Ream of 500 sheets of white paper,1.62,125.0,2016-02-09,80gsm; with next day delivery as standard.
+Services,./norfolk.csv,Telephone interpreting inc. recording services (per minute),0.70,41.0,2016-02-05,
+Services,./norfolk.csv,Face-to-face interpreting for 4 hours (half-day),93.75,4.0,2016-02-04,Rate includes initial booking fee.
+Services,./norfolk.csv,Standard office cleaning (force average per m2 per year),13.81,1.0,2016-01-31,"The force-supplier's charging model is not on a per m2 basis and so the price given has been calculated, not contracted, which (1) includes all sites cleaned under the facilities management contract; window cleaning and consumables; and (2) excludes some areas and sites; landlord service charges e.g. fire stations; reactive cleaning e.g. medical centre and operational vehicle cleaning; one-off work such as carpet cleaning."
+Services,./norfolk.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,2804410.0,2015-10-01,
+Services,./norfolk.csv,Laptop purchase,807.66,20.0,2016-02-01,"Standard specifications; including pre loaded software; 5-year support; 256GB SSD; 3 cell battery, no touchscreen."
+Services,./norfolk.csv,Desktop purchase,531.30,150.0,2016-01-25,Mixed specifications; pre loaded software; 5 year support; i7; 8GB RAM; 500GB HDD
+Services,./norfolk.csv,"PC monitor - 19"" or smaller (inc. cables)",104.94,50.0,2015-09-24,
+Services,./norfolk.csv,"PC monitor - 21"" or wider (inc. cables)",95.95,100.0,2016-02-09,
+Services,./norfolk.csv,Telephone call charges (per minute),0.01,11.0,2016-01-31,Majority of calls are now VOIP incurring no additional costs.

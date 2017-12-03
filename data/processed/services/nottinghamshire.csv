@@ -1,0 +1,19 @@
+Services,./nottinghamshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./nottinghamshire.csv,DNA test,19.40,1.0,2015-09-30,Information provided for item code 07BFA1.
+Services,./nottinghamshire.csv,Toxicology test,27.65,1.0,2016-01-28,Information provided for item code 01TOXA1.
+Services,./nottinghamshire.csv,Mobile phone examination,16.66,1.0,2015-12-31,
+Services,./nottinghamshire.csv,Forensic stain analysis,118.50,1.0,2016-01-15,
+Services,./nottinghamshire.csv,Credit report or search,4.25,1.0,2015-11-01,Unit price is a flat rate for all types of credit reports.
+Services,./nottinghamshire.csv,Temporary staff administrator role,8.45,881.75,2016-02-12,
+Services,./nottinghamshire.csv,one-day car hire,24.79,1.0,2015-12-22,Rate includes £2.50 collection / delivery charge each way.
+Services,./nottinghamshire.csv,30-day car hire,12.72,30.0,2015-05-13,Daily rate calculated to include £2.50 collection / delivery charge each way.
+Services,./nottinghamshire.csv,Ream of 500 sheets of white paper,1.93,100.0,2016-02-06,
+Services,./nottinghamshire.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-01-01,Information on volumes not provided.
+Services,./nottinghamshire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,,2015-12-07,Information on volumes not provided.
+Services,./nottinghamshire.csv,Standard office cleaning (force average per m2 per year),9.64,62699.0,2016-02-01,
+Services,./nottinghamshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,The force's headquarters do not use gas supply services.
+Services,./nottinghamshire.csv,Laptop purchase,520.00,40.0,2016-01-01,"Standard specifications - not touchscreen, not 5-year warranty."
+Services,./nottinghamshire.csv,Desktop purchase,530.00,20.0,2014-10-01,"Medium specifications but 320 gb, no SSD, 3-year warranty."
+Services,./nottinghamshire.csv,"PC monitor - 19"" or smaller (inc. cables)",112.00,30.0,2015-07-24,
+Services,./nottinghamshire.csv,"PC monitor - 21"" or wider (inc. cables)",122.00,20.0,2014-07-02,
+Services,./nottinghamshire.csv,Telephone call charges (per minute),0.01,,2016-02-25,Figure taken from the framework contract RM1045. The force cannot provide a breakdown of information as requested due to the large number of complex activities being undertaken.

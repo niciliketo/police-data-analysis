@@ -1,0 +1,19 @@
+Services,./northumbria.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./northumbria.csv,DNA test,17.00,1024.0,2016-01-04,The unit price given is not for the item described but the force's equivalent. Forces in the North East Region do not use the same National Framework Specification Code.
+Services,./northumbria.csv,Toxicology test,29.90,10.0,2016-01-04,Information provided based on the force's equivalent of code for this item. Police forces in the North East Region do not use the National Framework Specification Code.
+Services,./northumbria.csv,Mobile phone examination,,,,The force does not procure this service which is provided in-house.
+Services,./northumbria.csv,Forensic stain analysis,99.00,86.0,2016-01-04,The force does not use the item code specified. Information provided for an equivalent service which includes both item codes 22BF-1-B1 and 20BF-1-B1 for national forensic products. A price of £50 is available under the contract for the equivalent service to the code 22BF-1-B1 but this has not been part of the recent purchase.
+Services,./northumbria.csv,Credit report or search,1.10,1366.0,2015-10-31,Service charged on an annual basis.
+Services,./northumbria.csv,Temporary staff administrator role,,,,The Force has no record of procuring any temporary administrator staff from a recruitment agency over the previous 12 months. Requirements for temporary administrator roles would go through normal recruitment process and be advertised as short term contracts.
+Services,./northumbria.csv,one-day car hire,18.00,1.0,2015-11-23,Information provided for hire of a VM Golf Match 1.6 TDI.
+Services,./northumbria.csv,30-day car hire,,,,The Force has no record of hiring any vehicle for a period of 30 days or more.
+Services,./northumbria.csv,Ream of 500 sheets of white paper,1.93,20.0,2016-01-28,80gsm Budget Paper.
+Services,./northumbria.csv,Telephone interpreting inc. recording services (per minute),0.68,5.0,2015-11-04,Information provided for last service call.
+Services,./northumbria.csv,Face-to-face interpreting for 4 hours (half-day),112.00,2.8,2015-10-29,The price charged is £28.00 per hour and the total price paid for the time stated was £79.33.
+Services,./northumbria.csv,Standard office cleaning (force average per m2 per year),,,,"The force does not procure this service, which is provided in-house."
+Services,./northumbria.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0211,19107.0,2016-01-29,
+Services,./northumbria.csv,Laptop purchase,550.67,1.0,2015-11-02,"Low / Local specification: Core i3 -4000m 2.4GH 3MB, 4GB DDR3-1600, DVD, HDD SATA, Intel Wireless N7260, 15.6"" HD Compound LED, Sierra Wireless EM7305, Digital Array MIC, TPM Module, Smart Card Slot, Country Kit, 2 Pin AC Adapter, 6 Cell Battery, Window 8.1."
+Services,./northumbria.csv,Desktop purchase,434.33,30.0,2015-03-23,"The force's specifications are below the medium specifications described for comparison. The force's specifications are: Core i3 -4160, 4GB DDR3 - 1600, DIMM, SSD Sata III 128GB, 2.5 Sound State Drive with SATA 6GD/S Interface with TPMClips with 5 yrs NBD response warranty."
+Services,./northumbria.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,The Force does not purchase this size of monitors.
+Services,./northumbria.csv,"PC monitor - 21"" or wider (inc. cables)",106.00,50.0,2016-02-15,"Force's specifications: height adjustable, swivel and rotate with VGA, DVI and HDMI inputs. The Force does not use this size of monitors, but 24""."
+Services,./northumbria.csv,Telephone call charges (per minute),0.0062,521204.0,2015-10-07,Call charges are tied into the force's managed service contract.

@@ -1,0 +1,19 @@
+Services,./cheshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./cheshire.csv,DNA test,17.00,142.0,2016-02-12,Information provided for Lot 201 = Police and Criminal Evidence Act DNA test; Lot 212 = £22.50; Lot 212 = £30.00.
+Services,./cheshire.csv,Toxicology test,28.15,3.0,2016-02-12,Information provided for Lot 211 (toxicology).
+Services,./cheshire.csv,Mobile phone examination,,,,Service is provided in-house. There is no third party supplier.
+Services,./cheshire.csv,Forensic stain analysis,85.54,71.0,2016-02-12,"Information provided for Lot 202 = Crime Stain; Lot 203 = Other DNA tests which are purchased for £90.04 or £145, and Lot 212, £90.04 or £130.50, from different suppliers."
+Services,./cheshire.csv,Credit report or search,4.25,13530.0,2015-11-10,Information on volumes is contracted quantity to be called off over a 12-monthly period.
+Services,./cheshire.csv,Temporary staff administrator role,10.88,,2016-02-12,Vendor neutral arrangement.
+Services,./cheshire.csv,one-day car hire,15.00,1.0,2016-02-05,Information provided for Skoda - Octavia SE TDI CR. Service purchased under a Cheshire Local Contract for Vehicle Hire. The procurement was conducted under an open procedure under EU Regs - CPA/SPU/474. 
+Services,./cheshire.csv,30-day car hire,12.00,29.0,2016-02-01,Information provided for Skoda - Octavia SE TDI CR hire. Service purchased under a Cheshire local contract for vehicle hire. The procurement was conducted under an open procedure under EU Regs - CPA/SPU/474.
+Services,./cheshire.csv,Ream of 500 sheets of white paper,2.15,200.0,2016-02-11,40 cases per week (case=5 reams).
+Services,./cheshire.csv,Telephone interpreting inc. recording services (per minute),0.66,28.0,2015-12-31,"Each transaction is only 1 call, therefore information provided on volumes is for the last service provided for a call of 28 minutes."
+Services,./cheshire.csv,Face-to-face interpreting for 4 hours (half-day),124.00,208.0,2016-01-31,"Each transaction is only 1 assignment, so information provided for a month's worth of services purchased by the force - January 2016. The month involved 61 assignments."
+Services,./cheshire.csv,Standard office cleaning (force average per m2 per year),,,2016-01-31,"Contract not based on surface/m2. Annual cost is £591,000 for an average cost of £0.028/m2/p.a. for standard office cleaning - not directly comparable with prices provided by most other forces (where based on m2 for this specific service)."
+Services,./cheshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,"The force's headquarters is a Private Finance Initiative so the information requested is not available, as utilities are part of the unitary charge."
+Services,./cheshire.csv,Laptop purchase,626.70,1.0,2015-10-22,Standard specifications. ThinkPad T440p includes - Lenovo Protection 3YR KYD - 20AWCTO1WW.
+Services,./cheshire.csv,Desktop purchase,369.64,10.0,2015-11-26,Standard specifications Dell OptiPlex 7020 SFF - (SM004D7020SFF1H161) - Manu. Part#: 99285043
+Services,./cheshire.csv,"PC monitor - 19"" or smaller (inc. cables)",117.09,1.0,2015-12-18,Standard specification. Dell Professional P1914S (19 - inch) LED backlit LCD monitor - 1000:1 250cd/m2 1280x1024 - 8ms
+Services,./cheshire.csv,"PC monitor - 21"" or wider (inc. cables)",130.00,1.0,2015-09-03,"Dell monitor and wireless - mouse. The force does not purchase monitors of this size. Information provided for purchases of monitors size 22""."
+Services,./cheshire.csv,Telephone call charges (per minute),0.0067,,,

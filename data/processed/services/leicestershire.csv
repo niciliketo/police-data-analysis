@@ -1,0 +1,19 @@
+Services,./leicestershire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./leicestershire.csv,DNA test,19.40,1.0,2016-01-31,Information provided for the force's equivalent under the National Forensics Framework code 07BFA1. Volume information on the most recent purchase is not available. Derbyshire Constabulary is the lead force from our collaborative forensic services.
+Services,./leicestershire.csv,Toxicology test,27.65,1.0,2016-01-31,The code for the force's equivalent item for comparison under the National Forensics Framework is 01TOXA1. Volume information not provided. Derbyshire Constabulary is the lead force from the force's collaborative forensic services.
+Services,./leicestershire.csv,Mobile phone examination,,,,These services are provided by in-house staff.
+Services,./leicestershire.csv,Forensic stain analysis,118.50,1.0,2016-01-31,"There is no direct match for the described item used by this force under the National Forensics Framework. Information provided for the closest equivalent item code 10BFA1 used by the force, which is for DNA profiling only, after an examination has taken place (however, this does not appear as an option for crime stains) although 22BF applies to both intelligence and casework stains so is also part of code 01BF purchased from the supplier for £118.50, and code 02BF for £165.00."
+Services,./leicestershire.csv,Credit report or search,1.10,2024.0,2016-01-31,"Information provided for staff vetting: volume shown is contracted annually. Crime management / supplier evaluation credit reports cost £4.25 each for annual contracted volumes of 11,731. In January 2016 the force used 2,234 reports from the total contracted allowance but there is no breakdown of this volume. Contract is invoiced via an annual licence based on estimated usage, with extra usage billed at end of year."
+Services,./leicestershire.csv,Temporary staff administrator role,8.98,,2016-01-31,Information on volumes not provided.
+Services,./leicestershire.csv,one-day car hire,24.24,1.0,2016-01-31,Price includes delivery and collection fees of £2.50 each way.
+Services,./leicestershire.csv,30-day car hire,16.78,30.0,2016-01-31,"Price includes delivery and collection fees. Volume shown is indicative, as the force hires more than one vehicle at a time."
+Services,./leicestershire.csv,Ream of 500 sheets of white paper,1.93,50.0,2016-01-31,
+Services,./leicestershire.csv,Telephone interpreting inc. recording services (per minute),0.68,,,
+Services,./leicestershire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,4.0,2016-01-31,Please note the costs include travel and other expenses - which cannot be extracted from total costs.
+Services,./leicestershire.csv,Standard office cleaning (force average per m2 per year),,,,"Information provided not comparable with requested data. In-house cleaning and security manager determines how many cleaning hours are needed at each site and location, not based on m2 but on specific usage of the site. Contract tendering is decided on this basis."
+Services,./leicestershire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0188,,2016-01-31,
+Services,./leicestershire.csv,Laptop purchase,761.00,100.0,2016-01-01,Local specifications.
+Services,./leicestershire.csv,Desktop purchase,452.02,50.0,2015-11-01,Local specifications.
+Services,./leicestershire.csv,"PC monitor - 19"" or smaller (inc. cables)",109.95,8.0,2015-12-01,
+Services,./leicestershire.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./leicestershire.csv,Telephone call charges (per minute),0.01,,2016-01-31,Information on volumes not provided.

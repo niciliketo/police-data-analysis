@@ -1,0 +1,19 @@
+Services,./dyfed-powys.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./dyfed-powys.csv,DNA test,17.00,1.0,2016-02-09,"Police and Criminal Evidence Act DNA test samples: 3,300 a year. Information on volumes from the most recent purchase not provided."
+Services,./dyfed-powys.csv,Toxicology test,28.15,1.0,2016-02-12,"Volume information not provided. It is difficult to provide 20TOX A1 figures, as these relate to some cases on the force's databases which are listed case-by-case. The drink driving tests are submitted direct from the stations and recorded on the databases."
+Services,./dyfed-powys.csv,Mobile phone examination,79.00,1.0,2015-12-21,Information on volumes purchased not provided.
+Services,./dyfed-powys.csv,Forensic stain analysis,79.80,1.0,2016-02-09,"Information provided for item code Crime Stain 22BF B1 start point 288/2013, 229/2014, 343/2015. Information on volumes not provided."
+Services,./dyfed-powys.csv,Credit report or search,4.25,250.0,2015-11-13,Information provided on the basis of annual volume and flat rate. The force has an annual contract rate which includes all requirements and is capped at 250 searches.
+Services,./dyfed-powys.csv,Temporary staff administrator role,13.00,148.0,2015-12-31,
+Services,./dyfed-powys.csv,one-day car hire,18.50,1.0,2016-02-26,
+Services,./dyfed-powys.csv,30-day car hire,,,,The force does not hire vehicles for this period of time.
+Services,./dyfed-powys.csv,Ream of 500 sheets of white paper,1.45,150.0,2016-02-15,
+Services,./dyfed-powys.csv,Telephone interpreting inc. recording services (per minute),0.68,1081.0,2015-12-31,
+Services,./dyfed-powys.csv,Face-to-face interpreting for 4 hours (half-day),120.00,10.02,2016-02-04,
+Services,./dyfed-powys.csv,Standard office cleaning (force average per m2 per year),11.21,1798.0,2016-01-27,Information provided for the force's site in Carmarthen. A different supplier is used for the force's headquarters for a different rate.
+Services,./dyfed-powys.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0193,160908.0,2016-02-09,
+Services,./dyfed-powys.csv,Laptop purchase,567.01,5.0,2016-02-03,Standard specifications.
+Services,./dyfed-powys.csv,Desktop purchase,345.30,1.0,2016-02-16,Medium specifications.
+Services,./dyfed-powys.csv,"PC monitor - 19"" or smaller (inc. cables)",68.01,5.0,2016-01-14,
+Services,./dyfed-powys.csv,"PC monitor - 21"" or wider (inc. cables)",77.18,1.0,2016-01-19,
+Services,./dyfed-powys.csv,Telephone call charges (per minute),,,2016-02-26,Rate is provided in an inclusive telecoms package linked to consumption but the requested information cannot be extracted.

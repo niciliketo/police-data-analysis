@@ -1,0 +1,19 @@
+Services,./surrey.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./surrey.csv,DNA test,18.21,1.0,2016-02-15,No information on volumes.
+Services,./surrey.csv,Toxicology test,25.33,1.0,2016-02-15,Volume information not provided.
+Services,./surrey.csv,Mobile phone examination,150.00,1.0,2016-02-01,Information provided for level 2 Sim card and Handset - standard examination (14 days). Volume information not provided. Fixed price for standard examination regardless of volumes.
+Services,./surrey.csv,Forensic stain analysis,100.00,1.0,2016-02-15,Information on volumes not provided.
+Services,./surrey.csv,Credit report or search,1.35,1.0,2015-11-01,Volume information not provided.
+Services,./surrey.csv,Temporary staff administrator role,12.75,15.0,2016-02-01,General administrator costs.
+Services,./surrey.csv,one-day car hire,19.79,1.0,2015-07-01, Rate excludes £2.50 collection / delivery charge each way.
+Services,./surrey.csv,30-day car hire,12.25,4.0,2015-12-01,
+Services,./surrey.csv,Ream of 500 sheets of white paper,2.37,250.0,2016-02-01,Basic paper 75g - Box of 5 reams price is £11.85 - fixed price not dependent on volumes.
+Services,./surrey.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,Flat rate interpretation charge per minute. Information on volumes not provided.
+Services,./surrey.csv,Face-to-face interpreting for 4 hours (half-day),120.00,2.0,2016-02-01,Add £23.00 booking fee per assignment. Information provided for 4 hours as daily minimum payment for 2 hours.
+Services,./surrey.csv,Standard office cleaning (force average per m2 per year),17.22,38014.0,2016-02-01,"Annual cost information provided, calculated by dividing total cost by site area so may not be totally accurate. Total surface area is 38,014m2."
+Services,./surrey.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0212,2743548.0,2016-01-31,Information on volumes based on annual consumption.
+Services,./surrey.csv,Laptop purchase,465.88,10.0,2016-01-14,Standard specifications HP640 G1 i5 processor.
+Services,./surrey.csv,Desktop purchase,439.15,12.0,2015-11-25,Standard specifications HP800 G2 i5 processor.
+Services,./surrey.csv,"PC monitor - 19"" or smaller (inc. cables)",119.06,30.0,2016-01-14,Standard HP monitors.
+Services,./surrey.csv,"PC monitor - 21"" or wider (inc. cables)",187.50,10.0,2015-11-25,"Standard HP Z24i. The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./surrey.csv,Telephone call charges (per minute),,,,For telephone call charges the force has been on an Internet Protocol based system for the last 2 years so call charges are not available.

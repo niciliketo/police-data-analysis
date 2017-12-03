@@ -1,0 +1,19 @@
+Services,./gwent.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./gwent.csv,DNA test,17.00,1.0,2016-01-28,Single item purchase. Information not based on a multiple DNA test invoice.
+Services,./gwent.csv,Toxicology test,28.15,1.0,2016-01-04,Single item purchase. Information not based on a multiple toxicology test invoice.
+Services,./gwent.csv,Mobile phone examination,360.00,,,Service not purchased by the force in the last 3 years. In-house service provision.
+Services,./gwent.csv,Forensic stain analysis,87.30,1.0,2015-12-23,Single item purchase.
+Services,./gwent.csv,Credit report or search,4.25,4000.0,2016-01-15,"The force pre-pays for 4,000 searches. The rate is per record for a range of services."
+Services,./gwent.csv,Temporary staff administrator role,12.96,13.5,2016-02-12,
+Services,./gwent.csv,one-day car hire,24.15,1.0,2014-11-28,The force has not hired a car since 2014.
+Services,./gwent.csv,30-day car hire,17.18,30.0,2014-10-02,The force has not hired a car since 2014.
+Services,./gwent.csv,Ream of 500 sheets of white paper,1.58,150.0,2015-12-21,
+Services,./gwent.csv,Telephone interpreting inc. recording services (per minute),0.68,,,The service is secured via the Wales Interpretation and Translation Service.
+Services,./gwent.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-04,The Wales Interpretation and Translation Service used is a regional public service partnership between 21 organisations in Wales.
+Services,./gwent.csv,Standard office cleaning (force average per m2 per year),15.65,,2015-12-01,"A breakdown of the total surface charge for each site in the force has not been provided. Information provided on the basis of supply of all necessary labour, plant and materials for cleaning services for the month of December 2015."
+Services,./gwent.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0188,3474.0,2016-02-09,
+Services,./gwent.csv,Laptop purchase,329.56,1.0,2016-02-23,The force uses a Shared Resource Service collaborative arrangement for the provision of ICT services with three local public sector organisations.
+Services,./gwent.csv,Desktop purchase,344.02,1.0,2015-05-19,The force uses a Shared Resource Service collaborative arrangement for the provision of ICT services with three local public sector organisations.
+Services,./gwent.csv,"PC monitor - 19"" or smaller (inc. cables)",82.11,1.0,2016-01-19,"The force uses a Shared Resource Service collaborative arrangement for the provision of ICT services with three local public sector organisations. The force does not purchase this size of monitors, only 20""."
+Services,./gwent.csv,"PC monitor - 21"" or wider (inc. cables)",,,,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 20""."
+Services,./gwent.csv,Telephone call charges (per minute),0.02,158673.0,2016-01-11,Estimated volume shown based on last invoice for total time 2644:33:19.

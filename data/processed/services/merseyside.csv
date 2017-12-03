@@ -1,0 +1,19 @@
+Services,./merseyside.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./merseyside.csv,DNA test,17.00,1.0,2016-01-15,Single item purchase.
+Services,./merseyside.csv,Toxicology test,28.15,1.0,2016-01-28,Single item purchase.
+Services,./merseyside.csv,Mobile phone examination,,,,In-house service provision.
+Services,./merseyside.csv,Forensic stain analysis,110.00,1.0,2016-02-12,Single item purchase.
+Services,./merseyside.csv,Credit report or search,1.10,4284.0,2015-10-01,Information provided for annual volume.
+Services,./merseyside.csv,Temporary staff administrator role,10.72,467.0,2016-01-12,"Staff administrator hourly rate based on Grade AA, evaluation scale."
+Services,./merseyside.csv,one-day car hire,18.00,2.0,2016-02-01,
+Services,./merseyside.csv,30-day car hire,11.55,46.0,2016-02-12,
+Services,./merseyside.csv,Ream of 500 sheets of white paper,2.50,25.0,2016-02-05,
+Services,./merseyside.csv,Telephone interpreting inc. recording services (per minute),0.66,15.0,2016-01-01,
+Services,./merseyside.csv,Face-to-face interpreting for 4 hours (half-day),124.00,6.25,2016-01-22,The force purchases this service at the rate of £0.5167 per minute and pricing information provided is calculated for 240 minutes. Volume provided estimated on a total purchase of 375 minutes.
+Services,./merseyside.csv,Standard office cleaning (force average per m2 per year),,,,Service provided in-house.
+Services,./merseyside.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0168,394706.0,2016-02-11,Information on volumes based on consumption for the period 01/01/2016 - 01/02/2016. Gas is procured for the force via the Crown Commercial Service who go out to the open market and buy tranches of gas throughout a 6-month time period. The 1.676p rate covers the period 01/10/2015 - 30/09/2016.
+Services,./merseyside.csv,Laptop purchase,,,,No information provided. In addition to replacing aged desktop machines the force has commenced a roll-out of portable hand held devices in the last 12 months.
+Services,./merseyside.csv,Desktop purchase,377.50,1000.0,2016-10-06,Model: Dell OptiPlex 7020SFF
+Services,./merseyside.csv,"PC monitor - 19"" or smaller (inc. cables)",101.76,1.0,2016-02-14,"Local arrangement for the purchase of monitors - Model: Dell P1914S Professional monitor, adjustable height."
+Services,./merseyside.csv,"PC monitor - 21"" or wider (inc. cables)",103.35,6.0,2016-02-10,"Local arrangement for the purchase of monitors. Model: Dell P2214H Professional monitor, adjustable height. The force does not purchase monitors of this size, but 22""."
+Services,./merseyside.csv,Telephone call charges (per minute),0.0055,,2015-12-31,Consolidated invoice. As the force has devolved budgets there are individual devolved bills submitted. Total quantity / consumption cannot be itemised or distinguished. 

@@ -1,0 +1,775 @@
+Type,Force,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./staffordshire.csv,DNA test,19.16,191.0,2016-01-28,The force is not yet using the item under the same code as it falls under the new supplier contract which starts in March 2016. Information provided for the force's equivalent code 07BFA1 for this item.
+Services,./staffordshire.csv,Toxicology test,26.92,8.0,2016-01-28,Information provided for the force's equivalent item code 01TOX'RTA Alcohol Analysis.
+Services,./staffordshire.csv,Mobile phone examination,125.00,4.0,2016-02-02,
+Services,./staffordshire.csv,Forensic stain analysis,,,,Information not provided. The force has not yet used the described item code which is slightly different from its equivalent in use in the force depending on specifications and the contract code that these will fall under.
+Services,./staffordshire.csv,Credit report or search,4.25,,,Information on volumes not provided. An annual licence fee is paid based on an anticipated annual usage.
+Services,./staffordshire.csv,Temporary staff administrator role,11.49,28.0,,Rate shown is for lower grade administrator role. Maximum grade hourly rate is £20.21.
+Services,./staffordshire.csv,one-day car hire,21.50,1.0,2016-01-15,
+Services,./staffordshire.csv,30-day car hire,13.96,28.0,2016-01-15,"The force does not hire cars on a 30-day basis, but a 28-day basis."
+Services,./staffordshire.csv,Ream of 500 sheets of white paper,1.93,,,"Price is based on a set rate against the contract used, price is not quantity dependent."
+Services,./staffordshire.csv,Telephone interpreting inc. recording services (per minute),0.66,,2016-01-15,"Actual rate is £0.011 per second, which is not volume related (flat rate)."
+Services,./staffordshire.csv,Face-to-face interpreting for 4 hours (half-day),124.00,,2016-01-15,Information on volumes not provided.
+Services,./staffordshire.csv,Standard office cleaning (force average per m2 per year),12.62,,,The force entered into a new contract in December 2015. Information provided for the annual average cost per m2 across all sites.
+Services,./staffordshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0228,,2015-12-15,Rate information based on the most recent bill for our the force's headquarters' largest single site. Price shown excludes climate change levy and daily charge (£0.031 per kWh including these elements).
+Services,./staffordshire.csv,Laptop purchase,662.61,32.0,2016-02-01,"Laptops are bought to order and have a huge range of specifications. The price shown is for specifications based on 15.530 ov.CPU; 15.6"" screen; 8GB Ram; 128 GB SSD; 4 years warranty, which are lower specifications than described for comparison. The force does not buy laptops to those specifications."
+Services,./staffordshire.csv,Desktop purchase,"1,390.00",1.0,,High specifications for forensics work HP Z420
+Services,./staffordshire.csv,"PC monitor - 19"" or smaller (inc. cables)",78.00,60.0,,"Information provided for the force's standard size of monitors: 17""."
+Services,./staffordshire.csv,"PC monitor - 21"" or wider (inc. cables)",98.00,1.0,,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 20""."
+Services,./staffordshire.csv,Telephone call charges (per minute),,,,No information provided.
+Services,./west-mercia.csv,DNA test,18.45,242.0,2016-02-15,The Region is using the National Forensics Framework which has different specifications and price points for the item. This item is Police and Criminal Evidence Act DNA test 07BF (price point A1) which is the most appropriate comparator. Pricing is dictated by tender volumes not by order. The Regional tender was awarded according to Home Office requirements on percentage split across region with different forces taking different suppliers and therefore different prices. A new national forensic contract starts on 01 March 2016 for the whole region.
+Services,./west-mercia.csv,Toxicology test,26.92,5.0,2016-02-26,Information provided for toxicology test code 01 TOX A1 under the National Forensics Framework. The force is re-tendering under the framework.
+Services,./west-mercia.csv,Mobile phone examination,160.00,5.0,2016-01-08,Price quoted is for Mobile Phone + SIM Card. Pricing varies according to individual specifications. The joint Warwickshire-West Mercia framework has been awarded to two suppliers because of demand and turn-around time requirements and so pricing also varies between suppliers. Consolidated orders raised with pricing based on original tendered volumes - discounts applicable according to individual requirements.
+Services,./west-mercia.csv,Forensic stain analysis,115.00,34.0,2016-02-15,The Region is using the National Forensics Framework which has different specifications and price points. Information provided for described item code 01BF which includes both codes 20BF and 22BF under the National Forensics Framework specifications. Pricing is dictated by regional volumes not by individual force orders. The regional tender was awarded to Home Office requirements on percentage split across the region with different forces taking different suppliers and therefore different prices. New contract starting in March 2016.
+Services,./west-mercia.csv,Credit report or search,1.18,1.0,2016-01-31,"Price quoted is for Identity Assurance report. Costs vary with types of reports used, ranging from £1.00 to £6.53."
+Services,./west-mercia.csv,Temporary staff administrator role,12.86,30.0,2016-02-19,Hourly cost reflects relationship to force salary scales as well as supplier's margin.
+Services,./west-mercia.csv,one-day car hire,19.00,30.0,2016-02-10,"Information provided for one-day hire of 30 vehicles. Rate quoted for 5-door manual Fiesta/Astra sized vehicle hire which is Alliance basic standard vehicle. Orders are raised on a monthly basis to provider on estimated order value. Pricing determined at tender, not by order."
+Services,./west-mercia.csv,30-day car hire,11.75,224.0,2016-02-10,Information provided includes rate quoted for 5-door manual Fiesta/Astra sized vehicle which is Alliance basic standard vehicle. 8 cars hired for 28 days (standard billing period).
+Services,./west-mercia.csv,Ream of 500 sheets of white paper,2.44,250.0,2016-02-16,"Information provided for bulk purchase order for Headquarters site including print room, ordered from specialist paper supplier with capability to service bulk ordering and specialist range. The force also orders for local delivery direct from stationery supplier. £11.50 per box of 5 reams or £2.30 per ream."
+Services,./west-mercia.csv,Telephone interpreting inc. recording services (per minute),0.80,7031.0,2016-01-31,"Consolidated orders raised for estimated purchases over elapsed time, not for individual purchases. Rate not order dependent. The force is awaiting the outcome of current framework exercises to inform future strategy."
+Services,./west-mercia.csv,Face-to-face interpreting for 4 hours (half-day),135.32,4.0,2016-01-29,Information on volumes based on the latest purchase. Only an hourly rate is charged. The force alliance uses National local translators from the Register of Public Service Interpreters. Payments are made against individual claims. The representative weekday rate quoted is £33.83 per hour - entry is therefore 2hrs at £33.83. The force is awaiting the outcome of new procurement framework to inform its future strategy.
+Services,./west-mercia.csv,Standard office cleaning (force average per m2 per year),8.57,93082.0,,"Cleaning cost per m2 is dependent on building design, floor surface, percentages and total cleaned area. Facilities Management services for the force are managed and provided through Place Partnership Ltd, a local authority joint venture company who are the contracting body. They have provided comparator information from the National Police Estates Group benchmarking survey which quotes Qualifying Cost (GIA) per m2."
+Services,./west-mercia.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0192,320947.0,2016-01-11,"Facilities Management services for the force are managed and provided through Place Partnership Ltd, a local authority joint venture company who are the contracting body. They use Crown Commercial Service frameworks for the provision of energy services to the force."
+Services,./west-mercia.csv,Laptop purchase,788.00,10.0,2016-02-15,"Force alliance standard specifications laptop except RAM and warranty - 4GB RAM, 3 yr warranty. Joint ICT department purchase for both West Mercia and Warwickshire Police. The most recent purchases have been made under West Mercia orders."
+Services,./west-mercia.csv,Desktop purchase,453.00,30.0,2016-02-29,Force alliance medium specifications except RAM - 4GB RAM. Joint ICT department purchase for West Mercia and Warwickshire – most recent purchases have been under West Mercia orders.
+Services,./west-mercia.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,The force alliance does not purchase monitors of this size.
+Services,./west-mercia.csv,"PC monitor - 21"" or wider (inc. cables)",79.95,1000.0,2016-02-15,Prices increase for smaller quantities.
+Services,./west-mercia.csv,Telephone call charges (per minute),0.0065,,2016-01-17,West Mercia Police plans to enter a joint contract with Warwickshire Police on a single network.
+Services,./essex.csv,DNA test,,,,Information not provided.
+Services,./essex.csv,Toxicology test,25.33,1.0,2016-02-01,
+Services,./essex.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./essex.csv,Forensic stain analysis,126.00,1.0,2016-01-01,
+Services,./essex.csv,Credit report or search,4.25,1.0,2016-02-01,Information provided for vetting - personal reports.
+Services,./essex.csv,Temporary staff administrator role,8.06,,2016-02-01,Volume information not provided.
+Services,./essex.csv,one-day car hire,21.20,1.0,2016-02-01,
+Services,./essex.csv,30-day car hire,,,,The force has never hired a car for 30 days.
+Services,./essex.csv,Ream of 500 sheets of white paper,2.03,10.0,2016-02-01,Information provided not comparable with data requested.
+Services,./essex.csv,Telephone interpreting inc. recording services (per minute),0.68,,,Information on volumes not provided.
+Services,./essex.csv,Face-to-face interpreting for 4 hours (half-day),86.40,4.0,2016-02-01,
+Services,./essex.csv,Standard office cleaning (force average per m2 per year),13.41,,,Information on volumes not provided.
+Services,./essex.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.03,,,Information on volumes not provided.
+Services,./essex.csv,Laptop purchase,542.76,350.0,2015-02-12,
+Services,./essex.csv,Desktop purchase,389.80,150.0,2015-02-12,
+Services,./essex.csv,"PC monitor - 19"" or smaller (inc. cables)",95.40,500.0,2015-02-15,
+Services,./essex.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./essex.csv,Telephone call charges (per minute),,,,The force uses an Internet Protocol based service.
+Services,./suffolk.csv,DNA test,14.50,1.0,2016-01-31,This item is purchased on a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./suffolk.csv,Toxicology test,28.00,1.0,2016-01-31,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./suffolk.csv,Mobile phone examination,,,,Service provided in-house. There are no records on the system for an external purchase as the High Tech Crime Unit has been used. Our standard rate with an outsourcer would be £75 if using the standard item code for comparison.
+Services,./suffolk.csv,Forensic stain analysis,118.30,1.0,2016-02-01,This item is purchased on a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./suffolk.csv,Credit report or search,4.25,10894.0,2015-10-01,Average unit price provided. Contract based on historic volume. The forces contracts a bulk purchase of all types of this item at the same price.
+Services,./suffolk.csv,Temporary staff administrator role,11.70,37.0,2015-12-18,
+Services,./suffolk.csv,one-day car hire,19.56,1.0,2016-02-11,"Flat rate for 24 hours with no delivery fee or early on / late off surcharge. There are reduced rates for longer hire periods from two days onwards. The force would normally hire a smaller car than requested for comparison, at £16.11 per day."
+Services,./suffolk.csv,30-day car hire,12.64,30.0,2015-07-08,"Flat rate for 24 hours with no delivery fee or early on / late off surcharge. There are reduced rates for longer hire periods. The force would normally hire a smaller car at £10.50 per day, than description requested for comparison."
+Services,./suffolk.csv,Ream of 500 sheets of white paper,1.62,125.0,2016-02-09,80gsm; with next day delivery as standard.
+Services,./suffolk.csv,Telephone interpreting inc. recording services (per minute),0.70,36.0,2016-01-08,
+Services,./suffolk.csv,Face-to-face interpreting for 4 hours (half-day),93.75,4.0,2015-12-08,Rate includes initial booking fee.
+Services,./suffolk.csv,Standard office cleaning (force average per m2 per year),13.81,1.0,2016-01-31,"The force-supplier's charging model is not on a per m2 basis and so the price given has been calculated, not contracted, which (1) includes all sites cleaned under the facilities management contract; window cleaning and consumables; and (2) excludes some areas and sites; landlord service charges e.g. fire stations; reactive cleaning e.g. medical centre and operational vehicle cleaning; one-off work such as carpet cleaning."
+Services,./suffolk.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0191,2060865.0,2015-10-01,
+Services,./suffolk.csv,Laptop purchase,807.66,20.0,2016-02-01,"Standard specifications; including pre loaded software; 5-year support; 256GB SSD; 3 cell battery, no touchscreen."
+Services,./suffolk.csv,Desktop purchase,531.30,150.0,2016-01-25,Mixed specifications; pre loaded software; 5 year support; i7; 8GB RAM; 500GB HDD
+Services,./suffolk.csv,"PC monitor - 19"" or smaller (inc. cables)",104.94,50.0,2015-09-24,
+Services,./suffolk.csv,"PC monitor - 21"" or wider (inc. cables)",95.95,100.0,2016-02-09,
+Services,./suffolk.csv,Telephone call charges (per minute),0.01,11.0,2016-01-31,Majority of calls are now VOIP incurring no additional costs.
+Services,./kent.csv,DNA test,,,,Information not provided.
+Services,./kent.csv,Toxicology test,25.33,1.0,2016-02-01,
+Services,./kent.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./kent.csv,Forensic stain analysis,126.00,1.0,2016-01-01,
+Services,./kent.csv,Credit report or search,4.25,1.0,2016-02-01,Information provided for vetting - personal reports.
+Services,./kent.csv,Temporary staff administrator role,8.06,1.0,2016-02-01,
+Services,./kent.csv,one-day car hire,21.20,1.0,2016-02-01,
+Services,./kent.csv,30-day car hire,,,,The force has never booked a 30-day car hire.
+Services,./kent.csv,Ream of 500 sheets of white paper,2.03,20.0,2016-02-01,Information provided not comparable with data requested.
+Services,./kent.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,Information on volumes not provided.
+Services,./kent.csv,Face-to-face interpreting for 4 hours (half-day),86.40,4.0,2016-02-01,
+Services,./kent.csv,Standard office cleaning (force average per m2 per year),12.37,,2016-02-01,Information on volumes not provided.
+Services,./kent.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.03,,,Information on volumes not provided.
+Services,./kent.csv,Laptop purchase,542.76,490.0,2016-02-12,
+Services,./kent.csv,Desktop purchase,389.80,450.0,2015-02-12,
+Services,./kent.csv,"PC monitor - 19"" or smaller (inc. cables)",95.40,300.0,2015-02-15,
+Services,./kent.csv,"PC monitor - 21"" or wider (inc. cables)",94.21,12.0,2016-02-05,
+Services,./kent.csv,Telephone call charges (per minute),,,,The force uses an Internet Protocol based service.
+Services,./sussex.csv,DNA test,18.21,1.0,2016-01-15,No information on volumes.
+Services,./sussex.csv,Toxicology test,25.33,1.0,2016-02-15,Volume information not provided.
+Services,./sussex.csv,Mobile phone examination,150.00,1.0,2016-02-01,Information provided for level 2 sim card and handset standard examination (14 days). Fixed price for standard examination regardless of volumes.
+Services,./sussex.csv,Forensic stain analysis,100.00,1.0,2016-02-15,Information on volumes not provided.
+Services,./sussex.csv,Credit report or search,1.35,1.0,2015-11-01,Volume information not provided.
+Services,./sussex.csv,Temporary staff administrator role,12.75,18.0,2016-02-01,General administrator costs.
+Services,./sussex.csv,one-day car hire,19.79,1.0,2015-12-01, Rate excludes £2.50 collection / delivery charge each way.
+Services,./sussex.csv,30-day car hire,12.25,30.0,2015-12-01,
+Services,./sussex.csv,Ream of 500 sheets of white paper,2.37,375.0,2016-02-01,Basic paper 75g - 75 boxes of 5 reams - £11.85 per box.
+Services,./sussex.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,Flat rate interpretation charge per minute. Information on volumes not provided.
+Services,./sussex.csv,Face-to-face interpreting for 4 hours (half-day),120.00,2.0,2016-02-01,Add £23.00 booking fee per assignment. Information provided for 4 hours as daily minimum payment for 2 hours.
+Services,./sussex.csv,Standard office cleaning (force average per m2 per year),10.19,68829.0,2016-02-01,"Cost information provided for standard cleaning excluding any special cleans, estimated by dividing the total cost by the site surface area so may not be totally accurate. Total surface area: 68,829m2."
+Services,./sussex.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0198,1808723.0,2016-01-31,Information on volumes based on annual consumption.
+Services,./sussex.csv,Laptop purchase,465.88,60.0,2016-01-12,Standard specifications HP640 G1.
+Services,./sussex.csv,Desktop purchase,,50.0,2015-09-15,The force most recently purchased 50 refurbished desktop PCs - at £99 per unit - not comparable with other forces' purchases.
+Services,./sussex.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,Monitors of this size are not ordered by the force.
+Services,./sussex.csv,"PC monitor - 21"" or wider (inc. cables)",123.05,10.0,2015-05-08,"Standard Samsung S243450F. The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./sussex.csv,Telephone call charges (per minute),,,,For telephone call charges the force has been on an Internet Protocol based system for the last 2 years so call charges are not available.
+Services,./leicestershire.csv,DNA test,19.40,1.0,2016-01-31,Information provided for the force's equivalent under the National Forensics Framework code 07BFA1. Volume information on the most recent purchase is not available. Derbyshire Constabulary is the lead force from our collaborative forensic services.
+Services,./leicestershire.csv,Toxicology test,27.65,1.0,2016-01-31,The code for the force's equivalent item for comparison under the National Forensics Framework is 01TOXA1. Volume information not provided. Derbyshire Constabulary is the lead force from the force's collaborative forensic services.
+Services,./leicestershire.csv,Mobile phone examination,,,,These services are provided by in-house staff.
+Services,./leicestershire.csv,Forensic stain analysis,118.50,1.0,2016-01-31,"There is no direct match for the described item used by this force under the National Forensics Framework. Information provided for the closest equivalent item code 10BFA1 used by the force, which is for DNA profiling only, after an examination has taken place (however, this does not appear as an option for crime stains) although 22BF applies to both intelligence and casework stains so is also part of code 01BF purchased from the supplier for £118.50, and code 02BF for £165.00."
+Services,./leicestershire.csv,Credit report or search,1.10,2024.0,2016-01-31,"Information provided for staff vetting: volume shown is contracted annually. Crime management / supplier evaluation credit reports cost £4.25 each for annual contracted volumes of 11,731. In January 2016 the force used 2,234 reports from the total contracted allowance but there is no breakdown of this volume. Contract is invoiced via an annual licence based on estimated usage, with extra usage billed at end of year."
+Services,./leicestershire.csv,Temporary staff administrator role,8.98,,2016-01-31,Information on volumes not provided.
+Services,./leicestershire.csv,one-day car hire,24.24,1.0,2016-01-31,Price includes delivery and collection fees of £2.50 each way.
+Services,./leicestershire.csv,30-day car hire,16.78,30.0,2016-01-31,"Price includes delivery and collection fees. Volume shown is indicative, as the force hires more than one vehicle at a time."
+Services,./leicestershire.csv,Ream of 500 sheets of white paper,1.93,50.0,2016-01-31,
+Services,./leicestershire.csv,Telephone interpreting inc. recording services (per minute),0.68,,,
+Services,./leicestershire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,4.0,2016-01-31,Please note the costs include travel and other expenses - which cannot be extracted from total costs.
+Services,./leicestershire.csv,Standard office cleaning (force average per m2 per year),,,,"Information provided not comparable with requested data. In-house cleaning and security manager determines how many cleaning hours are needed at each site and location, not based on m2 but on specific usage of the site. Contract tendering is decided on this basis."
+Services,./leicestershire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0188,,2016-01-31,
+Services,./leicestershire.csv,Laptop purchase,761.00,100.0,2016-01-01,Local specifications.
+Services,./leicestershire.csv,Desktop purchase,452.02,50.0,2015-11-01,Local specifications.
+Services,./leicestershire.csv,"PC monitor - 19"" or smaller (inc. cables)",109.95,8.0,2015-12-01,
+Services,./leicestershire.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./leicestershire.csv,Telephone call charges (per minute),0.01,,2016-01-31,Information on volumes not provided.
+Services,./devon-and-cornwall.csv,DNA test,22.50,5475.0,2016-02-22,
+Services,./devon-and-cornwall.csv,Toxicology test,28.15,222.0,2016-02-22,
+Services,./devon-and-cornwall.csv,Mobile phone examination,285.00,1.0,2015-11-16,The force has recently completed a regional tender for this service.
+Services,./devon-and-cornwall.csv,Forensic stain analysis,110.00,1.0,2016-02-24,"The force has provided information for starting point 2 of the item described, as it does not use starting point 1."
+Services,./devon-and-cornwall.csv,Credit report or search,1.10,1.0,2016-02-23,
+Services,./devon-and-cornwall.csv,Temporary staff administrator role,12.21,3429.5,2016-02-26,"Regional mini-competition under the collaborative framework has now been awarded, with the new contract to commence in April 2016."
+Services,./devon-and-cornwall.csv,one-day car hire,19.79,1.0,2016-02-23,Rate excludes £2.50 collection / delivery charge each way.
+Services,./devon-and-cornwall.csv,30-day car hire,12.25,30.0,2015-11-22,
+Services,./devon-and-cornwall.csv,Ream of 500 sheets of white paper,1.90,25.0,2016-02-17,"Budget copier caper, 75g A4 white. A new national mini competition has just been competed for office supplies under the Crown Commercial Service framework RM3703, and the force will be moving to this contract in June 2016."
+Services,./devon-and-cornwall.csv,Telephone interpreting inc. recording services (per minute),0.68,45.0,2016-02-22,
+Services,./devon-and-cornwall.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-22,A registered list of translators from the National Register of Public Service Interpreters are used.
+Services,./devon-and-cornwall.csv,Standard office cleaning (force average per m2 per year),14.82,104996.0,2015-04-01,"Price provided is per m2 per annum, or £0.057 per m2 per day."
+Services,./devon-and-cornwall.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0164,2023148.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./devon-and-cornwall.csv,Laptop purchase,640.00,10.0,2016-02-18,Standard specifications laptops purchased through the Devon & Cornwall IT managed services contract.
+Services,./devon-and-cornwall.csv,Desktop purchase,430.00,400.0,2016-02-18,Medium specifications desktops purchased through the Devon & Cornwall IT managed services contract.
+Services,./devon-and-cornwall.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors, only 22"". "
+Services,./devon-and-cornwall.csv,"PC monitor - 21"" or wider (inc. cables)",87.72,18.0,2016-02-11,"The force does not purchase monitors of this size. Purchases are made through the IT managed services contract. The force's standard size is 22""."
+Services,./devon-and-cornwall.csv,Telephone call charges (per minute),0.0049,2100000.0,2016-01-01,Annual volume.
+Services,./gwent.csv,DNA test,17.00,1.0,2016-01-28,Single item purchase. Information not based on a multiple DNA test invoice.
+Services,./gwent.csv,Toxicology test,28.15,1.0,2016-01-04,Single item purchase. Information not based on a multiple toxicology test invoice.
+Services,./gwent.csv,Mobile phone examination,360.00,,,Service not purchased by the force in the last 3 years. In-house service provision.
+Services,./gwent.csv,Forensic stain analysis,87.30,1.0,2015-12-23,Single item purchase.
+Services,./gwent.csv,Credit report or search,4.25,4000.0,2016-01-15,"The force pre-pays for 4,000 searches. The rate is per record for a range of services."
+Services,./gwent.csv,Temporary staff administrator role,12.96,13.5,2016-02-12,
+Services,./gwent.csv,one-day car hire,24.15,1.0,2014-11-28,The force has not hired a car since 2014.
+Services,./gwent.csv,30-day car hire,17.18,30.0,2014-10-02,The force has not hired a car since 2014.
+Services,./gwent.csv,Ream of 500 sheets of white paper,1.58,150.0,2015-12-21,
+Services,./gwent.csv,Telephone interpreting inc. recording services (per minute),0.68,,,The service is secured via the Wales Interpretation and Translation Service.
+Services,./gwent.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-04,The Wales Interpretation and Translation Service used is a regional public service partnership between 21 organisations in Wales.
+Services,./gwent.csv,Standard office cleaning (force average per m2 per year),15.65,,2015-12-01,"A breakdown of the total surface charge for each site in the force has not been provided. Information provided on the basis of supply of all necessary labour, plant and materials for cleaning services for the month of December 2015."
+Services,./gwent.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0188,3474.0,2016-02-09,
+Services,./gwent.csv,Laptop purchase,329.56,1.0,2016-02-23,The force uses a Shared Resource Service collaborative arrangement for the provision of ICT services with three local public sector organisations.
+Services,./gwent.csv,Desktop purchase,344.02,1.0,2015-05-19,The force uses a Shared Resource Service collaborative arrangement for the provision of ICT services with three local public sector organisations.
+Services,./gwent.csv,"PC monitor - 19"" or smaller (inc. cables)",82.11,1.0,2016-01-19,"The force uses a Shared Resource Service collaborative arrangement for the provision of ICT services with three local public sector organisations. The force does not purchase this size of monitors, only 20""."
+Services,./gwent.csv,"PC monitor - 21"" or wider (inc. cables)",,,,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 20""."
+Services,./gwent.csv,Telephone call charges (per minute),0.02,158673.0,2016-01-11,Estimated volume shown based on last invoice for total time 2644:33:19.
+Services,./norfolk.csv,DNA test,14.50,1.0,2016-01-31,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./norfolk.csv,Toxicology test,28.00,1.0,2016-01-31,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./norfolk.csv,Mobile phone examination,95.00,3.0,2016-02-01,
+Services,./norfolk.csv,Forensic stain analysis,118.30,1.0,2016-02-01,This item is purchased with a monthly consolidated invoice and the price does not vary as it is based on volumes from the mini competition.
+Services,./norfolk.csv,Credit report or search,4.25,5632.0,2015-10-01,Average unit price provided. Contract based on historic volume. The forces contracts a bulk purchase of all types of this item at the same price.
+Services,./norfolk.csv,Temporary staff administrator role,9.03,37.0,2016-03-07,
+Services,./norfolk.csv,one-day car hire,19.56,1.0,2016-01-05,"Flat rate for 24 hours with no delivery fee or early on / late off surcharge. There are reduced rates for longer hire periods from two days onwards. The force would normally hire a smaller car than requested for comparison, at £16.11 per day."
+Services,./norfolk.csv,30-day car hire,12.64,30.0,2015-07-08,"Flat rate for 24 hours with no delivery fee or early on / late off surcharge. There are reduced rates for longer hire periods. The force would normally hire a smaller car at £10.50 per day, than description requested for comparison."
+Services,./norfolk.csv,Ream of 500 sheets of white paper,1.62,125.0,2016-02-09,80gsm; with next day delivery as standard.
+Services,./norfolk.csv,Telephone interpreting inc. recording services (per minute),0.70,41.0,2016-02-05,
+Services,./norfolk.csv,Face-to-face interpreting for 4 hours (half-day),93.75,4.0,2016-02-04,Rate includes initial booking fee.
+Services,./norfolk.csv,Standard office cleaning (force average per m2 per year),13.81,1.0,2016-01-31,"The force-supplier's charging model is not on a per m2 basis and so the price given has been calculated, not contracted, which (1) includes all sites cleaned under the facilities management contract; window cleaning and consumables; and (2) excludes some areas and sites; landlord service charges e.g. fire stations; reactive cleaning e.g. medical centre and operational vehicle cleaning; one-off work such as carpet cleaning."
+Services,./norfolk.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,2804410.0,2015-10-01,
+Services,./norfolk.csv,Laptop purchase,807.66,20.0,2016-02-01,"Standard specifications; including pre loaded software; 5-year support; 256GB SSD; 3 cell battery, no touchscreen."
+Services,./norfolk.csv,Desktop purchase,531.30,150.0,2016-01-25,Mixed specifications; pre loaded software; 5 year support; i7; 8GB RAM; 500GB HDD
+Services,./norfolk.csv,"PC monitor - 19"" or smaller (inc. cables)",104.94,50.0,2015-09-24,
+Services,./norfolk.csv,"PC monitor - 21"" or wider (inc. cables)",95.95,100.0,2016-02-09,
+Services,./norfolk.csv,Telephone call charges (per minute),0.01,11.0,2016-01-31,Majority of calls are now VOIP incurring no additional costs.
+Services,./greater-manchester.csv,DNA test,17.00,1.0,2016-02-01,No information on volumes. Multiple purchases of this item on daily basis.
+Services,./greater-manchester.csv,Toxicology test,35.00,1.0,2016-02-01,Information provided for the last purchase made in February 2016.
+Services,./greater-manchester.csv,Mobile phone examination,,,,Mobile phone examination is undertaken in-house within the force.
+Services,./greater-manchester.csv,Forensic stain analysis,85.54,1.0,2016-02-01,Multiple submissions for testing made daily.
+Services,./greater-manchester.csv,Credit report or search,0.90,400.0,2016-02-01,Checks as requested by Force Vetting Unit. No current contract in place with supplier.
+Services,./greater-manchester.csv,Temporary staff administrator role,12.54,,2016-02-01,Information provided for the force's minimum pay rate for a B grade. Information on volumes not provided.
+Services,./greater-manchester.csv,one-day car hire,21.50,3.0,2016-02-01,Cost of £21.50 per day applies for vehicle hire less than a week long.
+Services,./greater-manchester.csv,30-day car hire,14.07,215.0,2016-02-19,Day rate applies for vehicle hires a week long or longer.
+Services,./greater-manchester.csv,Ream of 500 sheets of white paper,1.68,200.0,2016-02-26,Item purchased A4 Value Copier Paper White: £8.14 for 2500 sheets purchased force-wide by all divisions/departments.
+Services,./greater-manchester.csv,Telephone interpreting inc. recording services (per minute),0.66,10313.0,2016-02-29,Actual rate is £0.011 per second. Information on volumes not provided.
+Services,./greater-manchester.csv,Face-to-face interpreting for 4 hours (half-day),124.00,1690.0,2016-02-29,"Estimated volume based on 101,398 minutes."
+Services,./greater-manchester.csv,Standard office cleaning (force average per m2 per year),,,,The force uses an in-house cleaning service.
+Services,./greater-manchester.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0162,296960.0,2016-02-09,Variable rate contract which changes each month. Price quoted for February 2016.
+Services,./greater-manchester.csv,Laptop purchase,610.52,2.0,2016-01-19,Add £292.87 for software install.
+Services,./greater-manchester.csv,Desktop purchase,386.11,1.0,2015-04-02,"Dell Optiplex 3020 I5 Quad Core @ 3.2ghz, 8gb Ram & 500gb HDD. Add £292.87 costs for software install."
+Services,./greater-manchester.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors, only 22""."
+Services,./greater-manchester.csv,"PC monitor - 21"" or wider (inc. cables)",98.88,15.0,2016-03-06,"Information provided for the purchase of 22"" PC monitors. The force does not purchase different size monitors."
+Services,./greater-manchester.csv,Telephone call charges (per minute),,,,All UK calls included in contracts.
+Services,./hampshire.csv,DNA test,17.00,1.0,2015-11-15,
+Services,./hampshire.csv,Toxicology test,23.33,1.0,2015-11-15,
+Services,./hampshire.csv,Mobile phone examination,300.00,1.0,2015-11-22,
+Services,./hampshire.csv,Forensic stain analysis,85.54,1.0,2015-10-30,
+Services,./hampshire.csv,Credit report or search,5.75,1.0,2015-11-25,
+Services,./hampshire.csv,Temporary staff administrator role,10.80,,2015-11-25,
+Services,./hampshire.csv,one-day car hire,30.99,1.0,2015-11-23,
+Services,./hampshire.csv,30-day car hire,,,,"The force hires vehicles only for short term, such as one or two days. Long term requirements are met by the use of pool cars instead."
+Services,./hampshire.csv,Ream of 500 sheets of white paper,1.59,200.0,2015-11-16,Volume indicated is maximum volume purchased at a time.
+Services,./hampshire.csv,Telephone interpreting inc. recording services (per minute),0.45,,2015-11-25,Volume information not provided.
+Services,./hampshire.csv,Face-to-face interpreting for 4 hours (half-day),600.00,,2015-11-18,"Jobs are subject to quotation on a case-by-case basis, as the company has to find suitable individuals who have the necessary skills and can attend various sites, as and when requested. Information on volumes not provided."
+Services,./hampshire.csv,Standard office cleaning (force average per m2 per year),,,2015-12-12,"Contractual arrangements for cleaning services vary across the estate. An average cost cannot be given as it would likely be misleading given the differences in quality and frequency of services provided. In addition, the contract covers specialist cleaning including forensic and custody areas of the Constabulary, where cleaning is more complex, thorough and frequent than anywhere else. The cleaning requirements for each area are looked at separately rather than as a whole."
+Services,./hampshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0287,,2015-11-25,Information on volumes not provided.
+Services,./hampshire.csv,Laptop purchase,470.25,1.0,2015-11-20,These purchases are made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,Desktop purchase,470.25,1.0,2015-11-20,Purchases made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,"PC monitor - 19"" or smaller (inc. cables)",125.00,1.0,2015-11-20,Purchases made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,"PC monitor - 21"" or wider (inc. cables)",130.00,1.0,2015-11-20,Purchases are made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,Telephone call charges (per minute),,,2015-11-20,The force does not purchase this service.
+Services,./hertfordshire.csv,DNA test,14.50,399.0,2016-02-23,"This item is purchased on behalf of all three forces (Bedfordshire, Cambridgeshire and Hertfordshire)."
+Services,./hertfordshire.csv,Toxicology test,28.00,300.0,2016-02-26,"Purchases are made jointly on behalf of Bedfordshire, Cambridgeshire and Hertfordshire by a single department."
+Services,./hertfordshire.csv,Mobile phone examination,,,,Service provided in-house by the Hi-tech crime unit. In extreme cases the force requires specialist work from an external supplier at £250 or £650 per unit. The former was most recently purchased for 3 phones on 08 February 2016.
+Services,./hertfordshire.csv,Forensic stain analysis,65.00,3.0,2016-02-22,
+Services,./hertfordshire.csv,Credit report or search,1.10,1403.0,2015-11-30,Service paid for in advance.
+Services,./hertfordshire.csv,Temporary staff administrator role,11.74,37.0,2016-01-22,Hourly rate includes agency fee and statutory charges.
+Services,./hertfordshire.csv,one-day car hire,19.49,1.0,2015-12-03,
+Services,./hertfordshire.csv,30-day car hire,,,,There is no record of a 30-day vehicle hire agreement.
+Services,./hertfordshire.csv,Ream of 500 sheets of white paper,1.87,50.0,2016-04-02,Volume information based on 10 boxes of 5 reams last bought.
+Services,./hertfordshire.csv,Telephone interpreting inc. recording services (per minute),0.68,8.0,2016-01-31,
+Services,./hertfordshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-01-31,
+Services,./hertfordshire.csv,Standard office cleaning (force average per m2 per year),15.45,,2015-04-01,Cost is per m2 per annum.
+Services,./hertfordshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0189,6425.0,2016-02-09,
+Services,./hertfordshire.csv,Laptop purchase,756.00,3.0,2016-01-28,
+Services,./hertfordshire.csv,Desktop purchase,316.23,31.0,2016-01-29,HP Elite Desk 705
+Services,./hertfordshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,
+Services,./hertfordshire.csv,"PC monitor - 21"" or wider (inc. cables)",125.00,1.0,2016-01-22,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./hertfordshire.csv,Telephone call charges (per minute),0.0085,,,"There are no peak and off peak rates - just a flat rate; usage is small, as the force predominately uses VOIP."
+Services,./bedfordshire.csv,DNA test,14.50,399.0,2016-02-23,
+Services,./bedfordshire.csv,Toxicology test,28.00,300.0,2016-02-26,"Purchases are made jointly on behalf of Bedfordshire, Cambridgeshire and Hertfordshire by a single department."
+Services,./bedfordshire.csv,Mobile phone examination,,,,All mobile phone extraction undertaken in-house and therefore the force does not pay any additional costs to suppliers for this type of work.
+Services,./bedfordshire.csv,Forensic stain analysis,65.00,3.0,2016-02-22,"Bedfordshire, Cambridgeshire and Hertfordshire Forensics is a collaborative unit led by Hertfordshire Police."
+Services,./bedfordshire.csv,Credit report or search,1.10,500.0,2015-10-31,
+Services,./bedfordshire.csv,Temporary staff administrator role,11.37,35.0,2016-02-05,
+Services,./bedfordshire.csv,one-day car hire,19.49,1.0,2015-11-25,
+Services,./bedfordshire.csv,30-day car hire,11.25,28.0,2015-11-05,There is no record of a 30-day vehicle hire agreement.
+Services,./bedfordshire.csv,Ream of 500 sheets of white paper,2.03,1000.0,2016-10-08,Volume information based on 200 boxes of 5 reams. 80GSM.
+Services,./bedfordshire.csv,Telephone interpreting inc. recording services (per minute),0.68,36.0,2016-01-26,
+Services,./bedfordshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-01-29,Rate provided is based on a minimum 2-hour peak booking at £60.00 per hour.
+Services,./bedfordshire.csv,Standard office cleaning (force average per m2 per year),13.00,,2015-04-01,Charge is per m2 per annum.
+Services,./bedfordshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0166,516.0,2016-02-09,
+Services,./bedfordshire.csv,Laptop purchase,756.00,3.0,2016-02-28,"20DKA00200 LENOVO THINKPAD S1 YOGA 12, INTEL 15-5200U (12.5 SWIVEL)"
+Services,./bedfordshire.csv,Desktop purchase,316.00,31.0,2016-01-29,
+Services,./bedfordshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,
+Services,./bedfordshire.csv,"PC monitor - 21"" or wider (inc. cables)",125.00,1.0,2016-01-22,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./bedfordshire.csv,Telephone call charges (per minute),0.0085,,,"There are no peak and off peak rates - just a flat rate; usage is small, as the force predominately uses VOIP."
+Services,./cleveland.csv,DNA test,17.00,483.0,2016-01-31,Police and Criminal Evidence Act DNA test
+Services,./cleveland.csv,Toxicology test,29.90,7.0,2016-01-31,Drink driving toxicology test.
+Services,./cleveland.csv,Mobile phone examination,,,,"In-house provision - service not procured externally. The force may outsource in some cases, however not as an equivalent item to the standard code for comparison."
+Services,./cleveland.csv,Forensic stain analysis,99.00,21.0,2016-01-31,Serious Organised Crime DNA test.
+Services,./cleveland.csv,Credit report or search,,,,"The force does not currently pay for credit card checks, with costs subsumed into strategic contract service provision. The provider uses a service not charged back to the force."
+Services,./cleveland.csv,Temporary staff administrator role,9.46,666.0,2015-04-10,"£350 for 37 hours per week, for 9 weeks. Legal assistant post."
+Services,./cleveland.csv,one-day car hire,18.00,1.0,2016-02-08,
+Services,./cleveland.csv,30-day car hire,13.85,31.0,2016-01-13,
+Services,./cleveland.csv,Ream of 500 sheets of white paper,2.03,100.0,2016-02-11,Purchase in boxes of 5 reams (20 boxes purchased).
+Services,./cleveland.csv,Telephone interpreting inc. recording services (per minute),0.68,1335.0,2016-02-08,
+Services,./cleveland.csv,Face-to-face interpreting for 4 hours (half-day),112.00,150.25,2016-01-19,"Joint collaboration with Northumbria, Cleveland and Durham forces."
+Services,./cleveland.csv,Standard office cleaning (force average per m2 per year),10.98,19774.0,2016-02-17,
+Services,./cleveland.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.027,417685.0,2016-01-31,
+Services,./cleveland.csv,Laptop purchase,375.00,26.0,2015-01-20,HP 455 BG AMD A6 Pro 7050B
+Services,./cleveland.csv,Desktop purchase,325.00,2.0,2015-08-20,HP Elite desk 705 G1 small form factor PC.
+Services,./cleveland.csv,"PC monitor - 19"" or smaller (inc. cables)",104.00,20.0,2016-01-06,Square aspect; adjustable height.
+Services,./cleveland.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./cleveland.csv,Telephone call charges (per minute),0.005,413580.0,2015-04-01,Contract was put in place in 2015 and the volume is based on anticipated annual volume from previous years.
+Services,./merseyside.csv,DNA test,17.00,1.0,2016-01-15,Single item purchase.
+Services,./merseyside.csv,Toxicology test,28.15,1.0,2016-01-28,Single item purchase.
+Services,./merseyside.csv,Mobile phone examination,,,,In-house service provision.
+Services,./merseyside.csv,Forensic stain analysis,110.00,1.0,2016-02-12,Single item purchase.
+Services,./merseyside.csv,Credit report or search,1.10,4284.0,2015-10-01,Information provided for annual volume.
+Services,./merseyside.csv,Temporary staff administrator role,10.72,467.0,2016-01-12,"Staff administrator hourly rate based on Grade AA, evaluation scale."
+Services,./merseyside.csv,one-day car hire,18.00,2.0,2016-02-01,
+Services,./merseyside.csv,30-day car hire,11.55,46.0,2016-02-12,
+Services,./merseyside.csv,Ream of 500 sheets of white paper,2.50,25.0,2016-02-05,
+Services,./merseyside.csv,Telephone interpreting inc. recording services (per minute),0.66,15.0,2016-01-01,
+Services,./merseyside.csv,Face-to-face interpreting for 4 hours (half-day),124.00,6.25,2016-01-22,The force purchases this service at the rate of £0.5167 per minute and pricing information provided is calculated for 240 minutes. Volume provided estimated on a total purchase of 375 minutes.
+Services,./merseyside.csv,Standard office cleaning (force average per m2 per year),,,,Service provided in-house.
+Services,./merseyside.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0168,394706.0,2016-02-11,Information on volumes based on consumption for the period 01/01/2016 - 01/02/2016. Gas is procured for the force via the Crown Commercial Service who go out to the open market and buy tranches of gas throughout a 6-month time period. The 1.676p rate covers the period 01/10/2015 - 30/09/2016.
+Services,./merseyside.csv,Laptop purchase,,,,No information provided. In addition to replacing aged desktop machines the force has commenced a roll-out of portable hand held devices in the last 12 months.
+Services,./merseyside.csv,Desktop purchase,377.50,1000.0,2016-10-06,Model: Dell OptiPlex 7020SFF
+Services,./merseyside.csv,"PC monitor - 19"" or smaller (inc. cables)",101.76,1.0,2016-02-14,"Local arrangement for the purchase of monitors - Model: Dell P1914S Professional monitor, adjustable height."
+Services,./merseyside.csv,"PC monitor - 21"" or wider (inc. cables)",103.35,6.0,2016-02-10,"Local arrangement for the purchase of monitors. Model: Dell P2214H Professional monitor, adjustable height. The force does not purchase monitors of this size, but 22""."
+Services,./merseyside.csv,Telephone call charges (per minute),0.0055,,2015-12-31,Consolidated invoice. As the force has devolved budgets there are individual devolved bills submitted. Total quantity / consumption cannot be itemised or distinguished.
+Services,./dorset.csv,DNA test,17.00,2664.0,2016-02-16,
+Services,./dorset.csv,Toxicology test,35.00,146.0,2016-02-22,
+Services,./dorset.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./dorset.csv,Forensic stain analysis,87.30,1.0,2016-02-18,
+Services,./dorset.csv,Credit report or search,1.10,1.0,2016-02-22,
+Services,./dorset.csv,Temporary staff administrator role,12.82,720.0,2016-02-18,
+Services,./dorset.csv,one-day car hire,19.79,1.0,2016-02-09,Rate excludes £2.50 collection / delivery charge each way.
+Services,./dorset.csv,30-day car hire,12.25,88.0,2015-11-26,
+Services,./dorset.csv,Ream of 500 sheets of white paper,1.93,20.0,2016-01-27,"Budget copier caper, 75g A4 white. A new national mini competition has just been competed for office supplies under the Crown Commercial Service framework RM3703, and the force will be moving to this contract in June 2016."
+Services,./dorset.csv,Telephone interpreting inc. recording services (per minute),0.68,35.0,2016-02-16,
+Services,./dorset.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-12,
+Services,./dorset.csv,Standard office cleaning (force average per m2 per year),13.00,33134.0,2015-04-01,"Price provided per m2 per annum, or £0.05 per m2 per day."
+Services,./dorset.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0191,1460576.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./dorset.csv,Laptop purchase,667.37,10.0,2016-02-18,Standard specifications HP Elitebook 840 G2.
+Services,./dorset.csv,Desktop purchase,313.99,50.0,2015-10-16,Medium specifications Viglen Genie Slim
+Services,./dorset.csv,"PC monitor - 19"" or smaller (inc. cables)",67.00,40.0,2015-10-16,
+Services,./dorset.csv,"PC monitor - 21"" or wider (inc. cables)",75.00,50.0,2015-10-16,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./dorset.csv,Telephone call charges (per minute),0.0049,1469000.0,2016-01-01,Annual volume.
+Services,./warwickshire.csv,DNA test,19.16,103.0,2016-02-18,The Region is using the National Forensics Framework which has different specifications and price points for the item. This item is Police and Criminal Evidence Act DNA test 07BF (price point A1) which is the most appropriate comparator. Pricing is dictated by tender volumes not by order. The Regional tender was awarded according to Home Office requirements on percentage split across region with different forces taking different suppliers and therefore different prices. A new national forensic contract starts on 01 March 2016 for the whole region.
+Services,./warwickshire.csv,Toxicology test,26.92,4.0,2016-02-26,Information provided for toxicology test code 01 TOX A1 under the National Forensics Framework. The force is re-tendering under the framework.
+Services,./warwickshire.csv,Mobile phone examination,225.00,16.0,,Price quoted is for Mobile Phone Full analysis + SIM Card. Pricing varies according to individual submission composition. The joint Warwickshire-West Mercia framework has been awarded to two suppliers because of demand and turn-around time requirements and so pricing also varies between suppliers.
+Services,./warwickshire.csv,Forensic stain analysis,106.70,13.0,2016-02-26,The Region is using the National Forensics Framework which has different specifications and price points. Information provided for described item code 01BF which includes both codes 20BF and 22BF under the National Forensics Framework specifications. Pricing is dictated by regional volumes not by individual force orders. The regional tender was awarded to Home Office requirements on percentage split across the region with different forces taking different suppliers and therefore different prices. New contract starting in March 2016.
+Services,./warwickshire.csv,Credit report or search,1.00,27.0,2016-01-31,"Price quoted is for trace Name and Date of Birth report. Costs vary with types of reports used, ranging from £0.50 to £10.00."
+Services,./warwickshire.csv,Temporary staff administrator role,12.59,36.5,2016-01-15,Hourly cost reflects relationship to force salary scales as well as supplier's margin.
+Services,./warwickshire.csv,one-day car hire,19.00,2.0,2016-02-10,"Information provided for Fiesta/Astra sized vehicle (M2 hire code) which is Alliance basic standard vehicle. Orders are raised on a monthly basis to alliance provider on estimated order value. Pricing determined at tender, not by order."
+Services,./warwickshire.csv,30-day car hire,11.75,392.0,2016-02-10,Information provided includes rate quoted for 5-door manual Fiesta/Astra sized vehicle which is Alliance basic standard vehicle. 14 cars hired for 28 days (standard billing period).
+Services,./warwickshire.csv,Ream of 500 sheets of white paper,2.30,50.0,2016-02-29,£11.50 is the unit price per box of 5 reams of paper. The force orders for local delivery direct from the stationery supplier.
+Services,./warwickshire.csv,Telephone interpreting inc. recording services (per minute),0.80,1819.0,2016-01-31,"Consolidated orders raised for estimated purchases over elapsed time, not for individual purchases. Rate not order dependent. The force is awaiting the outcome of current framework exercises to inform future strategy."
+Services,./warwickshire.csv,Face-to-face interpreting for 4 hours (half-day),135.32,2.0,2016-02-02,Information on volumes based on the latest purchase. Only an hourly rate is charged. The force alliance uses National local translators from the Register of Public Service Interpreters. Payments are made against individual claims. The representative weekday rate quoted is £33.83 per hour - entry is therefore 2hrs for £67.66. The force is awaiting the outcome of new procurement framework to inform its future strategy.
+Services,./warwickshire.csv,Standard office cleaning (force average per m2 per year),8.60,41313.0,,"Cleaning cost per m2 is dependent on building design, floor surface, percentages and total cleaned area. Facilities Management services for the force are managed and provided through Place Partnership Ltd, a local authority joint venture company who are the contracting body. They have provided comparator information from the National Police Estates Group benchmarking survey which quotes Qualifying Cost (GIA) per m2."
+Services,./warwickshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,213764.0,2016-01-11,"Facilities Management services for the force are managed and provided through Place Partnership Ltd, a local authority joint venture company who are the contracting body. They use Crown Commercial Service frameworks for the provision of energy services to the force."
+Services,./warwickshire.csv,Laptop purchase,733.00,11.0,2015-12-21,"Force alliance standard specifications laptop except RAM and warranty - 4GB RAM, 3 yr warranty. Joint ICT department purchase for both West Mercia and Warwickshire Police. The most recent purchases have been made under West Mercia orders."
+Services,./warwickshire.csv,Desktop purchase,,,,Desktops not purchased for Warwickshire recently. Joint ICT department purchase for West Mercia and Warwickshire – most recent purchases have been under West Mercia orders.
+Services,./warwickshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./warwickshire.csv,"PC monitor - 21"" or wider (inc. cables)",,,,No recent purchases for Warwickshire. Joint ICT department purchase for West Mercia and Warwickshire – most recent purchases have been under West Mercia orders.
+Services,./warwickshire.csv,Telephone call charges (per minute),,,,Warwickshire Police uses Internet Protocol based telephony and its agreement will shortly be replaced under a joint contract with West Mercia Police on a single network.
+Services,./cambridgeshire.csv,DNA test,14.50,399.0,2016-02-23,
+Services,./cambridgeshire.csv,Toxicology test,28.00,300.0,2016-02-26,"Purchases are made jointly on behalf of Bedfordshire, Cambridgeshire and Hertfordshire by a single department."
+Services,./cambridgeshire.csv,Mobile phone examination,,,,All mobile phone extractions are undertaken in-house.
+Services,./cambridgeshire.csv,Forensic stain analysis,65.00,3.0,2016-02-22,"Price for item code DNA 22BF is £85.00. Bedfordshire, Cambridgeshire and Hertfordshire Forensics is a collaborative unit led by Hertfordshire Police."
+Services,./cambridgeshire.csv,Credit report or search,1.10,1.0,2015-10-29,
+Services,./cambridgeshire.csv,Temporary staff administrator role,10.81,22.5,2016-02-05,
+Services,./cambridgeshire.csv,one-day car hire,,,,The force has never had the need to hire a compact car for 1 day as they can always meet such a requirement from within the existing fleet.
+Services,./cambridgeshire.csv,30-day car hire,,,,The force has never had the need to hire a compact car for 30 days as they can always meet such a requirement from within the existing fleet.
+Services,./cambridgeshire.csv,Ream of 500 sheets of white paper,1.87,50.0,2016-04-01,Volume information based on 10 boxes of 5 reams last bought.
+Services,./cambridgeshire.csv,Telephone interpreting inc. recording services (per minute),0.68,44.0,2015-12-29,
+Services,./cambridgeshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-01-27,The force's internal interpretation manager sources own translators and completes the vetting process.
+Services,./cambridgeshire.csv,Standard office cleaning (force average per m2 per year),15.00,,2015-04-01,Annual charge per m2 for each property.
+Services,./cambridgeshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0166,177.0,2016-02-09,
+Services,./cambridgeshire.csv,Laptop purchase,756.00,1.0,2016-02-08,Lenovo ThinkPad S1 Yoga 12 Intel15-5200U
+Services,./cambridgeshire.csv,Desktop purchase,315.79,28.0,2012-03-23,Not bought for some time. Last purchase: HP Compaq 6005 Pro SFF PC Windows 7 Professional 64-bit
+Services,./cambridgeshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,
+Services,./cambridgeshire.csv,"PC monitor - 21"" or wider (inc. cables)",125.00,1.0,2016-02-01,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./cambridgeshire.csv,Telephone call charges (per minute),,,,VOIP based calls only in the force since 2011.
+Services,./city-of-london.csv,DNA test,,,,The force is not on the same framework as many other forces and does not use anything similar to the item available under their framework as it does not suit the local crime type.
+Services,./city-of-london.csv,Toxicology test,45.00,,,"The force is not on the same framework as other forces and does not use the item code 20TOXA1. The service used by the force supplies test and a full evidential package, although no discounts are given for higher volumes."
+Services,./city-of-london.csv,Mobile phone examination,,,,This service is provided in-house. The force undertakes does not contract out as the service is undertaken by frontline officers using triage equipment generally in the first custody detention period. The rough cost of a triage equipment device is between £15 and £20.
+Services,./city-of-london.csv,Forensic stain analysis,125.00,,,"The force does not use the described item code 22BF/B1/1 for comparison. All analyses are completed and procured on a case by case basis, depending upon the requirements. Suppliers previously used for the described item code both quoted different prices."
+Services,./city-of-london.csv,Credit report or search,4.25,1.0,2016-01-31,"The new framework service that the force entered into does not work on individual prices for a specific type of transactions. Service costs for the whole year are based upon the number of search transactions that the force would have carried out in the previous year under the framework. This amounts to a forecasted figure of 16,428 enquiry transactions which are priced at £4.25 per enquiry. The force is allowed up to 10% more than the forecasted number of transactions free of charge but beyond the 10% level the cost is again £4.25 per transaction. Each Operational Unit that uses credit checks sets up a separate rolling Purchase Order based on previous usage and then renews once this has run out."
+Services,./city-of-london.csv,Temporary staff administrator role,14.64,40.0,2016-02-26,Hourly rate provided for minimum temp admin pay rate. Maximum hourly rate: £17.44.
+Services,./city-of-london.csv,one-day car hire,24.79,1.0,2015-11-03,Rate includes £2.50 collection / delivery charge each way.
+Services,./city-of-london.csv,30-day car hire,12.55,57.0,2015-03-27,Period of hire was 30/01/15 - 27/03/15.
+Services,./city-of-london.csv,Ream of 500 sheets of white paper,2.31,75.0,2016-02-15,Volume provided equals 15 boxes of 5 reams.
+Services,./city-of-london.csv,Telephone interpreting inc. recording services (per minute),0.78,1.0,2016-01-31,Information on volumes not provided.
+Services,./city-of-london.csv,Face-to-face interpreting for 4 hours (half-day),137.04,4.0,2016-10-26,Unit price provided for 4 hours as requested; £213.78 if including VAT and travel time costs.
+Services,./city-of-london.csv,Standard office cleaning (force average per m2 per year),13.50,22646.0,2015-12-01,"Average cost per m2 per year was calculated on the basis of various rates applied across the force's estate. Total surface charged is approximately 22,646m2. This service is provided through a contract of the City of London Corporation."
+Services,./city-of-london.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,"Details not available as contract is with the Corporation of London, with Kent County Council."
+Services,./city-of-london.csv,Laptop purchase,442.00,2.0,2015-09-09,
+Services,./city-of-london.csv,Desktop purchase,290.00,5.0,2016-01-07,
+Services,./city-of-london.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,None purchased by the force in the most recent hardware refresh.
+Services,./city-of-london.csv,"PC monitor - 21"" or wider (inc. cables)",83.00,23.0,2015-05-28,
+Services,./city-of-london.csv,Telephone call charges (per minute),0.0089,273584.0,2015-12-31,
+Services,./south-wales.csv,DNA test,17.00,1.0,2016-02-01,Ongoing purchases under the West Coast Consortium framework. Scientific Support unit is collaborative between South Wales and Gwent Police. The actual quantity purchased on this invoice is not known for this specific test. A monthly invoice is paid for the larger service provided by the supplier.
+Services,./south-wales.csv,Toxicology test,28.15,1.0,2016-02-01,Information provided for item code 20Tox A1 under Lot 211 (toxicology). The actual quantity purchased is not known for this specific test. A monthly invoice is paid for the larger service provided by the supplier.
+Services,./south-wales.csv,Mobile phone examination,360.00,1.0,2016-02-01,This cost is for a full examination and data extraction. Information on volumes purchased is not known for this specific test.
+Services,./south-wales.csv,Forensic stain analysis,87.30,1.0,2016-02-01,The actual quantity purchased on the latest invoice is not known for this specific test.
+Services,./south-wales.csv,Credit report or search,4.25,1.0,2016-02-01,Information provided for crime management & supplier evaluation reports. Volume purchased is not known for this specific service. A monthly invoice is paid for the total service provided by the supplier.
+Services,./south-wales.csv,Temporary staff administrator role,12.16,,,The force has not hired temporary admin staff in the last 3 years due to an in-house staff bank scheme. The figures used are based on the collaborative framework that is available if required.
+Services,./south-wales.csv,one-day car hire,18.50,1.0,2016-02-24,
+Services,./south-wales.csv,30-day car hire,12.50,31.0,2016-01-05,
+Services,./south-wales.csv,Ream of 500 sheets of white paper,1.58,1500.0,2016-02-15,A4 80gsm 1 ream 500 sheets.
+Services,./south-wales.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,"Although the Metropolitan Police framework recently expired, the supplier has continued to provide the service at the agreed rate. Information on volumes not provided. The cost per minute is the same for 1 minute or 1 hour."
+Services,./south-wales.csv,Face-to-face interpreting for 4 hours (half-day),120.00,,2016-02-01,The Welsh Interpretation and Translation Service providing the service is made up of a board of 21 public sector partners and run from Gwent Police. The actual quantity purchased on this invoice is not known for this specific service.
+Services,./south-wales.csv,Standard office cleaning (force average per m2 per year),13.91,112439.0,2016-02-01,"The force does not pay for standard office cleaning per m2 as the cost is dependent on many factors such as frequency of clean, type of use (canteen, office, store etc) and what if any equipment is needed. A monthly bill for cleaning the force premises is monitored through a schedule of rates per building. The force's Estates department has calculated the average cost per m2 per annum taking all these considerations into account."
+Services,./south-wales.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0188,2299015.0,2016-02-01,Information on volumes based on annual consumption.
+Services,./south-wales.csv,Laptop purchase,371.95,30.0,2015-10-01,Standard specifications.
+Services,./south-wales.csv,Desktop purchase,373.80,20.0,2015-04-12,Medium specifications
+Services,./south-wales.csv,"PC monitor - 19"" or smaller (inc. cables)",73.00,50.0,2016-02-05,
+Services,./south-wales.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./south-wales.csv,Telephone call charges (per minute),0.0048,,2016-02-01,Time charged for this purchase is included in a wider basket of goods.
+Services,./cheshire.csv,DNA test,17.00,142.0,2016-02-12,Information provided for Lot 201 = Police and Criminal Evidence Act DNA test; Lot 212 = £22.50; Lot 212 = £30.00.
+Services,./cheshire.csv,Toxicology test,28.15,3.0,2016-02-12,Information provided for Lot 211 (toxicology).
+Services,./cheshire.csv,Mobile phone examination,,,,Service is provided in-house. There is no third party supplier.
+Services,./cheshire.csv,Forensic stain analysis,85.54,71.0,2016-02-12,"Information provided for Lot 202 = Crime Stain; Lot 203 = Other DNA tests which are purchased for £90.04 or £145, and Lot 212, £90.04 or £130.50, from different suppliers."
+Services,./cheshire.csv,Credit report or search,4.25,13530.0,2015-11-10,Information on volumes is contracted quantity to be called off over a 12-monthly period.
+Services,./cheshire.csv,Temporary staff administrator role,10.88,,2016-02-12,Vendor neutral arrangement.
+Services,./cheshire.csv,one-day car hire,15.00,1.0,2016-02-05,Information provided for Skoda - Octavia SE TDI CR. Service purchased under a Cheshire Local Contract for Vehicle Hire. The procurement was conducted under an open procedure under EU Regs - CPA/SPU/474.
+Services,./cheshire.csv,30-day car hire,12.00,29.0,2016-02-01,Information provided for Skoda - Octavia SE TDI CR hire. Service purchased under a Cheshire local contract for vehicle hire. The procurement was conducted under an open procedure under EU Regs - CPA/SPU/474.
+Services,./cheshire.csv,Ream of 500 sheets of white paper,2.15,200.0,2016-02-11,40 cases per week (case=5 reams).
+Services,./cheshire.csv,Telephone interpreting inc. recording services (per minute),0.66,28.0,2015-12-31,"Each transaction is only 1 call, therefore information provided on volumes is for the last service provided for a call of 28 minutes."
+Services,./cheshire.csv,Face-to-face interpreting for 4 hours (half-day),124.00,208.0,2016-01-31,"Each transaction is only 1 assignment, so information provided for a month's worth of services purchased by the force - January 2016. The month involved 61 assignments."
+Services,./cheshire.csv,Standard office cleaning (force average per m2 per year),,,2016-01-31,"Contract not based on surface/m2. Annual cost is £591,000 for an average cost of £0.028/m2/p.a. for standard office cleaning - not directly comparable with prices provided by most other forces (where based on m2 for this specific service)."
+Services,./cheshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,"The force's headquarters is a Private Finance Initiative so the information requested is not available, as utilities are part of the unitary charge."
+Services,./cheshire.csv,Laptop purchase,626.70,1.0,2015-10-22,Standard specifications. ThinkPad T440p includes - Lenovo Protection 3YR KYD - 20AWCTO1WW.
+Services,./cheshire.csv,Desktop purchase,369.64,10.0,2015-11-26,Standard specifications Dell OptiPlex 7020 SFF - (SM004D7020SFF1H161) - Manu. Part#: 99285043
+Services,./cheshire.csv,"PC monitor - 19"" or smaller (inc. cables)",117.09,1.0,2015-12-18,Standard specification. Dell Professional P1914S (19 - inch) LED backlit LCD monitor - 1000:1 250cd/m2 1280x1024 - 8ms
+Services,./cheshire.csv,"PC monitor - 21"" or wider (inc. cables)",130.00,1.0,2015-09-03,"Dell monitor and wireless - mouse. The force does not purchase monitors of this size. Information provided for purchases of monitors size 22""."
+Services,./cheshire.csv,Telephone call charges (per minute),0.0067,,,
+Services,./lancashire.csv,DNA test,17.00,10.0,2016-02-07,Current specification included PED/CED samples.
+Services,./lancashire.csv,Toxicology test,35.00,120.0,2016-02-05,Information provided for alcohol toxicology test only and does not include drug driving or alcohol technical defence.
+Services,./lancashire.csv,Mobile phone examination,,,,Service provided in-house by Digital Media Investigation Unit.
+Services,./lancashire.csv,Forensic stain analysis,85.54,6.0,2016-01-31,"The pricing point for the described item code does not include the swab preparation which is needed for all items, so in actual terms the cost is higher for the profile to be processed."
+Services,./lancashire.csv,Credit report or search,1.10,1136.0,2016-02-15,"Information provided for personal vetting reports, annual volume. Annual charge calculated on the basis of the estimated number of enquiries multiplied by the framework transactional equivalent rate achieved by the combined contract participants. Crime management reports cost £4.25 per search based (volume: 17,199 per annum). The force is charged for this service on the basis of combined usage between all forces using the framework, paid upfront on an annual basis and then called off throughout the year."
+Services,./lancashire.csv,Temporary staff administrator role,11.40,37.0,2016-02-19,"Hourly rate includes agency fee and other charges inc. WTD, Pension, NI."
+Services,./lancashire.csv,one-day car hire,18.60,1.0,2016-02-19,Information provided for 1-day Ford focus group C hire.
+Services,./lancashire.csv,30-day car hire,13.59,82.0,2016-02-09,Information provided for 30-day Ford focus group C vehicle hire.
+Services,./lancashire.csv,Ream of 500 sheets of white paper,2.51,60.0,2016-02-19,"A4 80gsm. 100% recycled, high white, multi-purpose uncoated paper for high volume copying and printing."
+Services,./lancashire.csv,Telephone interpreting inc. recording services (per minute),0.66,2536.0,2015-12-31,Actual rate is £0.011 per second for all languages - Invoices issued on a monthly basis with information on volumes provided for above one month's total.
+Services,./lancashire.csv,Face-to-face interpreting for 4 hours (half-day),104.00,615.0,2015-12-31,Face-to-face interpreting service has 3 tiers dependent upon qualifications and skills required. Charging structure is 1 hour minimum and then by 1 minute pro-rata increments. Rate includes all travelling times and expenses.
+Services,./lancashire.csv,Standard office cleaning (force average per m2 per year),,,2016-01-29,"The force pays an hourly rate instead of m2based service, so the pricing model and hour rate is determined from the number of buildings, type of cleaning required and frequency of cleaning in specific areas. The force's last bill was based on £11.91 per hour which includes wages, management fees and materials. The supplier pays staff the living wage."
+Services,./lancashire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0174,5880.0,2016-02-16,Information provided based on a fixed price for 12 months.
+Services,./lancashire.csv,Laptop purchase,513.00,25.0,2015-10-15,Standard specifications laptops purchase. Force's higher specifications Intel Core I5 and standard specifications core I3. No DVD drive as standard.
+Services,./lancashire.csv,Desktop purchase,426.70,800.0,2015-07-22,Force's lower specifications: Intel Core I3 without DVD. Cost given includes 3-year warranty.
+Services,./lancashire.csv,"PC monitor - 19"" or smaller (inc. cables)",67.83,100.0,2016-02-12,"Hanns. Information provided for the force purchases of monitors size 19.5""."
+Services,./lancashire.csv,"PC monitor - 21"" or wider (inc. cables)",78.49,2.0,2016-09-03,"Hanns. The force does not purchase monitors of this size. Information provided for purchases of monitors size 21.5""."
+Services,./lancashire.csv,Telephone call charges (per minute),0.0075,,,Information on volumes not provided. Call charge per minute is for local calls made during the business day. The price given is based on best price and there is no minimum charge per call. Call charges can be linked to the overall rental package and the given price if used in isolation should be benchmarked with caution.
+Services,./gloucestershire.csv,DNA test,17.00,2224.0,2016-02-14,
+Services,./gloucestershire.csv,Toxicology test,35.00,64.0,2016-02-22,
+Services,./gloucestershire.csv,Mobile phone examination,,,,In-house service provision. The force has recently completed a regional tender for this service.
+Services,./gloucestershire.csv,Forensic stain analysis,89.81,1.0,2016-02-23,
+Services,./gloucestershire.csv,Credit report or search,1.10,1.0,2016-02-12,
+Services,./gloucestershire.csv,Temporary staff administrator role,12.34,365.0,2016-02-26,"Regional mini-competition under the collaborative framework has now been awarded, with the new contract to commence in April 2016."
+Services,./gloucestershire.csv,one-day car hire,19.79,1.0,2016-02-09,Rate excludes £2.50 collection / delivery charge each way.
+Services,./gloucestershire.csv,30-day car hire,12.25,30.0,2015-12-30,
+Services,./gloucestershire.csv,Ream of 500 sheets of white paper,1.90,25.0,2016-02-04,"Budget copier caper, 75g A4 white. A new national mini competition has just been competed for office supplies under the Crown Commercial Service framework RM3703, and the force will be moving to this contract in June 2016."
+Services,./gloucestershire.csv,Telephone interpreting inc. recording services (per minute),0.68,50.0,2016-02-10,
+Services,./gloucestershire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-21,A registered list of translators from the National Register of Public Service Interpreters are used.
+Services,./gloucestershire.csv,Standard office cleaning (force average per m2 per year),11.96,24335.0,2015-04-01,"Price provided is per m2 per annum, or £0.046 per m2 per day."
+Services,./gloucestershire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,99087.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./gloucestershire.csv,Laptop purchase,442.00,100.0,2015-03-30,Standard specifications Lenovo ThinkPad Edge E550 20 DF i5.
+Services,./gloucestershire.csv,Desktop purchase,380.81,100.0,2015-10-22,Low specifications HP ProDesk 600 i3
+Services,./gloucestershire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors, only 21"". "
+Services,./gloucestershire.csv,"PC monitor - 21"" or wider (inc. cables)",91.48,50.0,2016-01-22,
+Services,./gloucestershire.csv,Telephone call charges (per minute),0.0049,400000.0,2016-01-01,Annual volume.
+Services,./durham.csv,DNA test,17.00,179.0,2016-02-01,The unit price given is not for the item as described for comparison but the force's equivalent. Forces in the North East Region do not use the same National Framework Specification Code.
+Services,./durham.csv,Toxicology test,29.90,2.0,2016-02-01,Information provided based on the force's equivalent of code for this item. Police forces in the North East Region do not use the National Framework Specification Code.
+Services,./durham.csv,Mobile phone examination,140.00,3.0,2016-01-28,Number of phones sent reduced by the purchase of equipment to provide the service in-house. Information provided for outsourced analysis of some makes / models when the phone is not compatible with in-house service.
+Services,./durham.csv,Forensic stain analysis,99.00,29.0,2016-02-01,The force does not use the item code specified. Information provided for an equivalent service which includes both item codes 22BF-1-B1 and 20BF-1-B1 for national forensic products.
+Services,./durham.csv,Credit report or search,1.10,1715.0,2015-11-01,Information provided for vetting - personal reports. Annual fee paid upfront to cover estimated volumes based on unit price.
+Services,./durham.csv,Temporary staff administrator role,15.23,22.25,2015-05-28,The force has not purchased temp services for the exact position of administrator described for the purpose of comparison. Information is provided for the force’s most recent requirement for a temporary specialist Accounts and Pay & Pensions administrator post - from 28 January 2013 to 28 May 2015. Information provided for last invoice paid for this role in the week ending on 28 May 2015.
+Services,./durham.csv,one-day car hire,19.79,1.0,2015-09-28,Information provided for Group D (Ford Focus or equivalent) 1 to 2 day vehicle hire.
+Services,./durham.csv,30-day car hire,11.67,28.0,2016-02-02,"Information provided for Group D (Ford Focus or equivalent) vehicle, 28-83 days, hire. Due to process changes with the supplier, all hires over 28 days must be ordered in 28-day blocks. So the last hire at the 30-day hire price was for 28 days."
+Services,./durham.csv,Ream of 500 sheets of white paper,2.03,125.0,2016-02-12,25 Boxes of 5 Reams.
+Services,./durham.csv,Telephone interpreting inc. recording services (per minute),0.68,20.0,2015-11-27,"Collaborative approach to purchase this service between Durham, Northumbria & Cleveland."
+Services,./durham.csv,Face-to-face interpreting for 4 hours (half-day),112.00,5.5,2015-11-30,Collaboration with Northumbria Police. The price charged is £28.00 per hour and therefore the total price paid for the time stated (5.5 hours) was £154.00.
+Services,./durham.csv,Standard office cleaning (force average per m2 per year),7.16,73981.0,2016-01-01,"Surface area varies from site to site, on an ongoing basis, with monthly consolidated invoices. Monthly invoices will differ due to additional service orders (e.g. out of hours call outs for custody suites). The force does not record space data in the way requested, but on the basis of the force's surface area, and has provided an estimated rate for cleaning service only."
+Services,./durham.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,"No gas supply at the force' headquarters, but in other locations using the service via the gas supply framework agreement."
+Services,./durham.csv,Laptop purchase,501.89,1.0,2016-02-12,Standard Specifications. The force plans to enter a new contract to purchase this item.
+Services,./durham.csv,Desktop purchase,455.05,2.0,2015-11-12,The force plans to enter the new collaborative framework run by the Crown Commercial Service for future purchases.
+Services,./durham.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors, only 20. "
+Services,./durham.csv,"PC monitor - 21"" or wider (inc. cables)",105.46,1.0,2016-02-22,"The force does not purchase monitors of this size and plans to enter a new collaborative framework run by the Crown Commercial Service. Information provided for purchases of monitors size 20""."
+Services,./durham.csv,Telephone call charges (per minute),0.005,,,"Direct award under the Crown Commercial Service framework. Costs are monthly, ongoing charges."
+Services,./humberside.csv,DNA test,17.00,150.0,2016-02-18,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions."
+Services,./humberside.csv,Toxicology test,29.90,5.0,2016-02-18,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions."
+Services,./humberside.csv,Mobile phone examination,,,,The force's Digital Forensics Unit do not outsource phone examination so services of this type are not purchased.
+Services,./humberside.csv,Forensic stain analysis,50.00,8.0,2015-09-11,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions. The force's most recent purchase of 7 level A1 tests cost £169.90 each."
+Services,./humberside.csv,Credit report or search,1.10,207.0,2016-01-06,Information provided for personal vetting reports.
+Services,./humberside.csv,Temporary staff administrator role,11.74,37.0,2016-01-08,"Due to differing pay structures within the Yorkshire and Humber Region, information provided is based on a 'blended' average rate for the four Yorkshire and Humber Forces."
+Services,./humberside.csv,one-day car hire,19.79,1.0,2016-02-26,Information provided for Group D manual 1 to 2 day vehicle hire (Saloon manual). Rate excludes £2.50 collection / delivery charge each way.
+Services,./humberside.csv,30-day car hire,11.40,28.0,2015-12-08,Information provided for Group D (Ford Focus or similar) hire for 28 days (no bills for 30 days - 28 days' rental is maximum billed in period).
+Services,./humberside.csv,Ream of 500 sheets of white paper,2.03,100.0,2016-01-31,Volume information based on purchase of 20 boxes of 5 reams.
+Services,./humberside.csv,Telephone interpreting inc. recording services (per minute),0.66,10.0,2016-01-01,Estimated volume calculated on basis of last service time: 558 seconds. Actual rate for the service is £0.011 per second.
+Services,./humberside.csv,Face-to-face interpreting for 4 hours (half-day),124.00,4.0,2016-03-04,Pricing information based on tier 1 interpreter service at £31.00 per hour. One-hour minimum charge is followed by a rate per minute calculated pro-rata. No travel or expenses are charged for.
+Services,./humberside.csv,Standard office cleaning (force average per m2 per year),13.80,78888.0,2016-01-21,"Information provided for annual cost divided by 78,888m2 total estate area. Payments for standard office cleaning are made monthly based on the annual contract price - the average cost per m2 can only be provided by dividing the annual figure by the total size of the estate."
+Services,./humberside.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0304,,2016-02-08,"Because of the many variables involved in calculating the rate, the 2015/16 annual figures have been used."
+Services,./humberside.csv,Laptop purchase,680.84,250.0,2015-12-08,"Force specifications: Yoga Business 12.5"" YOGA12CTO. Joint purchase between Humberside and South Yorkshire Police - total order quantity 500 x Lenovo Yoga 12""."
+Services,./humberside.csv,Desktop purchase,285.62,230.0,2015-12-08,"Joint purchase between Humberside and South Yorkshire Police - total order quantity 460 desktops, HP 705 G1"
+Services,./humberside.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,No purchase for the last 12 months.
+Services,./humberside.csv,"PC monitor - 21"" or wider (inc. cables)",76.50,180.0,2015-12-08,Joint purchase between Humberside and South Yorkshire Police. Total order quantity 360.
+Services,./humberside.csv,Telephone call charges (per minute),0.0046,87271.0,2016-01-01,"Estimated volume based on the last total time charged: 1454 hours, 30 mins, 41 sec - for 30,983 calls."
+Services,./thames-valley.csv,DNA test,18.21,1.0,2015-11-10,
+Services,./thames-valley.csv,Toxicology test,27.40,1.0,2015-11-05,
+Services,./thames-valley.csv,Mobile phone examination,125.00,1.0,2015-11-01,
+Services,./thames-valley.csv,Forensic stain analysis,,,,"Information provided for a re-test which cost £20, not comparable with other purchases of this item."
+Services,./thames-valley.csv,Credit report or search,1.10,1.0,2015-11-01,Information provided for vetting reports only. Crime management and Supplier Evaluation reports cost £4.25 each.
+Services,./thames-valley.csv,Temporary staff administrator role,9.04,37.0,2015-11-30,Full charge hourly rate.
+Services,./thames-valley.csv,one-day car hire,19.79,2.0,2015-11-01,Rate excludes £2.50 collection / delivery charge each way.
+Services,./thames-valley.csv,30-day car hire,12.55,28.0,2016-02-01,
+Services,./thames-valley.csv,Ream of 500 sheets of white paper,1.75,20.0,2015-11-01,
+Services,./thames-valley.csv,Telephone interpreting inc. recording services (per minute),0.68,10.0,2015-11-01,
+Services,./thames-valley.csv,Face-to-face interpreting for 4 hours (half-day),80.00,4.0,2015-11-01,
+Services,./thames-valley.csv,Standard office cleaning (force average per m2 per year),7.60,30000.0,2015-12-01,
+Services,./thames-valley.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.018,12000.0,2015-12-01,
+Services,./thames-valley.csv,Laptop purchase,470.25,500.0,2015-11-01,500gb
+Services,./thames-valley.csv,Desktop purchase,314.46,1.0,2015-11-01,"Medium specifications 500gb with an i3 - 3 year warranty included along with VGA, dongle and cable Desktop PC."
+Services,./thames-valley.csv,"PC monitor - 19"" or smaller (inc. cables)",125.00,1.0,2015-11-01,
+Services,./thames-valley.csv,"PC monitor - 21"" or wider (inc. cables)",130.00,1.0,2015-11-01,
+Services,./thames-valley.csv,Telephone call charges (per minute),,,2015-11-01,Bundled cost from network provided where voice services are bundled in overall data bundle costs.
+Services,./lincolnshire.csv,DNA test,19.40,143.0,2016-02-15,Item reference detailed as 07BF A1 - Band A. The current contract expires on 02 August 2016.
+Services,./lincolnshire.csv,Toxicology test,27.65,345.0,2016-02-26,Item code 01TOX A1 - alcohol - band A. Current contract expires on 02 August 2016.
+Services,./lincolnshire.csv,Mobile phone examination,,,,This service is provided in-house and therefore not outsourced.
+Services,./lincolnshire.csv,Forensic stain analysis,118.50,1.0,2016-02-26,"There is no direct match for the described item used by this force under the National Forensics Framework. Information provided for the closest equivalent item code 10BFA1 used by the force, which is for DNA profiling only, after an examination has taken place (however, this does not appear as an option for crime stains) although 22BF applies to both intelligence and casework stains so is also part of code 01BF purchased from the supplier for £118.50, and code 02BF for £165.00."
+Services,./lincolnshire.csv,Credit report or search,1.10,1907.0,2016-02-26,"Annual contracted volume of staff vetting reports based on 60,000 - 80,000 transactions. The force has monthly updates on usage and endeavours to stay within the contracted allowance per year: 1,907 vetting and 10,033 Crime management and Supplier Evaluation reports. Last purchase order quantity and date unknown as this is used on an on-going basis. The current contract expires on 31 October 2016."
+Services,./lincolnshire.csv,Temporary staff administrator role,12.52,95.5,2016-01-29,Information provided for administrator grade F (grade E £11.27). The current contract expires on 30 September 2016.
+Services,./lincolnshire.csv,one-day car hire,18.00,1.0,2015-11-25,Information provided for hire of a Vauxhall Astra SRI CDTI S/S. Service used on an ongoing basis.
+Services,./lincolnshire.csv,30-day car hire,12.50,28.0,2015-12-29,Information provided for Volkswagen Golf Match hire. Service used on an ongoing basis.
+Services,./lincolnshire.csv,Ream of 500 sheets of white paper,1.93,10.0,2016-02-16,Minimum order quantity is 1 box of 5 reams at £9.65 per box. Budget white A4 80gsm copier paper.
+Services,./lincolnshire.csv,Telephone interpreting inc. recording services (per minute),0.70,23.0,2016-02-01,Billing calculated per minute. Service ordered on an ongoing basis.
+Services,./lincolnshire.csv,Face-to-face interpreting for 4 hours (half-day),173.00,4.0,2016-01-29,"Rate fixed at £43.25 per hour. Billing is per hour. Service ordered on an ongoing, daily basis. The force pays for the service in one-hour minimum increments so if the job was between 3-4 hours it would be charged the full 4 hours."
+Services,./lincolnshire.csv,Standard office cleaning (force average per m2 per year),11.10,29392.0,2014-12-01,"Cleaning services undertaken across 47 sites across the county on an ongoing basis. Total surface area excluding custody suites is approximately 29,392m2."
+Services,./lincolnshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0189,1949010.0,2015-04-01,"Different rates charged across 22 properties - the highest is 1.9329p, the lowest 1.8581p per kWh. Current contract expires 31 March 2016 but is being renewed. Service used on an as required, ongoing basis."
+Services,./lincolnshire.csv,Laptop purchase,470.74,1.0,2016-02-26,"Standard specifications I5, 4GB RAM, 500 GB HDD, Wifi, Standard Screen, no WWAN."
+Services,./lincolnshire.csv,Desktop purchase,377.94,1.0,2016-02-26,"Low specifications i3, 4GB RAM, 500GB HDD"
+Services,./lincolnshire.csv,"PC monitor - 19"" or smaller (inc. cables)",119.37,10.0,2016-02-22,
+Services,./lincolnshire.csv,"PC monitor - 21"" or wider (inc. cables)",139.47,8.0,2015-11-11,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./lincolnshire.csv,Telephone call charges (per minute),0.0085,2151.0,2016-02-26,Service used on an ongoing basis.
+Services,./south-yorkshire.csv,DNA test,17.00,372.0,2016-02-18,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions."
+Services,./south-yorkshire.csv,Toxicology test,29.90,9.0,2016-02-01,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions."
+Services,./south-yorkshire.csv,Mobile phone examination,145.00,2.0,2016-01-29,Information provided for level 2 examination.
+Services,./south-yorkshire.csv,Forensic stain analysis,50.00,1.0,2016-01-11,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions. The force's most recent purchase of 25 level A1 tests cost £169.90 each."
+Services,./south-yorkshire.csv,Credit report or search,1.10,567.0,2015-11-13,Information provided for personal vetting reports.
+Services,./south-yorkshire.csv,Temporary staff administrator role,11.74,37.0,2016-02-01,"Due to differing pay structures within the Yorkshire and Humber Region, information provided is based on a 'blended' average rate for the four Yorkshire and Humber Forces."
+Services,./south-yorkshire.csv,one-day car hire,19.79,1.0,2016-01-22,Information provided for Group D Vehicle (Ford Focus or similar) hire. Rate excludes £2.50 collection / delivery charge each way.
+Services,./south-yorkshire.csv,30-day car hire,11.40,28.0,2015-12-22,Information provided for Group D vehicle 28-day hire (no bills for 30 days - 28 days' rental is maximum billed in period).
+Services,./south-yorkshire.csv,Ream of 500 sheets of white paper,2.03,100.0,2016-02-01,
+Services,./south-yorkshire.csv,Telephone interpreting inc. recording services (per minute),0.66,21.0,2016-01-01,"Information on volumes estimated on the basis of a total time of 1,234 seconds used at £0.011 per second."
+Services,./south-yorkshire.csv,Face-to-face interpreting for 4 hours (half-day),124.00,2.5,2016-01-01,Pricing information based on tier 1 interpreter service at £31.00 per hour. One-hour minimum charge is followed by a rate per minute calculated pro-rata. No travel or expenses are charged for.
+Services,./south-yorkshire.csv,Standard office cleaning (force average per m2 per year),,,,Service provided in-house.
+Services,./south-yorkshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0292,,2015-04-01,"Because of the many variables involved in calculating the rate, the 2015/16 annual figures have been used."
+Services,./south-yorkshire.csv,Laptop purchase,680.84,250.0,2015-11-01,"Force specifications: Yoga Business 12.5"" YOGA12CTO. Joint purchase between Humberside and South Yorkshire Police - total order quantity 500 x Lenovo Yoga 12."
+Services,./south-yorkshire.csv,Desktop purchase,285.62,230.0,2015-11-01,"Joint purchase between Humberside and South Yorkshire Police - total order quantity 460 desktops, HP 705 G1"
+Services,./south-yorkshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,No purchase for the last 12 months.
+Services,./south-yorkshire.csv,"PC monitor - 21"" or wider (inc. cables)",76.50,180.0,2015-12-01,Joint purchase between Humberside and South Yorkshire Police. Total order quantity 360.
+Services,./south-yorkshire.csv,Telephone call charges (per minute),0.0046,6442.0,2016-01-01,Estimated volume based on the last total time charged: 107 hours 21 minutes and 25 seconds.
+Services,./avon-and-somerset.csv,DNA test,17.00,1400.0,2016-02-15,Full specification used for comparison is: 24BFA1 under Lot 201 (Police and Criminal Evidence Act).
+Services,./avon-and-somerset.csv,Toxicology test,28.15,5.0,2016-02-15,Full specification used for comparison of item code 20TOXS1A1 under Lot 211 (Toxicology). Purchases are made from two suppliers as per West Coast consortium agreement.
+Services,./avon-and-somerset.csv,Mobile phone examination,110.00,74.0,2016-03-01,"The force has recently completed a regional tender for this service, reducing cost."
+Services,./avon-and-somerset.csv,Forensic stain analysis,85.54,30.0,2016-02-15,"Full specification used for comparison of item code 22BFS1B1 under Lot 202 (Crime Scene Stain), which is purchased from two suppliers as directed by West Coast forensics collaboration. Price agreed with the other supplier is £110.00."
+Services,./avon-and-somerset.csv,Credit report or search,6.27,5000.0,2016-01-31,"The force pays an annual charge for an allowance of 5,000 credit searches, paid monthly. The January total purchase amounted to £3,377.92, including £2,873.75 for personal credit checks only. The contract includes a carryover clause in the event of use below contracted volumes. Purchases are not itemised."
+Services,./avon-and-somerset.csv,Temporary staff administrator role,11.80,8560.0,2016-02-01,"Information provided for administrative assistant and annual volume, equating to an average 713 hours per month, so around 3.5 FTE each month. The force operates a Managed Service under a Neutral Vendor model engaged through a collaborative Framework. There is no single agency fee percentage. Job roles have been graded and attract a specific monetary value as a mark up plus a booking fee."
+Services,./avon-and-somerset.csv,one-day car hire,18.00,1.0,2016-01-23,"Information provided for manual Ford Focus M3 group. Price is for vehicle hire only, excludes delivery, insurance etc."
+Services,./avon-and-somerset.csv,30-day car hire,13.00,120.0,2015-10-08,"Information provided for Manual Ford Focus M3 group hire. Price is for vehicle hire only, excludes delivery, insurance etc, and for the first 28 days, then £11.50 per day onwards."
+Services,./avon-and-somerset.csv,Ream of 500 sheets of white paper,1.70,50.0,2016-02-17,Steinbeis Classic A4 80G (recycled): 'brown' paper with substantial sustainability benefits.
+Services,./avon-and-somerset.csv,Telephone interpreting inc. recording services (per minute),0.68,6.0,2016-02-16,"Information provided on the basis of the last monthly invoice which was for a total of 3,682 minutes in January 2016. A yearly limit order is raised to cover costs which are calculated on a monthly basis and the annual amount is called off from the yearly purchase order."
+Services,./avon-and-somerset.csv,Face-to-face interpreting for 4 hours (half-day),120.00,2.0,2016-02-17,"There is a minimum fee of £60 which nominally covers 2 hours excluding expenses. Any expenses incurred will be offset if service time is less than 2 hours, Mon-Fri 06:00-22:00. The force with the rest of the South West region has approached various providers listed in the national register of public service interpreters in this region. The National Register of Public Service Interpreters is the UK's independent voluntary regulator of professional interpreters specialising in public service. We have worked to reduce the fees charged by interpreters and develop a standard operating procedure which all forces now adopt."
+Services,./avon-and-somerset.csv,Standard office cleaning (force average per m2 per year),17.69,23108.0,,"The price quoted is an average across the force headquarters site and is part of a bundle of services, provided as an annual contracted rate for a net surface of 18,003m2. The contract operates on fixed costs and includes operating costs; management fee; provision of all consumables e.g. paper towel, toilet paper, cleaning fluids etc. There is also catering provided on site (non-subsidised) and a management fee, adding to the difficulty of extracting cleaning costs from the service bundle. The force has differential rates based on a variety of factors for different areas and levels of cleaning required."
+Services,./avon-and-somerset.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0184,10672747.0,2016-03-31,Information on volumes based on annual consumption. Service procured through the Crown Commercial Service Framework. Rate is for the cost of gas only and excludes daily charges and non energy variable costs. Gas is bought on a flexible basis during the supply period and hence the final cost of the gas is only known at the end of the supply period. Price given is an average for the April-September 2015 period only.
+Services,./avon-and-somerset.csv,Laptop purchase,600.00,2.0,2015-12-11,Standard specifications laptop procured.
+Services,./avon-and-somerset.csv,Desktop purchase,450.00,10.0,2015-11-02,Low specifications desktops purchased. The force rarely buys medium specifications and never high specifications desktops.
+Services,./avon-and-somerset.csv,"PC monitor - 19"" or smaller (inc. cables)",85.38,1.0,2015-09-17,Price given includes DVI adaptor & cable which are purchased separately.
+Services,./avon-and-somerset.csv,"PC monitor - 21"" or wider (inc. cables)",92.10,1.0,2015-12-10,Price includes £7.10 for DVI adaptor & cables which are purchased separately.
+Services,./avon-and-somerset.csv,Telephone call charges (per minute),0.01,,,
+Services,./cumbria.csv,DNA test,17.00,10.0,2016-03-02,
+Services,./cumbria.csv,Toxicology test,35.00,10.0,2016-03-02,
+Services,./cumbria.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./cumbria.csv,Forensic stain analysis,87.50,2.0,2016-01-28,
+Services,./cumbria.csv,Credit report or search,1.10,671.0,2015-11-01,"Information provided for staff vetting reports. Crime management and supplier evaluation credit searches cost £4.25 each (volume 3,200), included in a 12-month bundle."
+Services,./cumbria.csv,Temporary staff administrator role,13.71,37.0,2016-02-22,Hourly rate equates salary scale point for the admin clerical position that the temp staff is covering. The constabulary uses the MSTAR 2 agreement.
+Services,./cumbria.csv,one-day car hire,21.20,2.0,2016-02-16,The force procures individual one- to two-day vehicle hire and also 30+ days' vehicle hire.
+Services,./cumbria.csv,30-day car hire,14.25,90.0,2016-01-11,
+Services,./cumbria.csv,Ream of 500 sheets of white paper,1.68,200.0,2016-02-10,
+Services,./cumbria.csv,Telephone interpreting inc. recording services (per minute),0.66,,2015-11-25,Information on volumes not provided.
+Services,./cumbria.csv,Face-to-face interpreting for 4 hours (half-day),,,2015-11-25,Basic rate varies between £24 and £71 per hour (so £96 to £284 for four hours). No purchase information provided.
+Services,./cumbria.csv,Standard office cleaning (force average per m2 per year),10.58,21322.0,2016-01-01,Information provided is monthly rate based on total volume.
+Services,./cumbria.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,Gas is purchased by the force via a basket of both hourly and half hourly rates via the Yorkshire Police contract through the council.
+Services,./cumbria.csv,Laptop purchase,760.00,10.0,2015-08-03,Local specifications - Dell Laptop PC.
+Services,./cumbria.csv,Desktop purchase,441.00,130.0,2016-01-04,High specifications Dell small factor
+Services,./cumbria.csv,"PC monitor - 19"" or smaller (inc. cables)",99.00,130.0,2016-01-04,"Information provided for the force's standard size of monitors: 19.5""."
+Services,./cumbria.csv,"PC monitor - 21"" or wider (inc. cables)",120.00,50.0,2016-01-04,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./cumbria.csv,Telephone call charges (per minute),0.0075,,2016-02-16,"Information on volumes not provided. Average monthly purchase of this service: £5,000."
+Services,./dyfed-powys.csv,DNA test,17.00,1.0,2016-02-09,"Police and Criminal Evidence Act DNA test samples: 3,300 a year. Information on volumes from the most recent purchase not provided."
+Services,./dyfed-powys.csv,Toxicology test,28.15,1.0,2016-02-12,"Volume information not provided. It is difficult to provide 20TOX A1 figures, as these relate to some cases on the force's databases which are listed case-by-case. The drink driving tests are submitted direct from the stations and recorded on the databases."
+Services,./dyfed-powys.csv,Mobile phone examination,79.00,1.0,2015-12-21,Information on volumes purchased not provided.
+Services,./dyfed-powys.csv,Forensic stain analysis,79.80,1.0,2016-02-09,"Information provided for item code Crime Stain 22BF B1 start point 288/2013, 229/2014, 343/2015. Information on volumes not provided."
+Services,./dyfed-powys.csv,Credit report or search,4.25,250.0,2015-11-13,Information provided on the basis of annual volume and flat rate. The force has an annual contract rate which includes all requirements and is capped at 250 searches.
+Services,./dyfed-powys.csv,Temporary staff administrator role,13.00,148.0,2015-12-31,
+Services,./dyfed-powys.csv,one-day car hire,18.50,1.0,2016-02-26,
+Services,./dyfed-powys.csv,30-day car hire,,,,The force does not hire vehicles for this period of time.
+Services,./dyfed-powys.csv,Ream of 500 sheets of white paper,1.45,150.0,2016-02-15,
+Services,./dyfed-powys.csv,Telephone interpreting inc. recording services (per minute),0.68,1081.0,2015-12-31,
+Services,./dyfed-powys.csv,Face-to-face interpreting for 4 hours (half-day),120.00,10.02,2016-02-04,
+Services,./dyfed-powys.csv,Standard office cleaning (force average per m2 per year),11.21,1798.0,2016-01-27,Information provided for the force's site in Carmarthen. A different supplier is used for the force's headquarters for a different rate.
+Services,./dyfed-powys.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0193,160908.0,2016-02-09,
+Services,./dyfed-powys.csv,Laptop purchase,567.01,5.0,2016-02-03,Standard specifications.
+Services,./dyfed-powys.csv,Desktop purchase,345.30,1.0,2016-02-16,Medium specifications.
+Services,./dyfed-powys.csv,"PC monitor - 19"" or smaller (inc. cables)",68.01,5.0,2016-01-14,
+Services,./dyfed-powys.csv,"PC monitor - 21"" or wider (inc. cables)",77.18,1.0,2016-01-19,
+Services,./dyfed-powys.csv,Telephone call charges (per minute),,,2016-02-26,Rate is provided in an inclusive telecoms package linked to consumption but the requested information cannot be extracted.
+Services,./west-midlands.csv,DNA test,18.45,1076.0,2015-12-01,"The force is using the old Framework to purchase this item code 24BF A1 which is equivalent to 07BFA1. As such, from 01 March 2016 this will convert to 24BF. The items in question are covered under a formal contract (which is between regional forces). Therefore the item price remains the same regardless of whether one unit is ordered or multiple, as unit prices were derived based on indicative annual volumes at the time of tender rather than on an order by order basis."
+Services,./west-midlands.csv,Toxicology test,26.92,17.0,2015-12-01,"Standard alcohol test. The force is using the old Framework code 20TOXA1 which is equivalent to 01TOXA1. The items in question are covered under a formal contract (which is regional between forces). Therefore, the item price remains the same regardless of whether one unit is ordered or multiple, as unit prices were derived based on indicative annual volumes at the time of tender rather than on an order by order basis."
+Services,./west-midlands.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./west-midlands.csv,Forensic stain analysis,110.00,1.0,2016-02-01,"The force is using the old framework code for this item. There is no equivalent pricing point under the old framework for Crime Stains as the described item code 01BF has been split into codes 20BF and 22BF. However, from 01 March 2016 this price will convert to joint codes 20BF-B1 plus 22BF-B1 for a total £85.56. The items in question are covered under a formal contract which is regional between forces. Therefore, the item price remains the same regardless of whether single or multiple items are purchased, as unit prices are based on indicative annual volumes at the time of tender rather than on an order by order basis."
+Services,./west-midlands.csv,Credit report or search,1.35,1300.0,2015-11-01,"Information provided based on staff vetting reports for a unit price in accordance with the annual volume of transactions which the force falls into. As such, the force falls into the lowest price bracket (1,300 searches), meaning that the cost per check to the force is £1.35."
+Services,./west-midlands.csv,Temporary staff administrator role,10.95,511.0,2015-09-29,Position reported in return is most aligned to description of staff-administrator role. Force wide temporary staff requirements.
+Services,./west-midlands.csv,one-day car hire,13.63,20.0,2015-12-01,"The force has a formal contract whereby there is a fixed daily rate of £13.63. Given that the average hire time for the force is 20 days, this pricing methodology best meets the force's needs."
+Services,./west-midlands.csv,30-day car hire,13.63,30.0,2015-12-01,"The force has a formal contract whereby there is a fixed daily rate of £13.63. Given that the average hire time for the force is 20 days, this pricing methodology best meets the force's needs."
+Services,./west-midlands.csv,Ream of 500 sheets of white paper,1.93,100.0,2016-02-01,"Specification purchased: budget white A4 80GSM copier paper, box of 5 reams (5X500 sheets of paper). The force intends to move across to the new national police agreement for stationery when it is established later this year."
+Services,./west-midlands.csv,Telephone interpreting inc. recording services (per minute),0.66,300.0,2016-02-01,"As per the national framework agreement, the service charge is £0.011 pence per second for all languages. Information on volumes provided on the basis of 5 hours last purchased."
+Services,./west-midlands.csv,Face-to-face interpreting for 4 hours (half-day),124.00,4.0,2016-02-01,Pricing information based on the national police agreement (£31.00 per hour).
+Services,./west-midlands.csv,Standard office cleaning (force average per m2 per year),,,,Service provided in-house.
+Services,./west-midlands.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0193,127409.0,2016-01-01,"Volume shown for last recorded monthly usage across force. For clarity, the cost per kWh to the force is 1.93p. The items in question are covered under a formal contract (which is regional between forces). Therefore, the item price remains the same regardless of whether one unit is ordered or multiple, as unit prices were derived based on indicative annual volumes at the time of tender rather than on an order by order basis."
+Services,./west-midlands.csv,Laptop purchase,616.99,1100.0,2016-02-15,Lower specifications than standard specifications described for comparison.
+Services,./west-midlands.csv,Desktop purchase,277.00,80.0,2016-02-01,Lower specifications than standard specifications described for comparison.
+Services,./west-midlands.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,Not purchased.
+Services,./west-midlands.csv,"PC monitor - 21"" or wider (inc. cables)",89.89,35.0,2016-02-12,Force specifications: IIYAMA B2280WSD-B1/22WIDE LCD
+Services,./west-midlands.csv,Telephone call charges (per minute),0.005,,2016-02-01,"The force's contracted tariff for both local and national calls is .5 pence per minute. The force receives a consolidated bill (including line rental, provision of non-emergency number charges and external calls) on a quarterly basis from the supplier. Therefore, the charge remains the same regardless of the number of units purchased."
+Services,./north-wales.csv,DNA test,17.00,297.0,2016-01-28,
+Services,./north-wales.csv,Toxicology test,19.75,4.0,2015-12-15,Information provided for K110 Toxicology Kit.
+Services,./north-wales.csv,Mobile phone examination,"1,500.00",1.0,2016-02-12,"Information provided for full examination of Apple iPhone 5 - ios 8.3 PIN Decryption only - The service was on an I phone 5 ios with encrypted data that included unlocking, decryption and investigation but the service was not under contract at the time and would have included a complicated search of several megabytes of encrypted data. The force has recently completed a regional tender for this service."
+Services,./north-wales.csv,Forensic stain analysis,80.00,5.0,2016-01-31,
+Services,./north-wales.csv,Credit report or search,1.25,5155.0,2014-12-23,Information provided for staff vetting reports. Criminal investigation credit reports cost £4.25 each.
+Services,./north-wales.csv,Temporary staff administrator role,14.14,148.5,2016-02-02,"Costs based on Admin Assistant - scale 4 Administrative Post, HR Assistant, as an example including all statutory costs as well as rate paid."
+Services,./north-wales.csv,one-day car hire,18.50,1.0,2016-02-11,Information provided for Ford Focus hire.
+Services,./north-wales.csv,30-day car hire,11.00,31.0,2016-01-31,Information provided for Ford Focus Zetec vehicle hire.
+Services,./north-wales.csv,Ream of 500 sheets of white paper,1.58,200.0,2016-01-14,
+Services,./north-wales.csv,Telephone interpreting inc. recording services (per minute),0.66,1188.0,2016-01-28,Actual rate is £0.011 per second.
+Services,./north-wales.csv,Face-to-face interpreting for 4 hours (half-day),124.00,118.75,2016-01-28,
+Services,./north-wales.csv,Standard office cleaning (force average per m2 per year),11.87,56871.0,2015-07-31,Provision of cleaning service in-house is subject to a review. Information taken from the Estate Benchmarking Report for 2014/15.
+Services,./north-wales.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0192,1815.0,2016-01-11,
+Services,./north-wales.csv,Laptop purchase,563.10,4.0,2015-12-10,Low specifications Dell LAT E5550/5550 i5 4GB 500GB
+Services,./north-wales.csv,Desktop purchase,351.13,7.0,2015-12-10,Low specifications Dell OPLEX 3020 MT i3 4GB 500GB
+Services,./north-wales.csv,"PC monitor - 19"" or smaller (inc. cables)",90.26,7.0,2015-12-10,"Dell PROF P2014H LED monitor, black. Information provided for the force purchases of monitors size 19.5""."
+Services,./north-wales.csv,"PC monitor - 21"" or wider (inc. cables)",193.57,10.0,2015-12-10,"Dell U/SHARP U24 12M VGA Mon. The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./north-wales.csv,Telephone call charges (per minute),0.0085,,2016-01-14,Information on volumes not provided.
+Services,./north-yorkshire.csv,DNA test,17.00,242.0,2016-02-18,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions."
+Services,./north-yorkshire.csv,Toxicology test,29.90,8.0,2016-02-18,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions."
+Services,./north-yorkshire.csv,Mobile phone examination,145.00,1.0,2016-02-01,Information provided for level 2 examination of one item only.
+Services,./north-yorkshire.csv,Forensic stain analysis,50.00,1.0,2016-01-24,"Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). Scientific Support Unit (West Yorkshire Police lead) manage this contract on behalf of the Region. The force does not deal directly with the supplier, but subsequently pay West Yorkshire Police for their contributions. The force's most recent purchase of level A1 tests cost £169.90 each."
+Services,./north-yorkshire.csv,Credit report or search,1.10,1203.0,2015-11-13,Information provided for personal vetting reports.
+Services,./north-yorkshire.csv,Temporary staff administrator role,11.74,37.0,2016-02-05,"Due to differing pay structures within the Yorkshire and Humber Region, information provided is based on a 'blended' average rate for the four Yorkshire and Humber Forces."
+Services,./north-yorkshire.csv,one-day car hire,19.24,1.0,2016-02-22,Information provided for the hire of a Toyota vehicle matching description requested for comparison.
+Services,./north-yorkshire.csv,30-day car hire,9.76,28.0,2016-02-27,Information based on invoice for one Hyundai vehicle hired for 28 days (no bills for 30 days) and matching description requested for comparison. 28 days' rental is the maximum billed period.
+Services,./north-yorkshire.csv,Ream of 500 sheets of white paper,2.03,250.0,2016-02-05,
+Services,./north-yorkshire.csv,Telephone interpreting inc. recording services (per minute),0.80,921.0,2016-01-31,
+Services,./north-yorkshire.csv,Face-to-face interpreting for 4 hours (half-day),137.04,11.75,2016-02-08,National Register of Public Service Interpreters Call-Off List.
+Services,./north-yorkshire.csv,Standard office cleaning (force average per m2 per year),15.03,39581.0,2015-12-18,Payments for standard office cleaning are made monthly based on the annual contract price. The average cost per m2 per annum can only be provided by dividing the annual figure by the size of the estate.
+Services,./north-yorkshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0325,480905.0,2016-01-20,"Unable to provide a price specific to the force's headquarters, as billing is not detailed to location. Rates include climate change levy and vary from 2.865p to 3.798p per kWh dependent upon usage and sites. In addition, the force's HQ is primarily oil heated."
+Services,./north-yorkshire.csv,Laptop purchase,519.33,6.0,2015-11-06,Standard specifications Latitude 5450BTX.
+Services,./north-yorkshire.csv,Desktop purchase,545.00,110.0,2015-11-25,High specifications: x Optiplex mini tower 7020 - All specifications for purchasing desktops the same except 4gb Ram - 500Gb Sata drive - 3 year next Business day warranty.
+Services,./north-yorkshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors; it has moved to only 23"". "
+Services,./north-yorkshire.csv,"PC monitor - 21"" or wider (inc. cables)",107.00,50.0,2016-02-15,"Dell Prof P2314H LED monitors purchased. The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./north-yorkshire.csv,Telephone call charges (per minute),0.0046,89994.0,2016-02-01,"Estimated volume based on the last total time charged: 1499:54:35 = 18,114 calls."
+Services,./surrey.csv,DNA test,18.21,1.0,2016-02-15,No information on volumes.
+Services,./surrey.csv,Toxicology test,25.33,1.0,2016-02-15,Volume information not provided.
+Services,./surrey.csv,Mobile phone examination,150.00,1.0,2016-02-01,Information provided for level 2 Sim card and Handset - standard examination (14 days). Volume information not provided. Fixed price for standard examination regardless of volumes.
+Services,./surrey.csv,Forensic stain analysis,100.00,1.0,2016-02-15,Information on volumes not provided.
+Services,./surrey.csv,Credit report or search,1.35,1.0,2015-11-01,Volume information not provided.
+Services,./surrey.csv,Temporary staff administrator role,12.75,15.0,2016-02-01,General administrator costs.
+Services,./surrey.csv,one-day car hire,19.79,1.0,2015-07-01, Rate excludes £2.50 collection / delivery charge each way.
+Services,./surrey.csv,30-day car hire,12.25,4.0,2015-12-01,
+Services,./surrey.csv,Ream of 500 sheets of white paper,2.37,250.0,2016-02-01,Basic paper 75g - Box of 5 reams price is £11.85 - fixed price not dependent on volumes.
+Services,./surrey.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-01,Flat rate interpretation charge per minute. Information on volumes not provided.
+Services,./surrey.csv,Face-to-face interpreting for 4 hours (half-day),120.00,2.0,2016-02-01,Add £23.00 booking fee per assignment. Information provided for 4 hours as daily minimum payment for 2 hours.
+Services,./surrey.csv,Standard office cleaning (force average per m2 per year),17.22,38014.0,2016-02-01,"Annual cost information provided, calculated by dividing total cost by site area so may not be totally accurate. Total surface area is 38,014m2."
+Services,./surrey.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0212,2743548.0,2016-01-31,Information on volumes based on annual consumption.
+Services,./surrey.csv,Laptop purchase,465.88,10.0,2016-01-14,Standard specifications HP640 G1 i5 processor.
+Services,./surrey.csv,Desktop purchase,439.15,12.0,2015-11-25,Standard specifications HP800 G2 i5 processor.
+Services,./surrey.csv,"PC monitor - 19"" or smaller (inc. cables)",119.06,30.0,2016-01-14,Standard HP monitors.
+Services,./surrey.csv,"PC monitor - 21"" or wider (inc. cables)",187.50,10.0,2015-11-25,"Standard HP Z24i. The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./surrey.csv,Telephone call charges (per minute),,,,For telephone call charges the force has been on an Internet Protocol based system for the last 2 years so call charges are not available.
+Services,./nottinghamshire.csv,DNA test,19.40,1.0,2015-09-30,Information provided for item code 07BFA1.
+Services,./nottinghamshire.csv,Toxicology test,27.65,1.0,2016-01-28,Information provided for item code 01TOXA1.
+Services,./nottinghamshire.csv,Mobile phone examination,16.66,1.0,2015-12-31,
+Services,./nottinghamshire.csv,Forensic stain analysis,118.50,1.0,2016-01-15,
+Services,./nottinghamshire.csv,Credit report or search,4.25,1.0,2015-11-01,Unit price is a flat rate for all types of credit reports.
+Services,./nottinghamshire.csv,Temporary staff administrator role,8.45,881.75,2016-02-12,
+Services,./nottinghamshire.csv,one-day car hire,24.79,1.0,2015-12-22,Rate includes £2.50 collection / delivery charge each way.
+Services,./nottinghamshire.csv,30-day car hire,12.72,30.0,2015-05-13,Daily rate calculated to include £2.50 collection / delivery charge each way.
+Services,./nottinghamshire.csv,Ream of 500 sheets of white paper,1.93,100.0,2016-02-06,
+Services,./nottinghamshire.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-01-01,Information on volumes not provided.
+Services,./nottinghamshire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,,2015-12-07,Information on volumes not provided.
+Services,./nottinghamshire.csv,Standard office cleaning (force average per m2 per year),9.64,62699.0,2016-02-01,
+Services,./nottinghamshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,The force's headquarters do not use gas supply services.
+Services,./nottinghamshire.csv,Laptop purchase,520.00,40.0,2016-01-01,"Standard specifications - not touchscreen, not 5-year warranty."
+Services,./nottinghamshire.csv,Desktop purchase,530.00,20.0,2014-10-01,"Medium specifications but 320 gb, no SSD, 3-year warranty."
+Services,./nottinghamshire.csv,"PC monitor - 19"" or smaller (inc. cables)",112.00,30.0,2015-07-24,
+Services,./nottinghamshire.csv,"PC monitor - 21"" or wider (inc. cables)",122.00,20.0,2014-07-02,
+Services,./nottinghamshire.csv,Telephone call charges (per minute),0.01,,2016-02-25,Figure taken from the framework contract RM1045. The force cannot provide a breakdown of information as requested due to the large number of complex activities being undertaken.
+Services,./northamptonshire.csv,DNA test,19.40,1.0,2016-02-01,
+Services,./northamptonshire.csv,Toxicology test,27.65,1.0,2016-02-01,
+Services,./northamptonshire.csv,Mobile phone examination,,,,"Service provided in-house and the force uses external services bespoke to device requirements. The requirement varies with make and model of phone, version running and user settings. These determine how the force examines and costs will range from £15 to £1,800. The force buys licences for required software and use its own hardware."
+Services,./northamptonshire.csv,Forensic stain analysis,118.50,1.0,2016-02-01,
+Services,./northamptonshire.csv,Credit report or search,4.25,1.0,2016-02-01,Unit price is a flat rate for all types of credit reports.
+Services,./northamptonshire.csv,Temporary staff administrator role,9.60,1.0,2016-02-01,
+Services,./northamptonshire.csv,one-day car hire,24.79,1.0,2016-02-23,Rate includes £2.50 collection / delivery charge each way.
+Services,./northamptonshire.csv,30-day car hire,12.72,30.0,2016-02-29,Daily rate calculated to include £2.50 collection / delivery charge each way.
+Services,./northamptonshire.csv,Ream of 500 sheets of white paper,1.93,100.0,2016-02-06,
+Services,./northamptonshire.csv,Telephone interpreting inc. recording services (per minute),0.68,500.0,2016-01-01,
+Services,./northamptonshire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,,,Information on volumes not provided.
+Services,./northamptonshire.csv,Standard office cleaning (force average per m2 per year),9.57,40353.0,2016-02-01,
+Services,./northamptonshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.06,7000000.0,2015-02-01,Information provided based on annual volume estimate for 2014/2015.
+Services,./northamptonshire.csv,Laptop purchase,904.05,25.0,2016-01-31,ThinkPad S1 Yoga 20DKCTO1WW
+Services,./northamptonshire.csv,Desktop purchase,548.00,20.0,2015-04-01,
+Services,./northamptonshire.csv,"PC monitor - 19"" or smaller (inc. cables)",101.40,30.0,2015-04-01,Dell professional P1914S standard LED monitor VGA DVi / DP(12801024 Black UK) 3yrs warranty
+Services,./northamptonshire.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./northamptonshire.csv,Telephone call charges (per minute),0.01,,2016-02-25,Land line calls via collaborative framework RM1045 Telephony.
+Services,./derbyshire.csv,DNA test,19.40,231.0,2016-02-15,"East Midlands Forensics do not recognise the 24BF code description of the item for comparison, but think this will be the local equivalent code 07BFA1."
+Services,./derbyshire.csv,Toxicology test,27.65,1.0,2016-02-26,"East Midlands Forensics do not recognise the 24BF code description of the item for comparison, but think this will be the local equivalent code 01TOXA1 Alcohol analysis."
+Services,./derbyshire.csv,Mobile phone examination,,,,Item not purchased. This is a service that is provided in-house for the region. The East Midlands Region has a shared special operations unit which provides the service to the East Midlands forces. The force contributes to the cost of the unit and gets its share of the services provided.
+Services,./derbyshire.csv,Forensic stain analysis,118.50,31.0,2016-02-15,"East Midlands Forensics do not recognise the 24BF code description of the item for comparison, but think this will be the local equivalent code 01BFA1 DNA Standard."
+Services,./derbyshire.csv,Credit report or search,1.10,1.0,2016-02-26,"Information provided for staff vetting reports. Information on volumes not provided. Crime management and supplier evaluation credit searches cost £4.25 each. Checks are ordered daily as needed, so quantities vary. The force pays a fee for reports at the start of the contractual period and adjusts as necessary at the end of the year. The force does not have invoices for each enquiry as this would be administratively burdensome."
+Services,./derbyshire.csv,Temporary staff administrator role,12.27,31.0,2016-01-08,"Hourly rate for admin temp staff is £12.27 which includes Pay, Holiday Pay, Pension Charge, Employers NI and Management Fee."
+Services,./derbyshire.csv,one-day car hire,24.79,2.0,2016-02-17,The force uses a collaborative framework. Rate includes one-off £2.50 Collection / Delivery charge each way.
+Services,./derbyshire.csv,30-day car hire,12.72,30.0,2016-02-17,Information provided based on the latest invoice for 30-day car hire of 19 vehicles using a collaborative framework. Daily rate calculated to include £2.50 Collection / Delivery charge each way.
+Services,./derbyshire.csv,Ream of 500 sheets of white paper,1.93,25.0,2015-12-31,The force buys budget paper A4 80gsm at £9.65 a box of 5 reams. This is ordered regularly and is a contracted price. Typical orders can be for 10 or 20 boxes depending on the size of the delivery location.
+Services,./derbyshire.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-01-01,Information provided on the basis of the latest consolidated bill of both telephone and face-to-face interpreting services totalling 363.18 hours.
+Services,./derbyshire.csv,Face-to-face interpreting for 4 hours (half-day),151.40,4.0,2016-01-01,"Information provided on the basis of the latest consolidated bill of both telephone and face-to-face interpreting services totalling 363.18 hours. The hourly rate is £37.85, 8am to 8pm, £48.40 during evenings and bank holidays."
+Services,./derbyshire.csv,Standard office cleaning (force average per m2 per year),9.64,1.0,2016-02-26,Rate paid in 2015-16.
+Services,./derbyshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0185,673598.0,2016-01-01,Billing is consolidated. Information provided on the basis of the most recent invoice.
+Services,./derbyshire.csv,Laptop purchase,612.25,9.0,2016-02-02,Dell E5450 with 500GB standard rotary Hard Drive without bit locker.
+Services,./derbyshire.csv,Desktop purchase,512.13,1.0,2016-01-26,Medium specifications except 500GB Rotary HD and not bit locker. Dell 7020 desktop.
+Services,./derbyshire.csv,"PC monitor - 19"" or smaller (inc. cables)",98.87,1.0,2016-01-25,Dell
+Services,./derbyshire.csv,"PC monitor - 21"" or wider (inc. cables)",105.47,300.0,2015-09-24,"Information provided for the most recent purchase (not force standard) of control room monitors, size 24""."
+Services,./derbyshire.csv,Telephone call charges (per minute),0.005,66072.0,2016-02-26,New Regional Contract. Monthly volume information provided.
+Services,./west-yorkshire.csv,DNA test,17.00,726.0,2016-02-18,Prices relate to roughly comparable items (there may be slight differences in the product specification when compared to the National framework).
+Services,./west-yorkshire.csv,Toxicology test,29.90,8.0,2016-02-18,Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework).
+Services,./west-yorkshire.csv,Mobile phone examination,98.00,1.0,2016-01-28,Information provided for level 1 examination.
+Services,./west-yorkshire.csv,Forensic stain analysis,50.00,,2015-12-22,Prices relate to roughly comparable products (there may be slight differences in the product specification when compared to the National framework). The force most recently purchased 44 level A1 tests which cost £169.90 each.
+Services,./west-yorkshire.csv,Credit report or search,1.10,1529.0,2015-11-13,Information provided for personal vetting reports.
+Services,./west-yorkshire.csv,Temporary staff administrator role,11.74,37.0,2016-02-12,"Due to differing pay structures within the Yorkshire and Humber Region, information provided is based on a 'blended' average rate for the four Yorkshire and Humber Forces."
+Services,./west-yorkshire.csv,one-day car hire,19.79,1.0,2016-01-26,Information provided for Group D Vehicle (Ford Focus or similar) hire.
+Services,./west-yorkshire.csv,30-day car hire,11.40,28.0,2015-11-17,Information provided for Group D Vehicle (Ford Focus or similar) hire for 28 days (no bills for 30 days - 28 days' rental is maximum billed in period).
+Services,./west-yorkshire.csv,Ream of 500 sheets of white paper,2.03,50.0,2016-02-18,
+Services,./west-yorkshire.csv,Telephone interpreting inc. recording services (per minute),0.66,15.0,2016-02-02,Estimated time based on 910 seconds' duration of service most recently purchased. Actual rate for the service is £0.011 per second.
+Services,./west-yorkshire.csv,Face-to-face interpreting for 4 hours (half-day),124.00,4.0,2016-03-04,Pricing information based on tier 1 interpreter service at £31.00 per hour. One-hour minimum charge is followed by a rate per minute calculated pro-rata. No travel or expenses are charged for.
+Services,./west-yorkshire.csv,Standard office cleaning (force average per m2 per year),14.62,131844.0,2016-02-11,"Information provided for annual cost divided by 131,844m2 total estate area. Payments for standard office cleaning are made monthly based on the annual contract price. The average cost per m2 can only be provided by dividing the annual figure by the total size of the estate."
+Services,./west-yorkshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0286,154561.0,2016-02-09,"The force has two meters at the main HQ, with different costs per kWh. Information provided includes rate based on costs of annual consumption on meter 2 (high usage at 2.2859p/kWh). Based on annual consumption of 43,814 kWh on meter 1(medium usage) the rate would be £0.03139 p per kWh."
+Services,./west-yorkshire.csv,Laptop purchase,725.00,100.0,2016-02-24,NFC43 Lenovo Laptop ThinkPad S1 Yoga.
+Services,./west-yorkshire.csv,Desktop purchase,355.00,100.0,2016-02-09,HP Prodesk 600 G2 SFF – NFC 43.
+Services,./west-yorkshire.csv,"PC monitor - 19"" or smaller (inc. cables)",114.92,150.0,2016-01-18,
+Services,./west-yorkshire.csv,"PC monitor - 21"" or wider (inc. cables)",169.37,200.0,2016-01-13,The force does not purchase monitors of this size. Information provided for the purchase of 24-inch monitors.
+Services,./west-yorkshire.csv,Telephone call charges (per minute),0.0046,,2016-01-01,Information on volumes not provided.
+Services,./wiltshire.csv,DNA test,17.00,3023.0,2016-02-18,
+Services,./wiltshire.csv,Toxicology test,28.15,72.0,2016-02-19,
+Services,./wiltshire.csv,Mobile phone examination,,,,Service currently provided in-house. The force has recently completed a regional tender for this service.
+Services,./wiltshire.csv,Forensic stain analysis,87.30,1.0,2016-02-18,
+Services,./wiltshire.csv,Credit report or search,1.10,1.0,2016-02-15,
+Services,./wiltshire.csv,Temporary staff administrator role,12.03,242.0,2016-02-15,"Regional mini-competition under the collaborative framework has now been awarded, with the new contract to commence in April 2016."
+Services,./wiltshire.csv,one-day car hire,19.79,2.0,2016-02-16, Rate excludes £2.50 collection / delivery charge each way.
+Services,./wiltshire.csv,30-day car hire,12.25,84.0,2014-12-22,Service not purchased in the last 12 months. Indicative price shown if the service was used as per other forces in the South West Region.
+Services,./wiltshire.csv,Ream of 500 sheets of white paper,1.90,25.0,2016-01-31,"Budget Paper A4 75g White. The force will move to the new national office supplies contract in June 2016, following the mini competition under the Crown Commercial Service framework RM3703."
+Services,./wiltshire.csv,Telephone interpreting inc. recording services (per minute),0.68,45.0,2016-02-23,
+Services,./wiltshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-19,A registered list of translators from the National Register of Public Service Interpreters are used.
+Services,./wiltshire.csv,Standard office cleaning (force average per m2 per year),11.96,19221.0,2015-04-01,"Price provided is per m2 per annum, or £0.046 per m2 per day."
+Services,./wiltshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,1218436.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./wiltshire.csv,Laptop purchase,779.00,147.0,2016-01-11,"Laptops purchased through Wiltshire Council as part of the IT shared service. Force has high specifications: Dell E6440, Intel Core i5-4210M 2.6Ghz Processor, 14"" HD Anti-glare LED display, Control vault with Smartcard reader, Webcam and Microphone, 4GB DDR3L 1600Mhz memory, 256GB Mobility Solid State Drive, 8xDVD/RW Drive, 802.11n, Bluetooth, Dell Wireless 5570 WWAN Card, 9-Cell Li-ion Battery, Windows 7 Professional (64-bit), 5 year NBD warranty. High specifications deployed as part of the agile working programme in Wiltshire, where desktops have been removed and laptops with docking stations deployed."
+Services,./wiltshire.csv,Desktop purchase,505.00,22.0,2015-12-16,Desktops purchased through Wiltshire Council as part of the IT shared service. - Model is Dell 7020 SFF
+Services,./wiltshire.csv,"PC monitor - 19"" or smaller (inc. cables)",122.00,5.0,2015-12-11,Purchased through Wiltshire Council as part of the IT shared service. Model is Dell P1913
+Services,./wiltshire.csv,"PC monitor - 21"" or wider (inc. cables)",135.00,5.0,2016-02-24,"Purchased through Wiltshire Council as part of the IT shared service. Model: Dell P2314H. The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./wiltshire.csv,Telephone call charges (per minute),0.0049,668000.0,2016-01-01,Annual volume.
+Services,./northumbria.csv,DNA test,17.00,1024.0,2016-01-04,The unit price given is not for the item described but the force's equivalent. Forces in the North East Region do not use the same National Framework Specification Code.
+Services,./northumbria.csv,Toxicology test,29.90,10.0,2016-01-04,Information provided based on the force's equivalent of code for this item. Police forces in the North East Region do not use the National Framework Specification Code.
+Services,./northumbria.csv,Mobile phone examination,,,,The force does not procure this service which is provided in-house.
+Services,./northumbria.csv,Forensic stain analysis,99.00,86.0,2016-01-04,The force does not use the item code specified. Information provided for an equivalent service which includes both item codes 22BF-1-B1 and 20BF-1-B1 for national forensic products. A price of £50 is available under the contract for the equivalent service to the code 22BF-1-B1 but this has not been part of the recent purchase.
+Services,./northumbria.csv,Credit report or search,1.10,1366.0,2015-10-31,Service charged on an annual basis.
+Services,./northumbria.csv,Temporary staff administrator role,,,,The Force has no record of procuring any temporary administrator staff from a recruitment agency over the previous 12 months. Requirements for temporary administrator roles would go through normal recruitment process and be advertised as short term contracts.
+Services,./northumbria.csv,one-day car hire,18.00,1.0,2015-11-23,Information provided for hire of a VM Golf Match 1.6 TDI.
+Services,./northumbria.csv,30-day car hire,,,,The Force has no record of hiring any vehicle for a period of 30 days or more.
+Services,./northumbria.csv,Ream of 500 sheets of white paper,1.93,20.0,2016-01-28,80gsm Budget Paper.
+Services,./northumbria.csv,Telephone interpreting inc. recording services (per minute),0.68,5.0,2015-11-04,Information provided for last service call.
+Services,./northumbria.csv,Face-to-face interpreting for 4 hours (half-day),112.00,2.8,2015-10-29,The price charged is £28.00 per hour and the total price paid for the time stated was £79.33.
+Services,./northumbria.csv,Standard office cleaning (force average per m2 per year),,,,"The force does not procure this service, which is provided in-house."
+Services,./northumbria.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0211,19107.0,2016-01-29,
+Services,./northumbria.csv,Laptop purchase,550.67,1.0,2015-11-02,"Low / Local specification: Core i3 -4000m 2.4GH 3MB, 4GB DDR3-1600, DVD, HDD SATA, Intel Wireless N7260, 15.6"" HD Compound LED, Sierra Wireless EM7305, Digital Array MIC, TPM Module, Smart Card Slot, Country Kit, 2 Pin AC Adapter, 6 Cell Battery, Window 8.1."
+Services,./northumbria.csv,Desktop purchase,434.33,30.0,2015-03-23,"The force's specifications are below the medium specifications described for comparison. The force's specifications are: Core i3 -4160, 4GB DDR3 - 1600, DIMM, SSD Sata III 128GB, 2.5 Sound State Drive with SATA 6GD/S Interface with TPMClips with 5 yrs NBD response warranty."
+Services,./northumbria.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,The Force does not purchase this size of monitors.
+Services,./northumbria.csv,"PC monitor - 21"" or wider (inc. cables)",106.00,50.0,2016-02-15,"Force's specifications: height adjustable, swivel and rotate with VGA, DVI and HDMI inputs. The Force does not use this size of monitors, but 24""."
+Services,./northumbria.csv,Telephone call charges (per minute),0.0062,521204.0,2015-10-07,Call charges are tied into the force's managed service contract.
+Services,./metropolitan.csv,DNA test,,,,The National Forensics framework is not used by the Metropolitan Police Service for Police and Criminal Evidence DNA testing as the force is still contracted through the original Framework.
+Services,./metropolitan.csv,Toxicology test,,,,The force does not use the National Forensics Framework for toxicology test services. The Metropolitan Police Service is still contracted through the original framework.
+Services,./metropolitan.csv,Mobile phone examination,95.00,55.0,2016-02-10,The force has internal capability along with front line technology which is the primary route for this type of service. Price is not volume dependant. Blended rate for the panel of suppliers to the force (allocated to lowest cost first) based upon usage percentage is £96.15.
+Services,./metropolitan.csv,Forensic stain analysis,117.00,118.0,2016-02-10,The force uses item code 22BF under Lot 212 only in respect of drug submissions which incorporate body fluids for DNA Profiling. Information provided on volumes is based on approximate annual 2015 volumes.
+Services,./metropolitan.csv,Credit report or search,0.45,164000.0,2016-02-24,"Price based upon annual volume, not driven by individual purchases made daily."
+Services,./metropolitan.csv,Temporary staff administrator role,14.20,1.0,2016-02-24,Average hourly rate for staff classified under Administration & Clerical who have a range of skills and experience. The cost takes into account the London living wage.
+Services,./metropolitan.csv,one-day car hire,22.32,1.0,2016-02-19,
+Services,./metropolitan.csv,30-day car hire,15.84,1.0,2016-02-19,
+Services,./metropolitan.csv,Ream of 500 sheets of white paper,2.10,,2016-02-24,Volume information not provided. Delivery costs are built in for consolidated delivery to a single point on a weekly basis.
+Services,./metropolitan.csv,Telephone interpreting inc. recording services (per minute),0.68,,2016-02-22,Information on volumes not provided.
+Services,./metropolitan.csv,Face-to-face interpreting for 4 hours (half-day),137.04,,2016-02-25,Information on volumes not provided.
+Services,./metropolitan.csv,Standard office cleaning (force average per m2 per year),19.89,680000.0,2015-12-01,"Information provided for planned cleaning cost for Police Office. Average cost excludes some sites. The Metropolitan Police Service's pricing model incorporates the bulk of cleaning costs associated with custody cleaning, including cell decontamination during core custody cleaning hours. It is therefore not possible to abstract this element from the rate per m2. The force has however adjusted planned costs per m2 to omit periodical costs (wash downs, window cleaning and kitchen deep cleans). Volume is annual."
+Services,./metropolitan.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.02,113000000.0,2015-12-01,Information provided on the basis of weighted average for commodity only and annual volumes.
+Services,./metropolitan.csv,Laptop purchase,598.34,1.0,2016-02-24,"Bundle includes: 14"" standalone laptop, mini mouse, backpack, 3M RJ11 To RJ11 High Speed ADSL/Broadband, Patch cable - RJ-45 (M) - RJ-45 (M) - 2 m. The bundle includes a back pack type carry case."
+Services,./metropolitan.csv,Desktop purchase,601.44,1.0,2016-02-24,"Medium specifications as standard: SFF desktop - 500Gb hard drive, 4 x USB3.0, 6 x USB2.0, 1 x VGA, 2 x display port, also including 24 monitor, patch cable, USB keyboard & Mouse."
+Services,./metropolitan.csv,"PC monitor - 19"" or smaller (inc. cables)",123.11,1.0,2016-02-24,
+Services,./metropolitan.csv,"PC monitor - 21"" or wider (inc. cables)",255.42,1.0,2016-02-24,"Device Type: LED-backlit LCD monitor, Built-in Devices: Stereo speakers, USB Hub, Panel Type: TN, Aspect Ratio: Widescreen - 16:10, Native Resolution:, HD 1680 x 1050 at 60 Hz, Pixel Pitch: 0.282 mm, Brightness: 250 cd/m2, Contrast Ratio: 1000:1 / 25000:1 (dynamic), Response Time: 5 ms, Colour Support: 16.7 million colours, Input Connectors: DVI-D, VGA, DisplayPort, Speakers: Integrated, Display Position Adjustments: Height, pivot (rotation), swivel, tilt, Colour: Black, Dimensions (WxDxH): 50.4 cm x 21.8 cm x 38.4 cm - with stand, Weight: 5.6 kg, Manufacturer Warranty: 3 years warranty. The force does not purchase monitors of this size. Information provided for purchases of monitors size 22""."
+Services,./metropolitan.csv,Telephone call charges (per minute),0.0299,,2016-02-26,Information on volumes not provided. Peak Unit charge (£ per full minute - 8am – 6pm Mon – Friday).

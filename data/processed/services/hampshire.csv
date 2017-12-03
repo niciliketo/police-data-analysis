@@ -1,0 +1,19 @@
+Services,./hampshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./hampshire.csv,DNA test,17.00,1.0,2015-11-15,
+Services,./hampshire.csv,Toxicology test,23.33,1.0,2015-11-15,
+Services,./hampshire.csv,Mobile phone examination,300.00,1.0,2015-11-22,
+Services,./hampshire.csv,Forensic stain analysis,85.54,1.0,2015-10-30,
+Services,./hampshire.csv,Credit report or search,5.75,1.0,2015-11-25,
+Services,./hampshire.csv,Temporary staff administrator role,10.80,,2015-11-25,
+Services,./hampshire.csv,one-day car hire,30.99,1.0,2015-11-23,
+Services,./hampshire.csv,30-day car hire,,,,"The force hires vehicles only for short term, such as one or two days. Long term requirements are met by the use of pool cars instead."
+Services,./hampshire.csv,Ream of 500 sheets of white paper,1.59,200.0,2015-11-16,Volume indicated is maximum volume purchased at a time.
+Services,./hampshire.csv,Telephone interpreting inc. recording services (per minute),0.45,,2015-11-25,Volume information not provided.
+Services,./hampshire.csv,Face-to-face interpreting for 4 hours (half-day),600.00,,2015-11-18,"Jobs are subject to quotation on a case-by-case basis, as the company has to find suitable individuals who have the necessary skills and can attend various sites, as and when requested. Information on volumes not provided."
+Services,./hampshire.csv,Standard office cleaning (force average per m2 per year),,,2015-12-12,"Contractual arrangements for cleaning services vary across the estate. An average cost cannot be given as it would likely be misleading given the differences in quality and frequency of services provided. In addition, the contract covers specialist cleaning including forensic and custody areas of the Constabulary, where cleaning is more complex, thorough and frequent than anywhere else. The cleaning requirements for each area are looked at separately rather than as a whole."
+Services,./hampshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0287,,2015-11-25,Information on volumes not provided.
+Services,./hampshire.csv,Laptop purchase,470.25,1.0,2015-11-20,These purchases are made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,Desktop purchase,470.25,1.0,2015-11-20,Purchases made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,"PC monitor - 19"" or smaller (inc. cables)",125.00,1.0,2015-11-20,Purchases made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,"PC monitor - 21"" or wider (inc. cables)",130.00,1.0,2015-11-20,Purchases are made by Thames Valley Police on behalf of Hampshire Constabulary. Information on volumes not provided.
+Services,./hampshire.csv,Telephone call charges (per minute),,,2015-11-20,The force does not purchase this service.

@@ -1,0 +1,19 @@
+Services,./wiltshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./wiltshire.csv,DNA test,17.00,3023.0,2016-02-18,
+Services,./wiltshire.csv,Toxicology test,28.15,72.0,2016-02-19,
+Services,./wiltshire.csv,Mobile phone examination,,,,Service currently provided in-house. The force has recently completed a regional tender for this service.
+Services,./wiltshire.csv,Forensic stain analysis,87.30,1.0,2016-02-18,
+Services,./wiltshire.csv,Credit report or search,1.10,1.0,2016-02-15,
+Services,./wiltshire.csv,Temporary staff administrator role,12.03,242.0,2016-02-15,"Regional mini-competition under the collaborative framework has now been awarded, with the new contract to commence in April 2016."
+Services,./wiltshire.csv,one-day car hire,19.79,2.0,2016-02-16, Rate excludes £2.50 collection / delivery charge each way.
+Services,./wiltshire.csv,30-day car hire,12.25,84.0,2014-12-22,Service not purchased in the last 12 months. Indicative price shown if the service was used as per other forces in the South West Region.
+Services,./wiltshire.csv,Ream of 500 sheets of white paper,1.90,25.0,2016-01-31,"Budget Paper A4 75g White. The force will move to the new national office supplies contract in June 2016, following the mini competition under the Crown Commercial Service framework RM3703."
+Services,./wiltshire.csv,Telephone interpreting inc. recording services (per minute),0.68,45.0,2016-02-23,
+Services,./wiltshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-19,A registered list of translators from the National Register of Public Service Interpreters are used.
+Services,./wiltshire.csv,Standard office cleaning (force average per m2 per year),11.96,19221.0,2015-04-01,"Price provided is per m2 per annum, or £0.046 per m2 per day."
+Services,./wiltshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,1218436.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./wiltshire.csv,Laptop purchase,779.00,147.0,2016-01-11,"Laptops purchased through Wiltshire Council as part of the IT shared service. Force has high specifications: Dell E6440, Intel Core i5-4210M 2.6Ghz Processor, 14"" HD Anti-glare LED display, Control vault with Smartcard reader, Webcam and Microphone, 4GB DDR3L 1600Mhz memory, 256GB Mobility Solid State Drive, 8xDVD/RW Drive, 802.11n, Bluetooth, Dell Wireless 5570 WWAN Card, 9-Cell Li-ion Battery, Windows 7 Professional (64-bit), 5 year NBD warranty. High specifications deployed as part of the agile working programme in Wiltshire, where desktops have been removed and laptops with docking stations deployed."
+Services,./wiltshire.csv,Desktop purchase,505.00,22.0,2015-12-16,Desktops purchased through Wiltshire Council as part of the IT shared service. - Model is Dell 7020 SFF
+Services,./wiltshire.csv,"PC monitor - 19"" or smaller (inc. cables)",122.00,5.0,2015-12-11,Purchased through Wiltshire Council as part of the IT shared service. Model is Dell P1913
+Services,./wiltshire.csv,"PC monitor - 21"" or wider (inc. cables)",135.00,5.0,2016-02-24,"Purchased through Wiltshire Council as part of the IT shared service. Model: Dell P2314H. The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./wiltshire.csv,Telephone call charges (per minute),0.0049,668000.0,2016-01-01,Annual volume.

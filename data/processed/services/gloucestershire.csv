@@ -1,0 +1,19 @@
+Services,./gloucestershire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./gloucestershire.csv,DNA test,17.00,2224.0,2016-02-14,
+Services,./gloucestershire.csv,Toxicology test,35.00,64.0,2016-02-22,
+Services,./gloucestershire.csv,Mobile phone examination,,,,In-house service provision. The force has recently completed a regional tender for this service.
+Services,./gloucestershire.csv,Forensic stain analysis,89.81,1.0,2016-02-23,
+Services,./gloucestershire.csv,Credit report or search,1.10,1.0,2016-02-12,
+Services,./gloucestershire.csv,Temporary staff administrator role,12.34,365.0,2016-02-26,"Regional mini-competition under the collaborative framework has now been awarded, with the new contract to commence in April 2016."
+Services,./gloucestershire.csv,one-day car hire,19.79,1.0,2016-02-09,Rate excludes £2.50 collection / delivery charge each way.
+Services,./gloucestershire.csv,30-day car hire,12.25,30.0,2015-12-30,
+Services,./gloucestershire.csv,Ream of 500 sheets of white paper,1.90,25.0,2016-02-04,"Budget copier caper, 75g A4 white. A new national mini competition has just been competed for office supplies under the Crown Commercial Service framework RM3703, and the force will be moving to this contract in June 2016."
+Services,./gloucestershire.csv,Telephone interpreting inc. recording services (per minute),0.68,50.0,2016-02-10,
+Services,./gloucestershire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-02-21,A registered list of translators from the National Register of Public Service Interpreters are used.
+Services,./gloucestershire.csv,Standard office cleaning (force average per m2 per year),11.96,24335.0,2015-04-01,"Price provided is per m2 per annum, or £0.046 per m2 per day."
+Services,./gloucestershire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.019,99087.0,2016-01-01,Information on volumes based on annual consumption.
+Services,./gloucestershire.csv,Laptop purchase,442.00,100.0,2015-03-30,Standard specifications Lenovo ThinkPad Edge E550 20 DF i5.
+Services,./gloucestershire.csv,Desktop purchase,380.81,100.0,2015-10-22,Low specifications HP ProDesk 600 i3
+Services,./gloucestershire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors, only 21"". "
+Services,./gloucestershire.csv,"PC monitor - 21"" or wider (inc. cables)",91.48,50.0,2016-01-22,
+Services,./gloucestershire.csv,Telephone call charges (per minute),0.0049,400000.0,2016-01-01,Annual volume.

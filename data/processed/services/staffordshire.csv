@@ -1,0 +1,19 @@
+Services,./staffordshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./staffordshire.csv,DNA test,19.16,191.0,2016-01-28,The force is not yet using the item under the same code as it falls under the new supplier contract which starts in March 2016. Information provided for the force's equivalent code 07BFA1 for this item.
+Services,./staffordshire.csv,Toxicology test,26.92,8.0,2016-01-28,Information provided for the force's equivalent item code 01TOX'RTA Alcohol Analysis.
+Services,./staffordshire.csv,Mobile phone examination,125.00,4.0,2016-02-02,
+Services,./staffordshire.csv,Forensic stain analysis,,,,Information not provided. The force has not yet used the described item code which is slightly different from its equivalent in use in the force depending on specifications and the contract code that these will fall under.
+Services,./staffordshire.csv,Credit report or search,4.25,,,Information on volumes not provided. An annual licence fee is paid based on an anticipated annual usage.
+Services,./staffordshire.csv,Temporary staff administrator role,11.49,28.0,,Rate shown is for lower grade administrator role. Maximum grade hourly rate is £20.21.
+Services,./staffordshire.csv,one-day car hire,21.50,1.0,2016-01-15,
+Services,./staffordshire.csv,30-day car hire,13.96,28.0,2016-01-15,"The force does not hire cars on a 30-day basis, but a 28-day basis."
+Services,./staffordshire.csv,Ream of 500 sheets of white paper,1.93,,,"Price is based on a set rate against the contract used, price is not quantity dependent."
+Services,./staffordshire.csv,Telephone interpreting inc. recording services (per minute),0.66,,2016-01-15,"Actual rate is £0.011 per second, which is not volume related (flat rate)."
+Services,./staffordshire.csv,Face-to-face interpreting for 4 hours (half-day),124.00,,2016-01-15,Information on volumes not provided.
+Services,./staffordshire.csv,Standard office cleaning (force average per m2 per year),12.62,,,The force entered into a new contract in December 2015. Information provided for the annual average cost per m2 across all sites.
+Services,./staffordshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0228,,2015-12-15,Rate information based on the most recent bill for our the force's headquarters' largest single site. Price shown excludes climate change levy and daily charge (£0.031 per kWh including these elements).
+Services,./staffordshire.csv,Laptop purchase,662.61,32.0,2016-02-01,"Laptops are bought to order and have a huge range of specifications. The price shown is for specifications based on 15.530 ov.CPU; 15.6"" screen; 8GB Ram; 128 GB SSD; 4 years warranty, which are lower specifications than described for comparison. The force does not buy laptops to those specifications."
+Services,./staffordshire.csv,Desktop purchase,"1,390.00",1.0,,High specifications for forensics work HP Z420
+Services,./staffordshire.csv,"PC monitor - 19"" or smaller (inc. cables)",78.00,60.0,,"Information provided for the force's standard size of monitors: 17""."
+Services,./staffordshire.csv,"PC monitor - 21"" or wider (inc. cables)",98.00,1.0,,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 20""."
+Services,./staffordshire.csv,Telephone call charges (per minute),,,,No information provided.

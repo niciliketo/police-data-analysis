@@ -1,0 +1,19 @@
+Services,./cambridgeshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./cambridgeshire.csv,DNA test,14.50,399.0,2016-02-23,
+Services,./cambridgeshire.csv,Toxicology test,28.00,300.0,2016-02-26,"Purchases are made jointly on behalf of Bedfordshire, Cambridgeshire and Hertfordshire by a single department."
+Services,./cambridgeshire.csv,Mobile phone examination,,,,All mobile phone extractions are undertaken in-house.
+Services,./cambridgeshire.csv,Forensic stain analysis,65.00,3.0,2016-02-22,"Price for item code DNA 22BF is £85.00. Bedfordshire, Cambridgeshire and Hertfordshire Forensics is a collaborative unit led by Hertfordshire Police."
+Services,./cambridgeshire.csv,Credit report or search,1.10,1.0,2015-10-29,
+Services,./cambridgeshire.csv,Temporary staff administrator role,10.81,22.5,2016-02-05,
+Services,./cambridgeshire.csv,one-day car hire,,,,The force has never had the need to hire a compact car for 1 day as they can always meet such a requirement from within the existing fleet.
+Services,./cambridgeshire.csv,30-day car hire,,,,The force has never had the need to hire a compact car for 30 days as they can always meet such a requirement from within the existing fleet.
+Services,./cambridgeshire.csv,Ream of 500 sheets of white paper,1.87,50.0,2016-04-01,Volume information based on 10 boxes of 5 reams last bought.
+Services,./cambridgeshire.csv,Telephone interpreting inc. recording services (per minute),0.68,44.0,2015-12-29,
+Services,./cambridgeshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-01-27,The force's internal interpretation manager sources own translators and completes the vetting process.
+Services,./cambridgeshire.csv,Standard office cleaning (force average per m2 per year),15.00,,2015-04-01,Annual charge per m2 for each property.
+Services,./cambridgeshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0166,177.0,2016-02-09,
+Services,./cambridgeshire.csv,Laptop purchase,756.00,1.0,2016-02-08,Lenovo ThinkPad S1 Yoga 12 Intel15-5200U
+Services,./cambridgeshire.csv,Desktop purchase,315.79,28.0,2012-03-23,Not bought for some time. Last purchase: HP Compaq 6005 Pro SFF PC Windows 7 Professional 64-bit
+Services,./cambridgeshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,
+Services,./cambridgeshire.csv,"PC monitor - 21"" or wider (inc. cables)",125.00,1.0,2016-02-01,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./cambridgeshire.csv,Telephone call charges (per minute),,,,VOIP based calls only in the force since 2011.

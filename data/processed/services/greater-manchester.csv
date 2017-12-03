@@ -1,0 +1,19 @@
+Services,./greater-manchester.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./greater-manchester.csv,DNA test,17.00,1.0,2016-02-01,No information on volumes. Multiple purchases of this item on daily basis.
+Services,./greater-manchester.csv,Toxicology test,35.00,1.0,2016-02-01,Information provided for the last purchase made in February 2016.
+Services,./greater-manchester.csv,Mobile phone examination,,,,Mobile phone examination is undertaken in-house within the force.
+Services,./greater-manchester.csv,Forensic stain analysis,85.54,1.0,2016-02-01,Multiple submissions for testing made daily.
+Services,./greater-manchester.csv,Credit report or search,0.90,400.0,2016-02-01,Checks as requested by Force Vetting Unit. No current contract in place with supplier.
+Services,./greater-manchester.csv,Temporary staff administrator role,12.54,,2016-02-01,Information provided for the force's minimum pay rate for a B grade. Information on volumes not provided.
+Services,./greater-manchester.csv,one-day car hire,21.50,3.0,2016-02-01,Cost of £21.50 per day applies for vehicle hire less than a week long.
+Services,./greater-manchester.csv,30-day car hire,14.07,215.0,2016-02-19,Day rate applies for vehicle hires a week long or longer.
+Services,./greater-manchester.csv,Ream of 500 sheets of white paper,1.68,200.0,2016-02-26,Item purchased A4 Value Copier Paper White: £8.14 for 2500 sheets purchased force-wide by all divisions/departments.
+Services,./greater-manchester.csv,Telephone interpreting inc. recording services (per minute),0.66,10313.0,2016-02-29,Actual rate is £0.011 per second. Information on volumes not provided.
+Services,./greater-manchester.csv,Face-to-face interpreting for 4 hours (half-day),124.00,1690.0,2016-02-29,"Estimated volume based on 101,398 minutes."
+Services,./greater-manchester.csv,Standard office cleaning (force average per m2 per year),,,,The force uses an in-house cleaning service.
+Services,./greater-manchester.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0162,296960.0,2016-02-09,Variable rate contract which changes each month. Price quoted for February 2016.
+Services,./greater-manchester.csv,Laptop purchase,610.52,2.0,2016-01-19,Add £292.87 for software install.
+Services,./greater-manchester.csv,Desktop purchase,386.11,1.0,2015-04-02,"Dell Optiplex 3020 I5 Quad Core @ 3.2ghz, 8gb Ram & 500gb HDD. Add £292.87 costs for software install."
+Services,./greater-manchester.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,"The force does not purchase this size of monitors, only 22""."
+Services,./greater-manchester.csv,"PC monitor - 21"" or wider (inc. cables)",98.88,15.0,2016-03-06,"Information provided for the purchase of 22"" PC monitors. The force does not purchase different size monitors."
+Services,./greater-manchester.csv,Telephone call charges (per minute),,,,All UK calls included in contracts.

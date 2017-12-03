@@ -1,0 +1,19 @@
+Services,./bedfordshire.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./bedfordshire.csv,DNA test,14.50,399.0,2016-02-23,
+Services,./bedfordshire.csv,Toxicology test,28.00,300.0,2016-02-26,"Purchases are made jointly on behalf of Bedfordshire, Cambridgeshire and Hertfordshire by a single department."
+Services,./bedfordshire.csv,Mobile phone examination,,,,All mobile phone extraction undertaken in-house and therefore the force does not pay any additional costs to suppliers for this type of work.
+Services,./bedfordshire.csv,Forensic stain analysis,65.00,3.0,2016-02-22,"Bedfordshire, Cambridgeshire and Hertfordshire Forensics is a collaborative unit led by Hertfordshire Police."
+Services,./bedfordshire.csv,Credit report or search,1.10,500.0,2015-10-31,
+Services,./bedfordshire.csv,Temporary staff administrator role,11.37,35.0,2016-02-05,
+Services,./bedfordshire.csv,one-day car hire,19.49,1.0,2015-11-25,
+Services,./bedfordshire.csv,30-day car hire,11.25,28.0,2015-11-05,There is no record of a 30-day vehicle hire agreement.
+Services,./bedfordshire.csv,Ream of 500 sheets of white paper,2.03,1000.0,2016-10-08,Volume information based on 200 boxes of 5 reams. 80GSM.
+Services,./bedfordshire.csv,Telephone interpreting inc. recording services (per minute),0.68,36.0,2016-01-26,
+Services,./bedfordshire.csv,Face-to-face interpreting for 4 hours (half-day),120.00,4.0,2016-01-29,Rate provided is based on a minimum 2-hour peak booking at £60.00 per hour.
+Services,./bedfordshire.csv,Standard office cleaning (force average per m2 per year),13.00,,2015-04-01,Charge is per m2 per annum.
+Services,./bedfordshire.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.0166,516.0,2016-02-09,
+Services,./bedfordshire.csv,Laptop purchase,756.00,3.0,2016-02-28,"20DKA00200 LENOVO THINKPAD S1 YOGA 12, INTEL 15-5200U (12.5 SWIVEL)"
+Services,./bedfordshire.csv,Desktop purchase,316.00,31.0,2016-01-29,
+Services,./bedfordshire.csv,"PC monitor - 19"" or smaller (inc. cables)",,,,
+Services,./bedfordshire.csv,"PC monitor - 21"" or wider (inc. cables)",125.00,1.0,2016-01-22,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 23""."
+Services,./bedfordshire.csv,Telephone call charges (per minute),0.0085,,,"There are no peak and off peak rates - just a flat rate; usage is small, as the force predominately uses VOIP."

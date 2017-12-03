@@ -1,0 +1,19 @@
+Services,./cumbria.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./cumbria.csv,DNA test,17.00,10.0,2016-03-02,
+Services,./cumbria.csv,Toxicology test,35.00,10.0,2016-03-02,
+Services,./cumbria.csv,Mobile phone examination,,,,Service provided in-house.
+Services,./cumbria.csv,Forensic stain analysis,87.50,2.0,2016-01-28,
+Services,./cumbria.csv,Credit report or search,1.10,671.0,2015-11-01,"Information provided for staff vetting reports. Crime management and supplier evaluation credit searches cost £4.25 each (volume 3,200), included in a 12-month bundle."
+Services,./cumbria.csv,Temporary staff administrator role,13.71,37.0,2016-02-22,Hourly rate equates salary scale point for the admin clerical position that the temp staff is covering. The constabulary uses the MSTAR 2 agreement.
+Services,./cumbria.csv,one-day car hire,21.20,2.0,2016-02-16,The force procures individual one- to two-day vehicle hire and also 30+ days' vehicle hire.
+Services,./cumbria.csv,30-day car hire,14.25,90.0,2016-01-11,
+Services,./cumbria.csv,Ream of 500 sheets of white paper,1.68,200.0,2016-02-10,
+Services,./cumbria.csv,Telephone interpreting inc. recording services (per minute),0.66,,2015-11-25,Information on volumes not provided.
+Services,./cumbria.csv,Face-to-face interpreting for 4 hours (half-day),,,2015-11-25,Basic rate varies between £24 and £71 per hour (so £96 to £284 for four hours). No purchase information provided.
+Services,./cumbria.csv,Standard office cleaning (force average per m2 per year),10.58,21322.0,2016-01-01,Information provided is monthly rate based on total volume.
+Services,./cumbria.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",,,,Gas is purchased by the force via a basket of both hourly and half hourly rates via the Yorkshire Police contract through the council. 
+Services,./cumbria.csv,Laptop purchase,760.00,10.0,2015-08-03,Local specifications - Dell Laptop PC.
+Services,./cumbria.csv,Desktop purchase,441.00,130.0,2016-01-04,High specifications Dell small factor
+Services,./cumbria.csv,"PC monitor - 19"" or smaller (inc. cables)",99.00,130.0,2016-01-04,"Information provided for the force's standard size of monitors: 19.5""."
+Services,./cumbria.csv,"PC monitor - 21"" or wider (inc. cables)",120.00,50.0,2016-01-04,"The force does not purchase monitors of this size. Information provided for purchases of monitors size 24""."
+Services,./cumbria.csv,Telephone call charges (per minute),0.0075,,2016-02-16,"Information on volumes not provided. Average monthly purchase of this service: £5,000."

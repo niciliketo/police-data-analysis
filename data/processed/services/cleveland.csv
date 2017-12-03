@@ -1,0 +1,19 @@
+Services,./cleveland.csv,Category,Price per item (GBP),Number of items,Purchase date,Additional information
+Services,./cleveland.csv,DNA test,17.00,483.0,2016-01-31,Police and Criminal Evidence Act DNA test
+Services,./cleveland.csv,Toxicology test,29.90,7.0,2016-01-31,Drink driving toxicology test.
+Services,./cleveland.csv,Mobile phone examination,,,,"In-house provision - service not procured externally. The force may outsource in some cases, however not as an equivalent item to the standard code for comparison."
+Services,./cleveland.csv,Forensic stain analysis,99.00,21.0,2016-01-31,Serious Organised Crime DNA test.
+Services,./cleveland.csv,Credit report or search,,,,"The force does not currently pay for credit card checks, with costs subsumed into strategic contract service provision. The provider uses a service not charged back to the force."
+Services,./cleveland.csv,Temporary staff administrator role,9.46,666.0,2015-04-10,"£350 for 37 hours per week, for 9 weeks. Legal assistant post."
+Services,./cleveland.csv,one-day car hire,18.00,1.0,2016-02-08,
+Services,./cleveland.csv,30-day car hire,13.85,31.0,2016-01-13,
+Services,./cleveland.csv,Ream of 500 sheets of white paper,2.03,100.0,2016-02-11,Purchase in boxes of 5 reams (20 boxes purchased).
+Services,./cleveland.csv,Telephone interpreting inc. recording services (per minute),0.68,1335.0,2016-02-08,
+Services,./cleveland.csv,Face-to-face interpreting for 4 hours (half-day),112.00,150.25,2016-01-19,"Joint collaboration with Northumbria, Cleveland and Durham forces."
+Services,./cleveland.csv,Standard office cleaning (force average per m2 per year),10.98,19774.0,2016-02-17,
+Services,./cleveland.csv,"Gas supply to force headquarters (in £, based on cost in p per kWh)",0.027,417685.0,2016-01-31,
+Services,./cleveland.csv,Laptop purchase,375.00,26.0,2015-01-20,HP 455 BG AMD A6 Pro 7050B
+Services,./cleveland.csv,Desktop purchase,325.00,2.0,2015-08-20,HP Elite desk 705 G1 small form factor PC.
+Services,./cleveland.csv,"PC monitor - 19"" or smaller (inc. cables)",104.00,20.0,2016-01-06,Square aspect; adjustable height.
+Services,./cleveland.csv,"PC monitor - 21"" or wider (inc. cables)",,,,The force does not purchase monitors of this size.
+Services,./cleveland.csv,Telephone call charges (per minute),0.005,413580.0,2015-04-01,Contract was put in place in 2015 and the volume is based on anticipated annual volume from previous years.
